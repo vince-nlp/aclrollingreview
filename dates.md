@@ -27,7 +27,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [MWE 2023](https://multiword.org/mwe2023/) | December 15th, 2022 | March 6th, 2023 |
 | [SICon 2023](https://sites.google.com/view/sicon-2023/home) | February 15th, 2023 | April 24, 2023 |
 | [NEJLT volume 9 issue 1](https://www.nejlt.org/) | February 15th, 2023 | May 2nd, 2023 |
-| [INLG 2023] | April 15th, 2023 | June 12, 2023 |
+| INLG 2023 | April 15th, 2023 | June 12, 2023 |
 
 
 ## Past Deadlines
