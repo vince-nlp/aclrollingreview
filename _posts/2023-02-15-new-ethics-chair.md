@@ -1,0 +1,1 @@
+We’re delighted to share the news that Vinodkumar Prabhakaran is joining the ACL RR team as Ethics Chair. Vinod is a senior research scientist at Google's Responsible AI org, working on issues at the intersection of AI and society.
