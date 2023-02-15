@@ -16,7 +16,7 @@ Relevant topics for ARR include, but are not limited to, the following areas (in
 * Computational Social Science and Cultural Analytics
 * Dialogue and Interactive Systems
 * Discourse and Pragmatics
-* Efficient Methods for NLP
+* Efficient/low-resource methods in NLP
 * Ethics and NLP
 * Generation
 * Information Extraction
@@ -25,7 +25,8 @@ Relevant topics for ARR include, but are not limited to, the following areas (in
 * Language Grounding to Vision, Robotics and Beyond
 * Linguistic theories, Cognitive Modeling and Psycholinguistics
 * Machine Learning for NLP
-* Machine Translation and Multilinguality
+* Machine Translation
+* Multilinguality and Language Diversity
 * NLP Applications
 * Phonology, Morphology and Word Segmentation
 * Question Answering
