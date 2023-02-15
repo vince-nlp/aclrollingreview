@@ -58,9 +58,9 @@ Contact: `support at aclrollingreview.org`
 
 Contact: `mentorship@aclrollingreview.org`
 
-## Ethics Senior Action Editor
+## Ethics Chair
 
-- Dirk Hovy, Bocconi University
+- Vinodkumar Prabhakaran, Google
 
 ## Action Editors
 
