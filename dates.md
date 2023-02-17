@@ -6,7 +6,9 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-ARR deadlines happen __every 2 months__, on the following dates: 10/15, 12/15, 2/15. In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](https://aclrollingreview.org/six-week-cycles/), as of October 2022, we've moved to [every 2 months](https://aclrollingreview.org/key-changes-in-the-october-cycle/).
+ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
+
+[^1]: In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](https://aclrollingreview.org/six-week-cycles/). As of October 2022, we've moved to [every 2 months](https://aclrollingreview.org/key-changes-in-the-october-cycle/).
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
