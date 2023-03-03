@@ -18,7 +18,6 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 - Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
-- Sebastian Riedel, Facebook AI and University College London
 - Thamar Solorio, Bloomberg LP and University of Houston
 - Viviane Moreira, Universidade Federal do Rio Grande do Sul
 
@@ -41,11 +40,9 @@ Contact: `editors at aclrollingreview.org`
 
 Contact: `tech at aclrollingreview.org`
 
-## Communications Team
+## Communications/Support Team
 
-- Stephen Mayhew, Duolingo (Communications Team Chair)
-- Shubhra Kanti Karmaker (Santu), Auburn University
-- Graham Neubig, Carnegie Mellon University
+- Shubhra Kanti Karmaker (Santu), Auburn University (Communications Team Chair)
 - Zeerak Talat, Digital Democracies Institute, Simon Fraser University
 
 Contact: `support at aclrollingreview.org`
@@ -516,3 +513,8 @@ ZHICHENG LIANG, Zahra Sarabi, Zaid Sheikh, Zaiqiao Meng, Zaixiang Zheng, Zara Ha
 - Pascale Fung, Hong Kong University of Science & Technology
 - Preslav Nakov, Mohamed Bin Zayed University of Artificial Intelligence
 - Smaranda Muresan, Columbia University
+- Sebastian Riedel, Facebook AI and University College London
+
+## Past Contributors to ACL Rolling Review Initiative
+- Graham Neubig, Carnegie Mellon University as the CTO
+- Stephen Mayhew, Duolingo as Communication Chair
