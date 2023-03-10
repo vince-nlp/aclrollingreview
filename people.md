@@ -29,13 +29,10 @@ Contact: `editors at aclrollingreview.org`
 
 ## Technical Staff
 
-- Graham Neubig, Carnegie Mellon University (Chief Technical Officer)
-- Jonathan K. Kummerfeld, University of Sydney (Co-CTO)
+- Jonathan K. Kummerfeld, University of Sydney (Chief Technical Officer)
 - Nils Dycke, TU Darmstadt
-- Pengfei Liu, Carnegie Mellon University
 - Yoshitomo Matsubara, Amazon Alexa AI
 - Dhruv Naik, Carnegie Mellon University
-- Sebastin Santy, University of Washington
 - Amanda Stent, Colby College
 
 Contact: `tech at aclrollingreview.org`
@@ -516,5 +513,8 @@ ZHICHENG LIANG, Zahra Sarabi, Zaid Sheikh, Zaiqiao Meng, Zaixiang Zheng, Zara Ha
 - Sebastian Riedel, Facebook AI and University College London
 
 ## Past Contributors to ACL Rolling Review Initiative
-- Graham Neubig, Carnegie Mellon University as the CTO
-- Stephen Mayhew, Duolingo as Communication Chair
+- Graham Neubig, Carnegie Mellon University (Chief Technical Officer, 2021-2023)
+- Pengfei Liu, Carnegie Mellon University (Tech Team, 2021-2023)
+- Sebastin Santy, University of Washington (Tech Team, 2021-2023)
+- Stephen Mayhew, Duolingo (Chief Communication Officer, 2021-2023)
+
