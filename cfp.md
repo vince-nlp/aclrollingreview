@@ -135,6 +135,9 @@ The consideration of the ethical impact of our research, use of data, and potent
 
 We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
 
+### Limitations
+We encourage authors to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit.
+
 ### Withdrawal Policy
 
 Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle, so withdrawing after this time requires contacting the action editors. 
