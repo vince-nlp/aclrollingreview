@@ -9,6 +9,7 @@ permalink: /people
 If you want general support regarding ARR, please contact `support at aclrollingreview.org`
 
 ## ACL Rolling Review Board
+
 - Julia Hockenmaier, University of Illinois at Urbana-Champaign, USA
 - Yusuke Miyao, The University of Tokyo, Japan
 - Smaranda Muresan, Columbia University, USA
@@ -16,6 +17,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 ## Editors in Chief
 
+- Jun Suzuki, Tohoku University
 - Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
 - Thamar Solorio, Bloomberg LP and University of Houston
@@ -50,11 +52,49 @@ Contact: `support at aclrollingreview.org`
 - Sebastian Riedel, Facebook AI and University College London
 - Anna Rogers, University of Copenhagen
 
-Contact: `mentorship@aclrollingreview.org`
+Contact: `mentorship at aclrollingreview.org`
 
 ## Ethics Chair
 
 - Vinodkumar Prabhakaran, Google
+
+## Senior Action Editors
+
+- Angela Fan, Facebook
+- Boyang Li, Nanyang Technological University
+- Chris Brew, Lexis Nexis
+- Colin Cherry, Google
+- Daniel Preotiuc-Pietro, Bloomberg
+- David Vilares, Universidade da Coruña
+- Dieuwke Hupkes, Facebook
+- Dipanjan Das, Google
+- Ekaterina Shutova, University of Amsterdam
+- Emily Prud'hommeaux, Boston College
+- Emma Strubell, Carnegie Mellon University
+- GULSEN ERYIGIT, Istanbul Technical University
+- Hannaneh Hajishirzi, University of Washington
+- Hugo Jair Escalante, Instituto Nacional de Astrofísica, Óptica y Electrónica
+- Junyi Jessy Li, University of Texas, Austin
+- Katrin Erk, University of Texas, Austin
+- Marianna Apidianaki, University of Pennsylvania
+- Mohit Bansal, University of North Carolina at Chapel Hill
+- Pierre Lison, Norwegian Computing Center
+- Qipeng Guo, Amazon
+- Rodrigo Agerri, University of the Basque Country
+- Ruihong Huang, Texas A&M University
+- Sachindra Joshi, International Business Machines
+- Saif M. Mohammad, National Research Council Canada
+- Shinji Watanabe, Carnegie Mellon University
+- Steven Bird, Charles Darwin University
+- Sumit Bhatia, Adobe Systems
+- Tushar Khot, Allen Institute for Artificial Intelligence
+- Wenpeng Yin, Pennsylvania State University
+- Xuanjing Huang, Fudan University
+- Yang Feng, Chinese Academy of Sciences
+- Yansong Feng, Peking University
+- Yonatan Bisk, Carnegie Mellon University
+- Yuji Matsumoto, RIKEN
+- Zhiyuan Liu, Tsinghua University
 
 ## Action Editors
 
