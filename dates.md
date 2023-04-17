@@ -36,7 +36,7 @@ Current publication venues participating in ARR are listed below. If you represe
 - [EMNLP 2021](https://2021.emnlp.org/)
 - [INLG 2021](https://inlg2021.github.io/pages/calls.html)
 - [BlackboxNLP 2021](https://blackboxnlp.github.io/)
-- [CRAC 2021](https://sites.google.com/view/crac2021/)| past
+- [CRAC 2021](https://sites.google.com/view/crac2021/)
 - [Eval4NLP 2021](https://eval4nlp.github.io/)
 - [FEVER 2021](https://fever.ai/workshop.html)
 - [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0)
