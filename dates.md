@@ -23,56 +23,54 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
-| [NLLP 2022](https://nllpw.org/) | past | October 15, 2022 |
-| [EACL 2023](https://2023.eacl.org/) | October 15th, 2022 | January 8th, 2023 |
-| [ACL 2023](https://2023.aclweb.org/calls/main_conference/) | December 15th, 2022 | March 17, 2023 |
-| [MWE 2023](https://multiword.org/mwe2023/) | December 15th, 2022 | March 6th, 2023 |
 | [SICon 2023](https://sites.google.com/view/sicon-2023/home) | February 15th, 2023 | April 24, 2023 |
 | [NEJLT volume 9 (1)](https://www.nejlt.org/) | February 15th, 2023 | May 2nd, 2023 |
 | [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
 | [LAW 2023](https://sigann.github.io/LAW-XVII-2023) | February 15th, 2023 | May 10th, 2023 |
-| INLG 2023 | April 15th, 2023 | June 15, 2023 |
+| [INLG 2023](https://inlg2023.github.io/) | April 15th, 2023 | June 15, 2023 |
 | [SIGDIAL 2023](https://2023.sigdial.org/) | April 15th, 2023 | June 19th, 2023 |
 
 
-## Past Deadlines
+## Past Venues that Accepted ARR Submissions
 
-| Venue | Commitment Date |
-|---------------------|------------|
-| [EMNLP 2021](https://2021.emnlp.org/) | past |
-| [INLG 2021](https://inlg2021.github.io/pages/calls.html) | past |
-| [BlackboxNLP 2021](https://blackboxnlp.github.io/)  | past |
-| [CRAC 2021](https://sites.google.com/view/crac2021/)| past | 
-| [Eval4NLP 2021](https://eval4nlp.github.io/)  | past |
-| [FEVER 2021](https://fever.ai/workshop.html) | past |
-| [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0) | past |
-| [MRQA 2021](https://mrqa.github.io/) | past |
-| [NLLP 2021](https://nllpw.org/) | past |
-| [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021) | past |
-| [WMT 2021](http://statmt.org/wmt21/) | past |
-| [NLP Insights 2021](https://insights-workshop.github.io/) | past |
-| [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/) | past | 
-| [ACL 2022](https://www.2022.aclweb.org/) | past |
-| [ComputeEL-5](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/ComputEL) | past |
-| [NAACL 2022](https://2022.naacl.org/) | past |
-| [MML 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/MML) | past |
-| [WIT 2022](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/) | past |
-| [NLP-Power 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power) | past |
-| [Repl4NLP 2022](https://sites.google.com/view/repl4nlp2022/) | past |
-| [CSSR 2022](https://csrr-workshop.github.io/) | past |
-| [Spa-NLP 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP) | past |
-| [FEVER 2022](https://fever.ai/) | past |
-| [StarSEM2022](https://sites.google.com/view/starsem2022/) | past | 
-| [Clinical NLP 2022](https://clinical-nlp.github.io/2022/) | past |
-| [INLG 2022](https://inlgmeeting.github.io) | past |
-| [NLG4Health](https://nlg4health.uvt.nl/) | past |
-| [SIGDIAL 2022](https://2022.sigdial.org/) | |
-| [TRAC 2022](https://sites.google.com/view/trac2022/) | past | 
-| [CoNLL 2022](https://conll.org/) | past |
-| [AACL-IJCNLP 2022](https://www.aacl2022.org/) | past |
-| [CASE 2022](https://emw.ku.edu.tr/case-2022/) | past |
-| [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/) | past |
-| [BlackBoxNLP 2022](https://blackboxnlp.github.io/) | past |
-| [NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact/) | past |
-| [SereTOD 2022](http://seretod.org/) | past |
-| [MMNLU 2022](https://mmnlu-22.github.io/) | past |
+- [EMNLP 2021](https://2021.emnlp.org/)
+- [INLG 2021](https://inlg2021.github.io/pages/calls.html)
+- [BlackboxNLP 2021](https://blackboxnlp.github.io/)
+- [CRAC 2021](https://sites.google.com/view/crac2021/)| past
+- [Eval4NLP 2021](https://eval4nlp.github.io/)
+- [FEVER 2021](https://fever.ai/workshop.html)
+- [MRL 2021](https://sites.google.com/view/mrl-2021/home?authuser=0)
+- [MRQA 2021](https://mrqa.github.io/)
+- [NLLP 2021](https://nllpw.org/)
+- [SustaiNLP 2021](https://sites.google.com/view/sustainlp2021)
+- [WMT 2021](http://statmt.org/wmt21/)
+- [NLP Insights 2021](https://insights-workshop.github.io/)
+- [NILLI 2021](https://www.cs.mcgill.ca/~pparth2/nilli_workshop/)
+- [ACL 2022](https://www.2022.aclweb.org/)
+- [ComputeEL-5](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/ComputEL)
+- [NAACL 2022](https://2022.naacl.org/)
+- [MML 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/MML)
+- [WIT 2022](https://megagon.ai/2nd-workshop-on-deriving-insights-from-user-generated-text-wit/)
+- [NLP-Power 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)
+- [Repl4NLP 2022](https://sites.google.com/view/repl4nlp2022/)
+- [CSSR 2022](https://csrr-workshop.github.io/)
+- [Spa-NLP 2022](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/Spa-NLP)
+- [FEVER 2022](https://fever.ai/)
+- [StarSEM2022](https://sites.google.com/view/starsem2022/)
+- [Clinical NLP 2022](https://clinical-nlp.github.io/2022/)
+- [INLG 2022](https://inlgmeeting.github.io)
+- [NLG4Health](https://nlg4health.uvt.nl/)
+- [SIGDIAL 2022](https://2022.sigdial.org/)
+- [TRAC 2022](https://sites.google.com/view/trac2022/)
+- [CoNLL 2022](https://conll.org/)
+- [AACL-IJCNLP 2022](https://www.aacl2022.org/)
+- [CASE 2022](https://emw.ku.edu.tr/case-2022/)
+- [UM-IoS 2022](https://induction-of-structure.github.io/emnlp2022/)
+- [BlackBoxNLP 2022](https://blackboxnlp.github.io/)
+- [NLP4PI 2022](https://sites.google.com/view/nlp4positiveimpact/)
+- [SereTOD 2022](http://seretod.org/)
+- [MMNLU 2022](https://mmnlu-22.github.io/)
+- [NLLP 2022](https://nllpw.org/)
+- [EACL 2023](https://2023.eacl.org/)
+- [ACL 2023](https://2023.aclweb.org/calls/main_conference/)
+- [MWE 2023](https://multiword.org/mwe2023/)
