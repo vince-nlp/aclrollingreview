@@ -270,7 +270,7 @@ Contact: `mentorship at aclrollingreview.org`
 - Loic Barrault, University of Le Mans and University of Sheffield
 - Longyue Wang
 - Lori Levin, Carnegie Mellon University
-- Luca Soldaini, Amazon
+- Luca Soldaini, Allen Institute for Artificial Intelligence
 - Luciana Benotti, University of Cordoba
 - Luheng He, Google
 - Luis Chiruzzo, Facultad de Ingeniería - Universidad de la República - Uruguay
