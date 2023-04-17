@@ -6,7 +6,9 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-ARR deadlines happen __every 2 months__, on the following dates: 10/15, 12/15, 2/15. In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](https://aclrollingreview.org/six-week-cycles/), as of October 2022, we've moved to [every 2 months](https://aclrollingreview.org/key-changes-in-the-october-cycle/).
+ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
+
+[^1]: In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](https://aclrollingreview.org/six-week-cycles/). As of October 2022, we've moved to [every 2 months](https://aclrollingreview.org/key-changes-in-the-october-cycle/).
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
@@ -26,8 +28,11 @@ Current publication venues participating in ARR are listed below. If you represe
 | [ACL 2023](https://2023.aclweb.org/calls/main_conference/) | December 15th, 2022 | March 17, 2023 |
 | [MWE 2023](https://multiword.org/mwe2023/) | December 15th, 2022 | March 6th, 2023 |
 | [SICon 2023](https://sites.google.com/view/sicon-2023/home) | February 15th, 2023 | April 24, 2023 |
-| [NEJLT volume 9 issue 1](https://www.nejlt.org/) | February 15th, 2023 | May 2nd, 2023 |
+| [NEJLT volume 9 (1)](https://www.nejlt.org/) | February 15th, 2023 | May 2nd, 2023 |
+| [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
+| [LAW 2023](https://sigann.github.io/LAW-XVII-2023) | February 15th, 2023 | May 10th, 2023 |
 | INLG 2023 | April 15th, 2023 | June 15, 2023 |
+| [SIGDIAL 2023](https://2023.sigdial.org/) | April 15th, 2023 | June 19th, 2023 |
 
 
 ## Past Deadlines

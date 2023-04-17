@@ -9,6 +9,7 @@ permalink: /people
 If you want general support regarding ARR, please contact `support at aclrollingreview.org`
 
 ## ACL Rolling Review Board
+
 - Julia Hockenmaier, University of Illinois at Urbana-Champaign, USA
 - Yusuke Miyao, The University of Tokyo, Japan
 - Smaranda Muresan, Columbia University, USA
@@ -16,9 +17,9 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 ## Editors in Chief
 
+- Jun Suzuki, Tohoku University
 - Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
-- Sebastian Riedel, Facebook AI and University College London
 - Thamar Solorio, Bloomberg LP and University of Houston
 - Viviane Moreira, Universidade Federal do Rio Grande do Sul
 
@@ -30,22 +31,17 @@ Contact: `editors at aclrollingreview.org`
 
 ## Technical Staff
 
-- Graham Neubig, Carnegie Mellon University (Chief Technical Officer)
-- Jonathan K. Kummerfeld, University of Sydney (Co-CTO)
+- Jonathan K. Kummerfeld, University of Sydney (Chief Technical Officer)
 - Nils Dycke, TU Darmstadt
-- Pengfei Liu, Carnegie Mellon University
 - Yoshitomo Matsubara, Amazon Alexa AI
 - Dhruv Naik, Carnegie Mellon University
-- Sebastin Santy, University of Washington
 - Amanda Stent, Colby College
 
 Contact: `tech at aclrollingreview.org`
 
-## Communications Team
+## Communications/Support Team
 
-- Stephen Mayhew, Duolingo (Communications Team Chair)
-- Shubhra Kanti Karmaker (Santu), Auburn University
-- Graham Neubig, Carnegie Mellon University
+- Shubhra Kanti Karmaker (Santu), Auburn University (Communications Team Chair)
 - Zeerak Talat, Digital Democracies Institute, Simon Fraser University
 
 Contact: `support at aclrollingreview.org`
@@ -56,11 +52,49 @@ Contact: `support at aclrollingreview.org`
 - Sebastian Riedel, Facebook AI and University College London
 - Anna Rogers, University of Copenhagen
 
-Contact: `mentorship@aclrollingreview.org`
+Contact: `mentorship at aclrollingreview.org`
 
-## Ethics Senior Action Editor
+## Ethics Chair
 
-- Dirk Hovy, Bocconi University
+- Vinodkumar Prabhakaran, Google
+
+## Senior Action Editors
+
+- Angela Fan, Facebook
+- Boyang Li, Nanyang Technological University
+- Chris Brew, Lexis Nexis
+- Colin Cherry, Google
+- Daniel Preotiuc-Pietro, Bloomberg
+- David Vilares, Universidade da Coruña
+- Dieuwke Hupkes, Facebook
+- Dipanjan Das, Google
+- Ekaterina Shutova, University of Amsterdam
+- Emily Prud'hommeaux, Boston College
+- Emma Strubell, Carnegie Mellon University
+- GULSEN ERYIGIT, Istanbul Technical University
+- Hannaneh Hajishirzi, University of Washington
+- Hugo Jair Escalante, Instituto Nacional de Astrofísica, Óptica y Electrónica
+- Junyi Jessy Li, University of Texas, Austin
+- Katrin Erk, University of Texas, Austin
+- Marianna Apidianaki, University of Pennsylvania
+- Mohit Bansal, University of North Carolina at Chapel Hill
+- Pierre Lison, Norwegian Computing Center
+- Qipeng Guo, Amazon
+- Rodrigo Agerri, University of the Basque Country
+- Ruihong Huang, Texas A&M University
+- Sachindra Joshi, International Business Machines
+- Saif M. Mohammad, National Research Council Canada
+- Shinji Watanabe, Carnegie Mellon University
+- Steven Bird, Charles Darwin University
+- Sumit Bhatia, Adobe Systems
+- Tushar Khot, Allen Institute for Artificial Intelligence
+- Wenpeng Yin, Pennsylvania State University
+- Xuanjing Huang, Fudan University
+- Yang Feng, Chinese Academy of Sciences
+- Yansong Feng, Peking University
+- Yonatan Bisk, Carnegie Mellon University
+- Yuji Matsumoto, RIKEN
+- Zhiyuan Liu, Tsinghua University
 
 ## Action Editors
 
@@ -236,7 +270,7 @@ Contact: `mentorship@aclrollingreview.org`
 - Loic Barrault, University of Le Mans and University of Sheffield
 - Longyue Wang
 - Lori Levin, Carnegie Mellon University
-- Luca Soldaini, Amazon
+- Luca Soldaini, Allen Institute for Artificial Intelligence
 - Luciana Benotti, University of Cordoba
 - Luheng He, Google
 - Luis Chiruzzo, Facultad de Ingeniería - Universidad de la República - Uruguay
@@ -516,3 +550,11 @@ ZHICHENG LIANG, Zahra Sarabi, Zaid Sheikh, Zaiqiao Meng, Zaixiang Zheng, Zara Ha
 - Pascale Fung, Hong Kong University of Science & Technology
 - Preslav Nakov, Mohamed Bin Zayed University of Artificial Intelligence
 - Smaranda Muresan, Columbia University
+- Sebastian Riedel, Facebook AI and University College London
+
+## Past Contributors to ACL Rolling Review Initiative
+- Graham Neubig, Carnegie Mellon University (Chief Technical Officer, 2021-2023)
+- Pengfei Liu, Carnegie Mellon University (Tech Team, 2021-2023)
+- Sebastin Santy, University of Washington (Tech Team, 2021-2023)
+- Stephen Mayhew, Duolingo (Chief Communication Officer, 2021-2023)
+
