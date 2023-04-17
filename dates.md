@@ -26,8 +26,10 @@ Current publication venues participating in ARR are listed below. If you represe
 | [ACL 2023](https://2023.aclweb.org/calls/main_conference/) | December 15th, 2022 | March 17, 2023 |
 | [MWE 2023](https://multiword.org/mwe2023/) | December 15th, 2022 | March 6th, 2023 |
 | [SICon 2023](https://sites.google.com/view/sicon-2023/home) | February 15th, 2023 | April 24, 2023 |
-| [NEJLT volume 9 issue 1](https://www.nejlt.org/) | February 15th, 2023 | May 2nd, 2023 |
+| [NEJLT volume 9 (1)](https://www.nejlt.org/) | February 15th, 2023 | May 2nd, 2023 |
+| [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
 | [LAW 2023](https://sigann.github.io/LAW-XVII-2023) | February 15th, 2023 | May 10th, 2023 |
+| [SIGDIAL 2023](https://2023.sigdial.org/) | April 15th, 2023 | June 19th, 2023 |
 
 
 ## Past Deadlines
