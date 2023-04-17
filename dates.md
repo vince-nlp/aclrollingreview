@@ -31,6 +31,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [NEJLT volume 9 (1)](https://www.nejlt.org/) | February 15th, 2023 | May 2nd, 2023 |
 | [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
 | [LAW 2023](https://sigann.github.io/LAW-XVII-2023) | February 15th, 2023 | May 10th, 2023 |
+| INLG 2023 | April 15th, 2023 | June 15, 2023 |
 | [SIGDIAL 2023](https://2023.sigdial.org/) | April 15th, 2023 | June 19th, 2023 |
 
 
