@@ -13,14 +13,14 @@ If you want general support regarding ARR, please contact `support at aclrolling
 - Julia Hockenmaier, University of Illinois at Urbana-Champaign, USA
 - Yusuke Miyao, The University of Tokyo, Japan
 - Smaranda Muresan, Columbia University, USA
-- Thamar Solorio, University of Houston, USA
+- Thamar Solorio, University of Houston and MBZUAI
 
 ## Editors in Chief
 
 - Jun Suzuki, Tohoku University
 - Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
-- Thamar Solorio, Bloomberg LP and University of Houston
+- Thamar Solorio, University of Houston and MBZUAI
 - Viviane Moreira, Universidade Federal do Rio Grande do Sul
 
 Contact: `editors at aclrollingreview.org`
