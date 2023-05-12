@@ -43,6 +43,7 @@ Contact: `tech at aclrollingreview.org`
 
 - Shubhra Kanti Karmaker (Santu), Auburn University (Communications Team Chair)
 - Zeerak Talat, Digital Democracies Institute, Simon Fraser University
+- Mousumi Akter, Auburn University
 
 Contact: `support at aclrollingreview.org`
 
