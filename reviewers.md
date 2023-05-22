@@ -135,11 +135,6 @@ This is a known issue as the link (as opposed to the link *text*) uses %-encodin
 **Q**: I got an invitation to review but the title of the message and the indicated deadline seem outdated. Is that correct? or did this message reach me too late?<br>
 **A**: It means you are invited as an emergency reviewer and the deadline does not apply to you. In general, our guidance is to take the time you need to give a high-quality review, while keeping in mind that authors are waiting for the reviews to come back. Unfortunately, OpenReview sends the same original invite and does not allow AEs to modify the message.
 
-
-
-
-
-
-
-
-
+**Q**: What is the review report license agreement about? <br>
+**A**: 
+At ARR you can donate your peer review reports to an open public dataset of peer reviews and paper drafts (see our [blogpost on the data collection](/datacollection) for all details). You can contribute your data to the corpus via signing the review report license transfer agreement, which you can find in your [task log on OpenReview](https://openreview.net/tasks). You have to make this decision for each cycle and you donate all review reports of a cycle in bulk.
