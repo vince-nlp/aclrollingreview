@@ -81,5 +81,9 @@ See the questions below for more information.
 ## Reviews for Data
 
 **Q**: The submission form has a question asking if I agree for the anonymized metadata associated with my submission to be included in a publicly available dataset. What is this?<br>
-**A**: The ACL Exec has approved the creation of [an opt-in corpus of submissions and reviews](https://aclweb.org/adminwiki/index.php?title=Review_Data_Collection_at_*ACL). This corpus is being assembled by a group separate from the ARR editorial team. The review meta-data associated with your submission, i.e. scores, anonymous reviewer identifiers etc., will only be included if both you and the reviewers agree. Submission and review texts are not included in this consent and are handled separately. 
+**A**: The ACL Exec has approved the creation of [an opt-in corpus of submissions and reviews](https://aclweb.org/adminwiki/index.php?title=Review_Data_Collection_at_*ACL). This corpus is being assembled by a group separate from the ARR editorial team. The review meta-data associated with your submission, i.e. scores, anonymous reviewer identifiers etc., will only be included if both you and the reviewers agree. Submission and review texts are not included in this consent and are handled separately. Note: Currently, this data is not processed or collected.
+
+
+**Q**: How can I donate my paper draft with associated review reports?
+At ARR you can donate your peer review reports to an open public dataset of peer reviews and paper drafts (see our [blogpost on the data collection](/datacollection) for all details). As an author, you will be contacted by email including detailed instructions after your paper got accepted at a *ACL conference. In the forum of your accepted paper, you can find a new button “License Agreement”; after clicking this button, you decide on which data to contribute and sign the license agreement digitally. Only one of the authors has to do this on behalf of all co-authors.
 
