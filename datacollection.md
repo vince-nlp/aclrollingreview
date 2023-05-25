@@ -149,6 +149,5 @@ For this blogpost we thank the Editors in Chief (Jun Suzuki, Lilja Øvrelid, Mau
 
 ## Resources  
 
-* [Yes-Yes-Yes: Proactive Data Collection for ACL Rolling Review and Beyond](https://aclanthology.org/2022.findings-emnlp.23) (Dycke et al., Findings 2022)
-* [NLPeer: A Unified Resource for the Computational Study of Peer Review](https://arxiv.org/pdf/2211.06651.pdf) (Dycke et al., arxiv 2022)
-
+* Dycke, Nils, Ilia Kuznetsov, and Iryna Gurevych. "[Yes-yes-yes: Proactive data collection for ACL rolling review and beyond.](https://aclanthology.org/2022.findings-emnlp.23)" Findings of the Association for Computational Linguistics: Empirical Methods in Natural Language Processing (EMNLP) 2022. 2022.
+* Dycke, Nils, Ilia Kuznetsov, and Iryna Gurevych. "[NLPEER: A Unified Resource for the Computational Study of Peer Review.](https://arxiv.org/pdf/2211.06651.pdf)" to appear at the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). 2023.
