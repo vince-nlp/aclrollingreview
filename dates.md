@@ -24,7 +24,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
 | [LAW 2023](https://sigann.github.io/LAW-XVII-2023) | February 15th, 2023 | May 10th, 2023 |
-| [INLG 2023](https://inlg2023.github.io/) | April 15th, 2023 | June 15th, 2023 |
+| [INLG 2023](https://inlg2023.github.io/) | April 15th, 2023 | June ~~15th~~ 19th, 2023 |
 | [SIGDIAL 2023](https://2023.sigdial.org/) | April 15th, 2023 | June 19th, 2023 |
 | [EMNLP 2023](https://2023.emnlp.org/) | June 15th, 2023 | August 22nd, 2023 |
 | [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/) | June 15th, 2023 | August 15th, 2023 |
