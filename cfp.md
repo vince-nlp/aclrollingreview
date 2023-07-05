@@ -7,7 +7,7 @@ permalink: /cfp
 ACL Rolling Review (ARR) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve the efficiency and turnaround of ACL reviewing while keeping the diversity (topical, geographic and otherwise) and editorial freedom that we value about our current organization of the reviewing process at ACL venues. ARR will use Open Review as its platform (but reviews will not be open in ARR). The reviewing and acceptance of papers for publication will be done in two steps:
 
 - Step 1 – Centralized Rolling Review: Authors submit papers to a unified review pool with deadlines every two months. Review is handled by an action editor, and revision and resubmission of papers is allowed.
-- Step 2 – Submission to Publication Venue: A publication venue is a conference or workshop that participates in ARR. When an opportunity to submit to a publication venue comes around, authors may submit already reviewed papers with reviews to the publication venue, through the OpenReview website. Program chairs (possibly with the help of senior area chairs) will then accept a subset of submitted papers for presentation.
+- Step 2 – Submission to Publication Venue: A publication venue is a conference or workshop that participates in ARR. When an opportunity to submit to a publication venue comes around, authors may submit papers with a fully completed review (including meta reviews). Program chairs decide the process for submitting ARR reviewed papers, as well as the criteria and process for deciding to accept a subset of these submissions into their event.
 
 ## SUBMISSIONS
 
@@ -44,7 +44,7 @@ In addition, ARR welcomes submissions related to special Themes proposed by part
 
 ### Long Papers
 
-Long papers must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of up to eight (8) pages of content, plus up to one page for ethical considerations (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
+Long papers must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of up to eight (8) pages of content, plus up to one page for ethical considerations and/or limitations (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
 
 ### Short Papers
 
@@ -62,7 +62,7 @@ ACL has[ policies for submission, review and citation](https://www.aclweb.org/ad
 
 If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one-step process in OpenReview. Note, however, that if authors withdraw more than 48 hours after the submission deadline, they can’t resubmit until the 2nd following ARR round. Withdrawing while the reviewing process has been launched is a waste of time and effort of many people. Once a submission is withdrawn, it is removed from that cycle’s reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
 
-Please notice that anonymity should be maintained during the entire revision process - including the author response period. It is the author’s responsibility to ensure that anonymity is kept. Submissions that violate this requirement will be desk rejected.
+Please note that anonymity should be maintained during the entire revision process - until meta reviews have been posted. It is the author’s responsibility to ensure that anonymity is kept. Submissions that violate this requirement will be desk rejected.
 
 Further info:
 
@@ -88,7 +88,7 @@ Please notice that once the paper has been submitted, no changes to the list of 
 
 ### Citation and Comparison
 
-Authors are expected to cite all refereed publications relevant to theirsubmission but may be excused for not knowing about all unpublished work (especially work that has been recently posted and/or is not widely cited).
+Authors are expected to cite all refereed publications relevant to their submission but may be excused for not knowing about all unpublished work (especially work that has been recently posted and/or is not widely cited).
 
 In cases where a preprint has been superseded by a refereed publication, the refereed publication should be cited in addition to or instead of the preprint version.
 
@@ -110,7 +110,7 @@ Authors may resubmit to ACL Rolling Review.
 
 - When resubmitting, authors must link to the previous submission.
 - When resubmitting, authors should provide a response to the previous reviews.
-- Resubmissions must be modified versions of the original submission; the authors may not simply resubmit the exact same paper, nor may they submit a completely new paper as if it were a resubmission.
+- Resubmissions must be modified versions of the original submission that address issues raised by the reviewers and meta review; the authors may not simply resubmit the exact same paper, nor may they submit a completely new paper as if it were a resubmission. Resubmissions that ignore relevant feedback provided during the previous review round can be desk rejected by the EiC team.
 - If authors want to add an author as part of a resubmission, they may do so with justification; except in extremely rare circumstances, authors may not be removed.
 - Resubmitted papers will go back to the original reviewers and action editor, where possible, unless the authors request new reviewers.
 
@@ -120,9 +120,9 @@ Authors considering a resubmission should also refer to the withdrawal policy be
 
 Authors are required to honour the ethical code set out in the[ ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 
-The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a[ responsible NLP research checklist](https://aclrollingreview.org/responsibleNLPresearch), which authors should upload alongside their paper.
+The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a[ responsible NLP research checklist](https://aclrollingreview.org/responsibleNLPresearch), which authors must upload alongside their paper.
 
-We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
+We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work, or have failed to provide a responsible checklist. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
 
 ### Limitations
 
