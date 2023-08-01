@@ -6,7 +6,7 @@ permalink: /authors
 
 Quick links:
 * [Call For Papers](/cfp)
-* [Authors' Guide to OpenReview](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit#slide=id.p)
+* [Authors' Guide to OpenReview](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing)
 * [Responsible NLP Research Checklist](https://aclrollingreview.org/responsibleNLPresearch)
 * [Author Checklist](/authorchecklist)
   * [Submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
