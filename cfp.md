@@ -11,22 +11,24 @@ ACL Rolling Review (ARR) invites the submission of long and short papers on subs
 
 ## SUBMISSIONS
 
-Relevant topics for ARR include, but are not limited to, the following areas (in alphabetical order):
+All topics in Computational Linguistics / Natural Language Processing are covered by ARR.
+At submission, papers must select a topic area to assist with AE and reviewer matching.
+The current set of areas are (in alphabetical order):
 
 - Computational Social Science and Cultural Analytics
 - Dialogue and Interactive Systems
 - Discourse and Pragmatics
-- Efficient/low-resource methods in NLP
-- Ethics and NLP
+- Efficient/Low-Resource Methods for NLP
+- Ethics, Bias, and Fairness
 - Generation
 - Information Extraction
 - Information Retrieval and Text Mining
 - Interpretability and Analysis of Models for NLP
-- Language Grounding to Vision, Robotics and Beyond
 - Linguistic theories, Cognitive Modeling and Psycholinguistics
 - Machine Learning for NLP
 - Machine Translation
 - Multilinguality and Language Diversity
+- Multimodality and Language Grounding to Vision, Robotics and Beyond
 - NLP Applications
 - Phonology, Morphology and Word Segmentation
 - Question Answering
@@ -34,9 +36,9 @@ Relevant topics for ARR include, but are not limited to, the following areas (in
 - Semantics: Lexical
 - Semantics: Sentence-level Semantics, Textual Inference and Other areas
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
-- Speech and Multimodality
+- Speech recognition, text-to-speech and spoken language understanding
 - Summarization
-- Syntax: Tagging, Chunking, and Parsing
+- Syntax: Tagging, Chunking and Parsing
 
 In addition, ARR welcomes submissions related to special Themes proposed by participating publication venues.
 
