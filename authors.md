@@ -11,7 +11,7 @@ Quick links:
 * [Author Checklist](/authorchecklist)
   * [Submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
   * [Responsible NLP research template](https://aclrollingreview.org/Responsible%20NLP%20Research%20Checklist%20-%20Fillable%20form.zip)
-* [2022 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022)
+* [2023 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023)
 
 # Commitment Sites
 
