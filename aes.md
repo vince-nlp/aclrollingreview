@@ -4,6 +4,17 @@ title: "For Action Editors"
 permalink: /aes
 ---
 
+# TL;DR
+
+An action editor (AE) is a person who oversees a team of reviewers in reviewing the paper, and in the end provides a meta-review summarizing the review process. The main duties are
+
+* checking for violations of submission requirements
+* __selecting appropriate reviewers__ with the aid of heuristics (3 reviewers are algorithmically selected but may not be a great fit)
+* supervising reviewers
+* __writing a meta-review__ with clear recommendations for authors (regarding any important revisions) and conference program committees (regarding whether it could be accepted in its current form)
+
+AEs are grouped into topical areas. The AEs in an area are supervised by Senior Action Editors (SAEs).
+
 Quick Links:
 * [Action Editors' Guide to OpenReview](https://docs.google.com/presentation/d/1OynnI8TxlBcSt3J1YCJbxdLsMT91D2Hr1zVtorLkeao/edit#slide=id.p)
 * [Action Editor Tutorial](/aetutorial)
