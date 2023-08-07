@@ -20,6 +20,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 - Jun Suzuki, Tohoku University
 - Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
+- Vincent Ng, University of Texas at Dallas
 - Thamar Solorio, University of Houston and MBZUAI
 - Viviane Moreira, Universidade Federal do Rio Grande do Sul
 
