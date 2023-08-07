@@ -104,6 +104,8 @@ ARR precludes multiple submissions. ARR will not consider any paper that is unde
 
 For the sake of clarity, this policy also covers ARR itself; authors may not resubmit to ARR work that is already under review to ARR.
 
+Note that the commitment process is treated as being under review for a conference. That means that a paper that has been committed to a conference cannot be submitted to ARR until after the conference makes a decision or the paper is withdrawn from the conference.
+
 Submissions that violate these requirements will be desk rejected.
 
 ### Resubmission Policy
