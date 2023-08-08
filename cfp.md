@@ -7,7 +7,7 @@ permalink: /cfp
 ACL Rolling Review (ARR) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. The purpose of ARR is to improve the efficiency and turnaround of ACL reviewing while keeping the diversity (topical, geographic and otherwise) and editorial freedom that we value about our current organization of the reviewing process at ACL venues. ARR will use Open Review as its platform (but reviews will not be open in ARR). The reviewing and acceptance of papers for publication will be done in two steps:
 
 - Step 1 – Centralized Rolling Review: Authors submit papers to a unified review pool with deadlines every two months. Review is handled by an action editor, and revision and resubmission of papers is allowed.
-- Step 2 – Submission to Publication Venue: A publication venue is a conference or workshop that participates in ARR. When an opportunity to submit to a publication venue comes around, authors may submit papers with a fully completed review (including meta reviews). Program chairs decide the process for submitting ARR reviewed papers, as well as the criteria and process for deciding to accept a subset of these submissions into their event.
+- Step 2 – Commitment to Publication Venue: A publication venue is a conference or workshop that participates in ARR. When an opportunity to commit to a publication venue comes around, authors may submit papers with a fully completed review (including meta reviews). Program chairs decide the process for committing ARR reviewed papers, as well as the criteria and process for deciding to accept a subset of these submissions into their event.
 
 ## SUBMISSIONS
 
@@ -103,8 +103,6 @@ For more information, see the[ ACL Policies for Submission, Review, and Citation
 ARR precludes multiple submissions. ARR will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the ARR review period. This policy covers all journals and refereed and archival conferences and workshops without exception (e.g., TACL, Computational Linguistics, IJCAI, SIGIR, AAAI, ICASSP, ICML, NeurIPS, etc). In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere, without exception.
 
 For the sake of clarity, this policy also covers ARR itself; authors may not resubmit to ARR work that is already under review to ARR.
-
-Note that the commitment process is treated as being under review for a conference. That means that a paper that has been committed to a conference cannot be submitted to ARR until after the conference makes a decision or the paper is withdrawn from the conference.
 
 Submissions that violate these requirements will be desk rejected.
 
