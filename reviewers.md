@@ -106,8 +106,11 @@ Please inform the action editor in charge of your paper.
 
 ## Resubmissions
 
-**Q**: If I'm reviewing a resubmission (that I reviewed before) do I have to write a very different review?<br>
+**Q**: If I'm reviewing a resubmission that I reviewed before do I have to write a very different review?<br>
 **A**: No! You may choose to, and perhaps should, focus on whether and how the authors responded to the previous reviews. It’s very helpful if you can indicate that you read their response and say whether you feel weaknesses/revisions were addressed or not.
+
+**Q**: If I'm reviewing a resubmission that I did not review before, do I see the old reviews?</ br>
+**A**: The old reviews will not be accessible to you at first (new in August 2023). You should form your own opinion of the paper. After you submit your review you will gain access to the old reviews.
 
 ## Other Questions
 

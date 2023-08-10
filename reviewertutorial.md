@@ -305,9 +305,12 @@ When you see the reviews by the other reviewers, be aware that they may affect y
 
 ## Resubmissions 
 
-If after the review phase the authors decide to revise the manuscript rather than commit it to a publication venue, your action editor will ask you to reconsider the case. You will see the authors' response, typically listing the changes they made, and the new version of the paper. You will need to revise your review and scores.
+If the authors decide to resubmit their paper to another cycle of ARR they will have the choice to request the same or different reviewers.
+If they choose to keep their reviewers, you will see the authors' response, typically listing the changes they made, and the new version of the paper. You will need to reread the paper and comment on whether and how the authors responded to the previous reviews. It's very helpful if you can indicate that you read their response and say whether you feel weaknesses/revisions were addressed or not.
 
-It is because of this stage that it is of utmost importance that in the first review you are very clear about what kinds of improvements you want, and how much of a difference they would make. If the authors are asked to perform a lot of extra experiments, but you fundamentally dislike the paper to the extent that nothing they could do would considerably change your opinion, this is not a good use of everybody’s time and resources.
+It is because of this stage that it is of utmost importance that in the first review you are very clear about what kinds of improvements you want, and how much of a difference they would make. If the authors are asked to perform a lot of extra experiments, but you fundamentally dislike the paper to the extent that nothing they could do would considerably change your opinion, this is not a good use of everybody's time and resources.
+
+Note, if you are assigned to review a resubmission that you did not previously review then you will not initially see the reviews (new in August 2023). You should form your own opinion of the paper. After you submit your review you will gain access to the old reviews.
 
 ## Changelog 
 
