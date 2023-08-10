@@ -100,13 +100,14 @@ For more information, see the[ ACL Policies for Submission, Review, and Citation
 
 ### Multiple Submission Policy
 
-ARR precludes multiple submissions. ARR will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the ARR review period. This policy covers all journals and refereed and archival conferences and workshops without exception (e.g., TACL, Computational Linguistics, IJCAI, SIGIR, AAAI, ICASSP, ICML, NeurIPS, etc). In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere, without exception.
+There are several cases to consider:
 
-For the sake of clarity, this policy also covers ARR itself; authors may not resubmit to ARR work that is already under review to ARR.
+1. ARR + Other Venue: ARR precludes multiple submissions. ARR will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the ARR review period. This policy covers all journals and refereed and archival conferences and workshops without exception (e.g., TACL, Computational Linguistics, IJCAI, SIGIR, AAAI, ICASSP, ICML, NeurIPS, etc). In addition, we will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere, without exception.
+2.  ARR + Commitment: The commitment process is treated as being under review for a conference. That means (a) while in an active review cycle at ARR, a paper cannot be committed to a conference, and (b) between commitment to a conference and a decision or withdrawal, a paper cannot be submitted to ARR. For example, if you got reviews in the June 2023 cycle, you cannot both commit to EMNLP (August 22nd deadline) and submit a revised version to the August 2023 ARR cycle. Note that this is a change of policy relative to the early days of ARR, when this type of dual submission was permitted for ACL and NAACL 2022.
+3. Commitment + Commitment/Other Venue: Whether you can commit/submit to two venues simultaneously depends on the dual submission policies of those venues. Typically, it is not permitted.
+4. ARR + ARR: For the sake of clarity, this policy also covers ARR itself; authors may not resubmit to ARR work that is already under review to ARR. As of 2023, ARR does not have overlapping cycles, and so this is a moot point.
 
-The commitment process is treated as being under review for a conference. That means (a) while in an active review cycle at ARR, a paper cannot be committed to a conference, and (b) between commitment to a conference and a decision or withdrawal, a paper cannot be submitted to ARR. For example, if you got reviews in the June 2023 cycle, you cannot both commit to EMNLP (August 22nd deadline) and submit a revised version to the August 2023 ARR cycle. Note that this is a change of policy relative to the early days of ARR, when this type of dual submission was permitted for ACL and NAACL 2022.
-
-Submissions that violate these requirements will be desk rejected.
+Submissions that violate requirements 1, 2, or 4 will be desk rejected.
 
 ### Resubmission Policy
 
