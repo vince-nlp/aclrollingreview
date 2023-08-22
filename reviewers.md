@@ -54,6 +54,10 @@ In this case, please consult with the action editor in charge of your paper (see
 **A**: 
 Please fill out your [OpenReview profile](https://openreview.net/profile) with (1) a link to your DBLP profile and click "import papers from DBLP", and (2) a link to your Semantic Scholar profile. We import papers from these two sources, so having both filled in will give us the fullest view of your publication record for automatic paper assignment.
 
+**Q**: How are areas used in paper assignments?<br>
+**A**:
+All SAEs, AEs, and reviewers indicate which area(s) they are capable of reviewing for. At submission time, authors select one area for their paper. During assignment, we place a high weight on having a match between a paper's area and the area of everyone assigned to it. This means that almost all papers are assigned to reviewers, an AE, and an SAE who are knowledgeable in that area.
+
 **Q**: Does automatic review assignment check if the reviewer is an action editor?<br>
 **A**: 
 We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable.
