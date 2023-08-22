@@ -6,6 +6,17 @@ permalink: /dates
 
 ## Reviewing Schedule
 
+The schedule for 2023 is:
+
+| Cycle | Submission Date | Author Response | Cycle End |
+|---------------------|------------|------------|
+| February 2023 | Feb 15th | March 27th - 30th | Aptil 15th |
+| April 2023 | April 15th | May 27th - 30th | June 15th |
+| June 2023 | June 15h | July 28th - 31st | August 15th |
+| August 2023 | August 15th | September 27th - 30th | October 15th |
+| October 2023 | October 15th | TBC | December 15th |
+| December 2023 | December 15th | TBC | February 15th |
+
 ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
 
 [^1]: In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](https://aclrollingreview.org/six-week-cycles/). As of October 2022, we've moved to [every 2 months](https://aclrollingreview.org/key-changes-in-the-october-cycle/).
@@ -20,15 +31,12 @@ Any paper that is not desk rejected will receive reviews. Once authors have revi
 
 Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](https://aclrollingreview.org/organizers).
 
-
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
-| [LAW 2023](https://sigann.github.io/LAW-XVII-2023) | February 15th, 2023 | May 10th, 2023 |
-| [INLG 2023](https://inlg2023.github.io/) | April 15th, 2023 | June ~~15th~~ 19th, 2023 |
-| [SIGDIAL 2023](https://2023.sigdial.org/) | April 15th, 2023 | June 19th, 2023 |
-| [EMNLP 2023](https://2023.emnlp.org/) | June 15th, 2023 | August 22nd, 2023 |
-| [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/) | June 15th, 2023 | August 15th, 2023 |
 | [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
+| EACL 2024 | October 15th, 2023 | TBC |
+| [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | TBC |
+| ACL 2024 | February 15th, 2024 | TBC |
 
 ## Past Venues that Accepted ARR Submissions
 
@@ -75,3 +83,8 @@ Current publication venues participating in ARR are listed below. If you represe
 - [MWE 2023](https://multiword.org/mwe2023/)
 - [SICon 2023](https://sites.google.com/view/sicon-2023/home)
 - [NEJLT volume 9 (1)](https://www.nejlt.org/)
+- [LAW 2023](https://sigann.github.io/LAW-XVII-2023)
+- [INLG 2023](https://inlg2023.github.io/)
+- [SIGDIAL 2023](https://2023.sigdial.org/)
+- [EMNLP 2023](https://2023.emnlp.org/)
+- [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/)
