@@ -58,7 +58,7 @@ Contact: `mentorship at aclrollingreview.org`
 
 ## Ethics Co-Chairs
 
-- Mailihe ALkhani, Northeastern University
+- Mailihe Alikhani, Northeastern University
 - Vinodkumar Prabhakaran, Google
 
 ## Senior Action Editors
