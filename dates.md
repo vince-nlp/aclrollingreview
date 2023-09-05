@@ -33,6 +33,7 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
+| [GenBench 2023](https://genbench.org/workshop) | August 15th, 2023 | September 15th, 2023 |
 | [NEJLT volume 9 (2)](https://www.nejlt.org/) | August 15th, 2023 | November 1st, 2023 |
 | [EACL 2024](https://2024.eacl.org/) | October 15th, 2023 | December 20th, 2023 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | TBC |
