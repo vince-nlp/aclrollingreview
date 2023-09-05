@@ -10,7 +10,7 @@ The schedule for 2023 is:
 
 | Cycle | Submission Date | Author Response | Cycle End |
 |---------------------|------------|------------|
-| February 2023 | Feb 15th | March 27th - 30th | Aptil 15th |
+| February 2023 | Feb 15th | March 27th - 30th | April 15th |
 | April 2023 | April 15th | May 27th - 30th | June 15th |
 | June 2023 | June 15h | July 28th - 31st | August 15th |
 | August 2023 | August 15th | September 27th - 30th | October 15th |
@@ -33,8 +33,8 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
-| [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
-| EACL 2024 | October 15th, 2023 | TBC |
+| [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
+| [EACL 2024](https://2024.eacl.org/) | October 15th, 2023 | December 20th, 2023 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | TBC |
 | ACL 2024 | February 15th, 2024 | TBC |
 

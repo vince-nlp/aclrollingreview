@@ -28,6 +28,7 @@ Contact: `editors at aclrollingreview.org`
 
 ## Ethics Chair
 
+- Malihe Alikhani, Northeastern University
 - Vinodkumar Prabhakaran, Google
 
 ## Editorial Staff
