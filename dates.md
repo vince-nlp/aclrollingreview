@@ -33,7 +33,7 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
-| [NEJLT volume 9 (2)](https://www.nejlt.org/) | October 15th, 2023 | November 1st, 2023 |
+| [NEJLT volume 9 (2)](https://www.nejlt.org/) | August 15th, 2023 | November 1st, 2023 |
 | [EACL 2024](https://2024.eacl.org/) | October 15th, 2023 | December 20th, 2023 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | TBC |
 | ACL 2024 | February 15th, 2024 | TBC |
