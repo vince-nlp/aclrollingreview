@@ -19,7 +19,7 @@ This page contains a step-by-step guide and FAQ for authors who wish to have the
 We have also created a detailed video presentation covering this information: <https://www.youtube.com/watch?v=DaoCLEghXyU>.
 
 # Step 0: Is ARR right for your paper? {#step0}
-ARR provides reviews--and only reviews--for submissions. The reviews will not be specific to a conference/venue, but the standards expected by reviewers are those of a traditional direct submission as a long or short main conference paper to ACL (or the other major conferences operated by the ACL).
+ARR provides reviews—and only reviews—for submissions. The reviews will not be specific to a conference/venue, but the standards expected by reviewers are those of a traditional direct submission as a long or short main conference paper to ACL (or the other major conferences operated by the ACL).
 - Short papers (up to 4 pages) as well as long papers (up to 8 pages)
 - All NLP/computational linguistics topics are within scope. See [the CFP](/cfp) for example areas.
 - Empirical papers, theoretical papers, resource papers, application papers, opinion pieces, and surveys
@@ -54,7 +54,7 @@ All authors must be **registered** in OpenReview. Your OpenReview profile must b
 All submitted materials must be **anonymized**. Submissions and any supplementary materials must not include authors' names and affiliations, or the acknowledgments section. Self-references that reveal the authors' identities must be avoided. The submissions should not have links to non-anonymized repositories: the code should be either submitted as supplementary material (zip or tgz files), or as a link to an anonymized repository (e.g., [Anonymous GitHub](https://anonymous.4open.science/) and [ANONYM SHARE](https://anonymshare.com/)). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources).
 
 Before submitting, ensure that:
-- Your paper is not already under review, published, or on track to be published at any archival venue. ("Under review" includes papers for which prior ARR reviews have been committed to a venue, and a decision is pending--see Step 5.)
+- Your paper is not already under review, published, or on track to be published at any archival venue. ("Under review" includes papers for which prior ARR reviews have been committed to a venue, and a decision is pending—see [Step 5](#step5).)
 - You have not posted a non-anonymous preprint of your paper or widely advertised it in the 1 month prior to the submission deadline. (See the [ACL Policies on Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) and the [FAQ below](#anon))
 - Your paper satisfies everything in the [author checklist](/authorchecklist)
 
@@ -65,7 +65,7 @@ As soon as you have submitted your paper it is considered **under review** by AR
 
 You may **withdraw** your submission during this period (before it receives a meta-review), but if you do so more than 48 hours after the submission deadline, your paper will be ineligible for resubmission in the next cycle. Contact the editors if you encounter special circumstances and are not sure whether withdrawal is appropriate. To withdraw, log into OpenReview, select your submission and then click on the "trash can" icon in the top right.
 
-A submission may be **desk rejected** if the topic or style of contribution is not suited to ARR, or for a technical violation of the submission requirements--e.g., accidentally revealing the authors' identities, exceeding the page limit, or otherwise failing to adhere to the style guidelines. Desk rejection can occur at any point in the review cycle. If a technical violation is discovered, the paper can be submitted afresh in the next review cycle (the desk-rejected version does not count as a prior submission).
+A submission may be **desk rejected** if the topic or style of contribution is not suited to ARR, or for a technical violation of the submission requirements—e.g., accidentally revealing the authors' identities, exceeding the page limit, or otherwise failing to adhere to the style guidelines. Desk rejection can occur at any point in the review cycle. If a technical violation is discovered, the paper can be submitted afresh in the next review cycle (the desk-rejected version does not count as a prior submission).
 
 Once the main reviews are available you will receive the opportunity to submit an **author response**. The exact timing varies by cycle and is listed on [the dates and venues page](/dates). The intention of this is to clarify any misunderstandings or confusions on the part of the reviewers (not to reargue the case for your paper). There is no requirement to respond. Your response will immediately be visible to the reviewers, but they will not edit their reviews until after the author response period ends (i.e., there will be no back-and-forth conversation like in NeurIPS and ICLR). The meta-review will be written taking your response (if any) into account.
 
@@ -74,9 +74,9 @@ Once the final reviews (including the meta-review) are delivered, you will know 
 
 You have several choices for the next step of the paper:
 
-- Quickly address reviewer feedback, and submit a revision to the **next ARR review deadline** (~1 week). -> Step 4
-- Spend more time on revisions and submit to **a subsequent ARR deadline** (2+ months). Note that with this option, there is a period when your paper is not under review. You are allowed to release a preprint or discuss it publicly in that period, up until a month before you submit again. -> Step 4
-- **Commit the reviews to an ARR venue** for a decision on acceptance. -> Step 5
+- Quickly address reviewer feedback, and submit a revision to the **next ARR review deadline** (~1 week). → [Step 4](#step4)
+- Spend more time on revisions and submit to **a subsequent ARR deadline** (2+ months). Note that with this option, there is a period when your paper is not under review. You are allowed to release a preprint or discuss it publicly in that period, up until a month before you submit again. → [Step 4](#step4)
+- **Commit the reviews to an ARR venue** for a decision on acceptance. → [Step 5](#step5)
 - Submit for **direct (i.e. non-ARR) review** by a venue. If you are submitting to a venue that has both direct submissions and ARR submissions, see their policies for how to go from ARR reviewing to being directly reviewed. Note that venues may have other restrictions: for example, [TACL](https://transacl.org/index.php/tacl/about/submissions) requires a 9 month gap between submission to ARR and submission to TACL.
 
 **These options are mutually exclusive**: you cannot submit a revision and in parallel commit to a venue, for example. See [the CFP](/cfp) for all of the rules on dual submissions.
@@ -88,7 +88,7 @@ Considerations:
 # Step 4: Resubmit for another round of review (optional) {#step4}
 If you can see ways to markedly improve your paper or are unhappy with your reviews, consider revising it and resubmitting to a subsequent ARR review cycle.
 
-Here you submit the same information as Step 1, as well as:
+Here you submit the same information as [Step 1](#step1), as well as:
 - The link to your previous submission (e.g., https://openreview.net/forum?id=abcd1234)
 - An explanation of revisions that responds to reviews from the previous round
 - A preference regarding reviewers: same or all new
@@ -104,7 +104,7 @@ Some things to consider:
     - New reviewers will not see the prior reviews initially. Only after they submit their own review will they have access to the prior reviews (new in August 2023).
 - A revision does not have to accept every suggestion of every reviewer. Reviewers understand that there are limitations on what can be accomplished in a single paper. We recommend engaging with reviewers' constructive feedback in the explanation of revisions. Even if you request new reviewers, they will have access to reviews from previous rounds after submitting their own reviews, so ignoring good advice is not recommended.
 
-Once you have submitted the revision, you return to Step 2 above.
+Once you have submitted the revision, you return to [Step 2](#step2) above.
 
 # Step 5: Commitment {#step5}
 Once the paper has received complete reviews (including a meta-review), and is no longer under review by ARR, it is eligible for submission to a venue for a decision on acceptance. This submission is called **commitment**.
@@ -115,11 +115,11 @@ Different venues have different commitment deadlines, and therefore, different c
 
 The commitment period is also subject to **anonymity** requirements: during the commitment period and for the 1 month prior to the commitment deadline, you may not submit/update a nonanonymous preprint of the paper or publicize it widely.
 
-The commitment phase ends when the paper is no longer under consideration by any venue--either due to withdrawal or due to receiving a decision of acceptance or rejection.
+The commitment phase ends when the paper is no longer under consideration by any venue—either due to withdrawal or due to receiving a decision of acceptance or rejection.
 
-If the paper is accepted, it is no longer eligible for further rounds of review at ARR. (Whether you can commit to additional venues is up to the policies of those venues.) -> Step 6
+If the paper is accepted, it is no longer eligible for further rounds of review at ARR. (Whether you can commit to additional venues is up to the policies of those venues.) → [Step 6](#step6)
 
-If the commitment phase ends without an acceptance, the state of the paper returns to Step 3. That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
+If the commitment phase ends without an acceptance, the state of the paper returns to [Step 3](#step3). That is, it can be committed to another venue, resubmitted for review at ARR, or submitted elsewhere for review.
 
 # Step 6: Camera-ready {#step6}
 Once the paper is accepted by a venue, the final step is to prepare and submit the camera-ready version. ARR is not involved in that process. You should consult the instructions from the venue for what is involved.
@@ -131,12 +131,12 @@ Questions about when the proceedings will appear on the ACL Anthology should be 
 # Frequently Asked Questions {#faq}
 
 **Q: Why does ARR not provide a decision with reviews?** <br />
-A: ARR implements the review stage but not the final acceptance recommendation/decision stage of traditional conference reviewing. Separating the two allows us to return the full set of reviews to authors faster and give authors more choice of what to do next with the paper (Step 3), including the option to revise and resubmit.
+A: ARR implements the review stage but not the final acceptance recommendation/decision stage of traditional conference reviewing. Separating the two allows us to return the full set of reviews to authors faster and give authors more choice of what to do next with the paper ([Step 3](#step3)), including the option to revise and resubmit.
 
-For EACL 2024, ACL 2024, and NAACL 2024, note that deadlines are structured such that reviews after the submission deadline cycle can be be immediately committed for consideration by the conference--in which case the total time from submission to decision will be ~3 months, which is similar to the traditional conference review process (if not shorter).
+For EACL 2024, ACL 2024, and NAACL 2024, note that deadlines are structured such that reviews after the submission deadline cycle can be be immediately committed for consideration by the conference—in which case the total time from submission to decision will be ~3 months, which is similar to the traditional conference review process (if not shorter).
 
 **Q: Since reviews follow the paper when it is resubmitted, isn't there a risk that getting unlucky with reviewers in the first round will doom the paper?** <br />
-A: For a resubmission (Step 4), authors have the option to request new reviewers, ensuring the paper gets a fresh look. While the old reviews will still be associated with the paper, to avoid [anchoring biases](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)), a new reviewer will only have access to them after submitting their own review. Moreover, authors have the opportunity to respond to any problems that they perceive with the previous-round reviews.
+A: For a resubmission ([Step 4](#step4)), authors have the option to request new reviewers, ensuring the paper gets a fresh look. While the old reviews will still be associated with the paper, to avoid [anchoring biases](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)), a new reviewer will only have access to them after submitting their own review. Moreover, authors have the opportunity to respond to any problems that they perceive with the previous-round reviews.
 
 **Q: Does ARR import reviews from other publication venues?** <br />
 A: No, ARR is a self-contained review system and all reviews are done within ARR. We do not import reviews that were done by other venues.
@@ -153,7 +153,7 @@ ARR permits talks about work under review in small groups, such as colloquia and
 
 See [the ACL policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) for further details on what is and is not permitted.
 
-See [step 1](#step1) for details on anonymity requirements for the paper itself at submission time.
+See [Step 1](#step1) for details on anonymity requirements for the paper itself at submission time.
 
 **Q: When do these anonymity requirements apply?** <br />
 A: The ACL anonymity rules apply to both the review process and the commitment process.
