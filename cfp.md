@@ -78,7 +78,7 @@ Further info:
 
 Papers must not include authors’ names and affiliations. Furthermore, self-references that reveal the authors’ identities, e.g., “We previously showed (Smith, 1991) …” must be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …” Papers should not refer, for further detail, to documents that are not available to the reviewers.
 
-Supplementary materials should also be anonymized. This includes author rebuttals during the review process.
+Supplementary materials should also be anonymized. This includes author responses during the review process.
 
 Submissions that violate these requirements will be desk rejected.
 
