@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ARR Tech Team
+    url: https://aclrollingreview.org/people
+    about: Issues in this repository relate to the ARR website (https://aclrollingreview.org/) only. Please send issues and suggestions related to OpenReview directly to the tech team.
