@@ -1,5 +1,5 @@
 ---
-name: Add a venue to the commitment list
+name: Venue addition to the commitment list
 about: Request to have your venue added to the list on https://aclrollingreview.org/dates
 title: ''
 labels: ''
