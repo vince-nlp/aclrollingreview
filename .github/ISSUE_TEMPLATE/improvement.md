@@ -1,6 +1,6 @@
 ---
 name: Improvement
-about: Suggest an idea for this project
+about: Suggest an idea for for the ARR website aclrollingreview.org
 title: ''
 labels: enhancement
 assignees: jkkummerfeld
