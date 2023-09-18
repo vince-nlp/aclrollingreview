@@ -33,11 +33,10 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
-| [GenBench 2023](https://genbench.org/workshop) | August 15th, 2023 | September 15th, 2023 |
 | [NEJLT volume 9 (2)](https://www.nejlt.org/) | August 15th, 2023 | November 1st, 2023 |
 | [EACL 2024](https://2024.eacl.org/) | October 15th, 2023 | December 20th, 2023 |
-| [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | TBC |
-| ACL 2024 | February 15th, 2024 | TBC |
+| [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
+| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | TBC |
 
 ## Past Venues that Accepted ARR Submissions
 
@@ -89,3 +88,4 @@ Current publication venues participating in ARR are listed below. If you represe
 - [SIGDIAL 2023](https://2023.sigdial.org/)
 - [EMNLP 2023](https://2023.emnlp.org/)
 - [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/)
+- [GenBench 2023](https://genbench.org/workshop)
