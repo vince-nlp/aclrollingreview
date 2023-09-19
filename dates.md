@@ -12,7 +12,7 @@ The schedule for 2023 is:
 |---------------------|------------|------------|
 | February 2023 | Feb 15th | March 27th - 30th | April 15th |
 | April 2023 | April 15th | May 27th - 30th | June 15th |
-| June 2023 | June 15h | July 28th - 31st | August 15th |
+| June 2023 | June 15th | July 28th - 31st | August 15th |
 | August 2023 | August 15th | September 27th - 30th | October 15th |
 | October 2023 | October 15th | November 19th - 22nd | December 15th |
 | December 2023 | December 15th | TBC | February 15th |
