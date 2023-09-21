@@ -58,7 +58,7 @@ Before submitting, ensure that:
 - You have not posted a non-anonymous preprint of your paper or widely advertised it in the 1 month prior to the submission deadline. (See the [ACL Policies on Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) and the [FAQ below](#anon))
 - Your paper satisfies everything in the [author checklist](/authorchecklist)
 
-At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors (see [People](\people)).
+At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors (see [People](/people)).
 
 # Step 2: Wait for reviews {#step2}
 As soon as you have submitted your paper it is considered **under review** by ARR. You may not submit the paper elsewhere during this period, nor submit/update a non-anonymous preprint or widely publicize the work while it is under review.

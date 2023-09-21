@@ -172,7 +172,7 @@ If you believe there may be an ethics issue with the paper, you can flag it for 
 
 ### 6. Check for lazy thinking 
 
-Judging whether a research paper is “good” is an objectively hard task. To avoid dealing with this problem, reviewers often develop “shortcuts”, quick heuristics that serve as reasons to dismiss papers, such as the famous “[reject if not SOTA](https://hackingsemantics.xyz/2020/reviewing-models/).”
+Judging whether a research paper is “good” is an objectively hard task. To avoid dealing with this problem, reviewers often develop “shortcuts”, quick heuristics that serve as reasons to dismiss papers, such as the famous "[reject if not SOTA](https://hackingsemantics.xyz/2020/reviewing-models/)."
 
 Here is a list of such heuristics derived from author complaints in recent NLP conferences, and why they are not always “weaknesses.” Many of them have even been studied in psychology and bibliometric research. 
 
@@ -329,7 +329,7 @@ EACL 2021 tutorial on peer review, pt. II - The Actual Review (Karën Fort): [sl
 **General advice and reviewing philosophy**
 
 * Advice on peer review from Mirella Lapata, Marco Baroni, Yoav Artzi, Emily M.Bender, Joel Tetreault, Ani Nenkova, Tim Baldwin: [https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/ ](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
-* A podcast interview with Noah Smith: [https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith](https://aclrollingreview.org/mentorship/A%20podcast%20by%20Noah%20Smith%20about%20peer%20reviews)
+* A podcast interview with Noah Smith: [https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith](https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith)
 * Rebekah Baglini and Christine Parsons on how to avoid harsh language in peer review: [https://www.nature.com/articles/d41586-020-03394-y](https://www.nature.com/articles/d41586-020-03394-y) 
 
 **Examples of good reviews**
@@ -345,7 +345,7 @@ EACL 2021 tutorial on peer review, pt. II - The Actual Review (Karën Fort): [sl
 **Reviewing different types of papers**
 
 * COLING 2018 review form for different paper types has great questions to ask yourself when reviewing engineering, resource, reproduction, survey and computational linguistics papers: [http://coling2018.org/paper-types/](http://coling2018.org/paper-types/) 
-* Anna Rogers. Peer review in NLP: reject-if-not-SOTA [https://hackingsemantics.xyz/2020/reviewing-models/](https://aclrollingreview.org/mentorship/Reject%20if%20not%20SOTA?)
+* Anna Rogers. Peer review in NLP: reject-if-not-SOTA [https://hackingsemantics.xyz/2020/reviewing-models/](https://hackingsemantics.xyz/2020/reviewing-models/)
 * Anna Rogers. Peer review in NLP: resource papers [https://hackingsemantics.xyz/2020/reviewing-data/](https://hackingsemantics.xyz/2020/reviewing-data/) 
 
 **Cognitive and social biases in peer review**
