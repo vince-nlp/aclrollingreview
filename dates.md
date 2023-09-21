@@ -12,9 +12,9 @@ The schedule for 2023 is:
 |---------------------|------------|------------|
 | February 2023 | Feb 15th | March 27th - 30th | April 15th |
 | April 2023 | April 15th | May 27th - 30th | June 15th |
-| June 2023 | June 15h | July 28th - 31st | August 15th |
+| June 2023 | June 15th | July 28th - 31st | August 15th |
 | August 2023 | August 15th | September 27th - 30th | October 15th |
-| October 2023 | October 15th | TBC | December 15th |
+| October 2023 | October 15th | November 19th - 22nd | December 15th |
 | December 2023 | December 15th | TBC | February 15th |
 
 ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
@@ -33,11 +33,10 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|
-| [GenBench 2023](https://genbench.org/workshop) | August 15th, 2023 | September 15th, 2023 |
 | [NEJLT volume 9 (2)](https://www.nejlt.org/) | August 15th, 2023 | November 1st, 2023 |
 | [EACL 2024](https://2024.eacl.org/) | October 15th, 2023 | December 20th, 2023 |
-| [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | TBC |
-| ACL 2024 | February 15th, 2024 | TBC |
+| [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
+| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | TBC |
 
 ## Past Venues that Accepted ARR Submissions
 
@@ -89,3 +88,4 @@ Current publication venues participating in ARR are listed below. If you represe
 - [SIGDIAL 2023](https://2023.sigdial.org/)
 - [EMNLP 2023](https://2023.emnlp.org/)
 - [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/)
+- [GenBench 2023](https://genbench.org/workshop)
