@@ -1,6 +1,6 @@
 
 As promised in our blog entry for August, ACL has established an ARR board that will oversee the 
-activities of ARR. We suggest readers go back to [that blog entry](https://aclrollingreview.org/changes-based-on-the-ACL-reviewing-survey/)
+activities of ARR. We suggest readers go back to [that blog entry](/changes-based-on-the-ACL-reviewing-survey/)
 for more information on the responsibilities of the board. In this update to the community we would 
 like to formally welcome the founding members of the ARR Board:
 

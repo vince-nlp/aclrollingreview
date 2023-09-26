@@ -26,7 +26,7 @@ This set of deadlines avoids the dreaded "holiday deadline" that was 15 December
 How Long Will I Have to Revise and Resubmit?
 --------------------------------------------
 
-With this cycle, authors will typically have six weeks to revise their submission if they want to resubmit it to the next cycle; slightly less if their submission requires emergency (meta)reviews or ethics reviewing. Authors are always welcome to resubmit to a later cycle, as long as their paper has not been accepted to a publication venue and otherwise meets the conditions outlined in the [Call For Papers](https://aclrollingreview.org/cfp).
+With this cycle, authors will typically have six weeks to revise their submission if they want to resubmit it to the next cycle; slightly less if their submission requires emergency (meta)reviews or ethics reviewing. Authors are always welcome to resubmit to a later cycle, as long as their paper has not been accepted to a publication venue and otherwise meets the conditions outlined in the [Call For Papers](/cfp).
 
 Now Can We Have Author Response?
 --------------------------------

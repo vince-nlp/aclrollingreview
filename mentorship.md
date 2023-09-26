@@ -30,9 +30,7 @@ The form asks for your OpenReview User ID so please create an OpenReview account
 We are looking for current ARR reviewers and action editors willing to mentor junior reviewers. If you are interested (and already an ARR reviewer/action editor), please stay tuned for updates on our mentoring program.
 
 ## Material for Mentors and Mentees
-The primary reading material for mentors and mentees is our ARR tutorial at
-
-<https://aclrollingreview.org/reviewertutorial>
+The primary reading material for mentors and mentees is our [ARR tutorial](/reviewertutorial).
 
 We ask mentees to go through this material (in full). While we expect mentors to have sufficient review experience, we still recommend them to review the material too in order to align with ARR expectations and help with communicating what good and bad reviews are. 
 

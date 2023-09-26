@@ -19,7 +19,7 @@ The schedule for 2023 is:
 
 ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
 
-[^1]: In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](https://aclrollingreview.org/six-week-cycles/). As of October 2022, we've moved to [every 2 months](https://aclrollingreview.org/key-changes-in-the-october-cycle/).
+[^1]: In the past, deadlines were on the 15th of each month, and for a brief period, the [deadlines were every 6 weeks](/six-week-cycles/). As of October 2022, we've moved to [every 2 months](/key-changes-in-the-october-cycle/).
 
 <!-- You can add these dates to your own calendar by subscribing to or downloading [this shared Google calendar](https://calendar.google.com/calendar/embed?src=dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com&ctz=America%2FNew_York). -->
 
@@ -29,7 +29,7 @@ Any paper that is not desk rejected will receive reviews. Once authors have revi
 - revise and resubmit for another round of reviews (typically papers will go back to the same action editor and reviewers)
 - submit their paper *and reviews* to a publication venue
 
-Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](https://aclrollingreview.org/organizers).
+Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](/organizers).
 
 | Venue | Final ARR Submission Date | Commitment Date |
 |---------------------|------------|------------|

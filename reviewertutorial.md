@@ -58,8 +58,8 @@ Before starting any review work, please read:
 
 * this tutorial
 * [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics)
-* ARR [call for papers](https://aclrollingreview.org/cfp), which describes the scope of the invited submissions and instructions for the authors
-* the post describing the [ARR review form](https://aclrollingreview.org/reviewform)
+* ARR [call for papers](/cfp), which describes the scope of the invited submissions and instructions for the authors
+* the post describing the [ARR review form](/reviewform)
 * the [tutorial](https://docs.google.com/presentation/d/1CkfR94WxEPEZEyCN--ydC7K3wY4g-5ZiFd2HM8LRSXg/edit#slide=id.gf84c08a109_0_55) for performing common actions on OpenReview: viewing your current tasks, adding reviews, participating in discussion, contacting action editors
 
 All the information about submissions and reviews that you receive as part of your assignment is **confidential**. If you participate in discussions of peer review on social media, please make sure that your comments/examples are general enough that no submissions can be identified, and the authors cannot identify you. Do not refer to individual papers.
@@ -101,7 +101,7 @@ If at all possible, reviewing should **not** be done in a single session. When y
 
 Everybody's process is different, but one strategy that seems to be often used, but **not** very well suited for peer review is commenting _during_ the very first read. You do need to first at least skim the paper and understand the overall type of contribution and the framework in which the authors are working. If you do not do that, you are likely to start critiquing the paper from the perspective of a “prototypical” NLP paper in your area (e.g., an experimental paper proposing a SOTA system for English). That mental model might bias you against other types of contributions (e.g., resource papers, model or linguistic analysis, data processing/annotation strategies, reproduction studies, surveys, position pieces, negative results). Any study should be judged for what it is, and not for what you think it should be.
 
-For experimental papers, a useful trick is to avoid looking at the results when first skimming the paper. When you start actually reading, carefully read the introduction and the methodology sections. After that, pause and ask yourself: is it clear what the research question is and what was done? Do you believe this would answer that question? Do you want to know the answer? Will the answer advance the field? Only then you should look at the results. This way you will be better able to focus on the _knowledge_ gained in the paper: the result may be negative, but if you believe that the experiments are sound and the question worth asking, something that could save time to many others - this is also a valid contribution, as per the [ARR call for papers](https://aclrollingreview.org/cfp).
+For experimental papers, a useful trick is to avoid looking at the results when first skimming the paper. When you start actually reading, carefully read the introduction and the methodology sections. After that, pause and ask yourself: is it clear what the research question is and what was done? Do you believe this would answer that question? Do you want to know the answer? Will the answer advance the field? Only then you should look at the results. This way you will be better able to focus on the _knowledge_ gained in the paper: the result may be negative, but if you believe that the experiments are sound and the question worth asking, something that could save time to many others - this is also a valid contribution, as per the [ARR call for papers](/cfp).
 
 Note whether the paper is long or short, and adjust your expectations accordingly. Long papers are supposed to describe completed work, with thorough evaluation and analysis. A short paper may present proof of concept, an interesting finding, a convincing point, but it is **not** expected to have extensive evaluation and analysis: only the minimal (but sufficiently convincing) evidence for the claim.
 
@@ -112,7 +112,7 @@ The paper should be readable by itself, and any details important for understand
 
 ### 5. ARR review form 
 
-If you have not done so yet, read the post describing the [ARR review form](https://aclrollingreview.org/reviewform). 
+If you have not done so yet, read the post describing the [ARR review form](/reviewform). 
 
 Your review will be seen by three different audiences: (a) the authors, (b) the other reviewers and the action editor, and (c) the senior area chairs and the program chairs of the venue(s) that will consider this submission. Not all parts of the form are addressed to all of them.
 
@@ -167,7 +167,7 @@ As mentioned above, if you know who the authors are you should have tried to hav
 
 #### Ethics review 
 
-If you believe there may be an ethics issue with the paper, you can flag it for a separate review process by the ACL ethics committee. See the [ARR submission checklist](https://aclrollingreview.org/authorchecklist) for a list of things to look out for.
+If you believe there may be an ethics issue with the paper, you can flag it for a separate review process by the ACL ethics committee. See the [ARR submission checklist](/authorchecklist) for a list of things to look out for.
 
 
 ### 6. Check for lazy thinking 

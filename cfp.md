@@ -125,7 +125,7 @@ Authors considering a resubmission should also refer to the withdrawal policy be
 
 Authors are required to honour the ethical code set out in the[ ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 
-The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a[ responsible NLP research checklist](https://aclrollingreview.org/responsibleNLPresearch), which authors must upload alongside their paper.
+The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a[ responsible NLP research checklist](/responsibleNLPresearch), which authors must upload alongside their paper.
 
 We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work, or have failed to provide a responsible checklist. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
 
@@ -139,7 +139,7 @@ Authors may withdraw their submission at any time. However, a submission that is
 
 ### Reviewing Requirement
 
-As indicated on the submission form, submitting to ARR comes with the requirement of accepting to review if asked to. We appreciate all the engagement of reviewers and AEs who are providing a crucial service to the community, which will benefit authors in their research: The success of peer review crucially depends on authors reviewing submissions by others. Hence, ARR will not be able to guarantee reviews of papers of authors who fail to fulfill their[ reviewer duties](https://aclrollingreview.org/reviewers).
+As indicated on the submission form, submitting to ARR comes with the requirement of accepting to review if asked to. We appreciate all the engagement of reviewers and AEs who are providing a crucial service to the community, which will benefit authors in their research: The success of peer review crucially depends on authors reviewing submissions by others. Hence, ARR will not be able to guarantee reviews of papers of authors who fail to fulfill their [reviewer duties](/reviewers).
 
 - AEs (and SACs) will not be asked to review new papers on top of their ARR duties (they might be asked to work on resubmissions of papers they already AEed/reviewed).
 - There are of course legitimate reasons for one to suddenly be unavailable to review, and we will understand these.
@@ -147,17 +147,17 @@ As indicated on the submission form, submitting to ARR comes with the requiremen
 
 ### Submission Criteria
 
-ARR provides a[ submission checklist](https://aclrollingreview.org/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
+ARR provides a[ submission checklist](/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
 
 ### Paper Submission and Templates
 
-Submission is electronic, using the OpenReview.net platform. All long, short, and theme papers must follow the[ ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines).[ Here](https://aclrollingreview.org/submissionform) are the paper submission form fields for your reference.
+Submission is electronic, using the OpenReview.net platform. All long, short, and theme papers must follow the[ ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](/submissionform) are the paper submission form fields for your reference.
 
-Paper submissions must use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please follow the paper formatting guidelines general to “\*ACL” conferences available[ here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences.
+Paper submissions must use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please follow the paper formatting guidelines general to “\*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences.
 
 Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
-[Here](https://aclrollingreview.org/reviewform) is the current version of the review form, and[ here](https://aclrollingreview.org/actioneditorform) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
+[Here](/reviewform) is the current version of the review form, and [here](/actioneditorform) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
 
 ### Optional Supplementary Materials: Appendices, Software, and Data
 
