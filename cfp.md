@@ -123,11 +123,29 @@ Authors considering a resubmission should also refer to the withdrawal policy be
 
 ### Ethics Policy
 
-Authors are required to honour the ethical code set out in the[ ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
+Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 
-The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a[ responsible NLP research checklist](/responsibleNLPresearch), which authors must upload alongside their paper.
+The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a [responsible NLP research checklist](/responsibleNLPresearch), which authors must upload alongside their paper.
 
 We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work, or have failed to provide a responsible checklist. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
+
+### AI Writing Assistance Policy {#ai-assistance}
+
+ARR has adopted [the ACL 2023 Policy on AI Writing Assistance](https://2023.aclweb.org/blog/ACL-2023-policy/). The policy introduces a new item in the responsible research checklist, where authors disclose use of AI assistance. Common cases that should / should not be disclosed are:
+
+Uses that do not need to be disclosed:
+- Assistance purely with the language of the paper, e.g., paraphrasing, spell-checking, or polishing the author's original content, without suggesting new content.
+- Short-form input assistance, e.g., smart compose in google docs, which generates a short continuation of text.
+- Literature search, e.g., to identify relevant literature, which authors then read, discuss, and cite appropriately.
+
+Uses that need to be disclosed:
+- Low-novelty text, e.g., producing a description of a widely known concept. Specify where such text was used, and convince the reviewers that the generation was checked to be accurate and is accompanied by relevant and appropriate citations (e.g., using block quotes for verbatim copying). If the generation copies text verbatim from existing work, the authors need to acknowledge all relevant citations: both the source of the text used and the source of the idea(s).
+- New ideas. If the model outputs read to the authors as new research ideas, that would deserve co-authorship or acknowledgement from a human colleague, and that the authors then developed themselves (e.g. topics to discuss, framing of the problem) - we suggest acknowledging the use of the model, and checking for known sources for any such ideas to acknowledge them as well. Most likely, they came from other people's work.
+- New ideas + new text: a contributor of both ideas and their execution seems like the definition of a co-author, which the models cannot be. While the norms around the use of generative AI in research are being established, we would discourage such use in ARR submissions. If you choose to go down this road, you are welcome to make the case to the reviewers that this should be allowed, and that the new content is in fact correct, coherent, original and does not have missing citations.
+- Code writing assistants. Aacknowledge the use of such systems and the scope thereof, e.g. in the README files accompanying the code attachments or repositories.
+
+In all cases, authors are responsible for the correctness of their methods, results, and writing.
+Authors should check for potential plagiarism, both of text and code.
 
 ### Limitations
 
