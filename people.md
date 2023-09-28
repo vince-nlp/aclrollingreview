@@ -17,12 +17,12 @@ If you want general support regarding ARR, please contact `support at aclrolling
 
 ## Editors in Chief
 
-- Jun Suzuki, Tohoku University
-- Lilja Øvrelid, University of Oslo
 - Mausam, IIT Delhi
-- Vincent Ng, University of Texas at Dallas
-- Thamar Solorio, University of Houston and MBZUAI
 - Viviane Moreira, Universidade Federal do Rio Grande do Sul
+- Vincent Ng, University of Texas at Dallas
+- Lilja Øvrelid, University of Oslo
+- Thamar Solorio, University of Houston and MBZUAI
+- Jun Suzuki, Tohoku University
 
 Contact: `editors at aclrollingreview.org`
 

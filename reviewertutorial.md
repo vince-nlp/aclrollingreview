@@ -298,7 +298,7 @@ Not to mention, someone out there is reviewing your papers too. The more bad rev
 
 ## Discussion period 
 
-In ARR the reviewer discussion happens _before_ the reviews are sent to the authors. If your action editor initiates the forum discussion, please participate. The goal here is to catch any mistakes, misunderstandings, or violations of the reviewer guidelines. 
+In ARR reviewer discussion happens throughout the process, i.e., both before reviews are sent to authors and after the authors respond. Any reviewer or the action editor can initiate discussion. Please respond and engage, particularly after the author response has been submitted. The goal here is to catch any mistakes, misunderstandings, or violations of the reviewer guidelines. 
 
 When you see the reviews by the other reviewers, be aware that they may affect your own judgment in several ways simply because of social psychology effects. If you pointed out a weakness and then saw it also pointed out by someone else, you may feel it is a more severe problem than you originally thought. You may “discard” your own opinion if you see the opinion of someone you believe to be more senior/experienced/famous. If your original opinion was very positive, in the face of a strongly negative review you may be tempted to “converge to the mean.” Ask yourself if this is really warranted. Strong disagreements may be an indication that the paper is doing something unusual and interesting.
 
