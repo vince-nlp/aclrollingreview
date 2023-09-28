@@ -56,7 +56,7 @@ Short paper submissions must describe original and unpublished work. Please note
 - A negative result
 - An opinion piece
 - An interesting application nugget
-- Short papers may consist of up to four (4) pages of content, plus up to one page for ethical considerations (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
+- Short papers may consist of up to four (4) pages of content, plus up to one page for ethical considerations/limitations section (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
 
 ### Anonymity Period
 
@@ -149,7 +149,7 @@ Authors should check for potential plagiarism, both of text and code.
 
 ### Limitations
 
-We encourage authors to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit.
+We encourage authors to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers.
 
 ### Withdrawal Policy
 
