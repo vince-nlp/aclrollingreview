@@ -61,7 +61,7 @@ Short papers may consist of up to four (4) pages of content, plus up to one page
 
 ### Anonymity Period
 
-ACL has[ policies for submission, review, and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
+ACL has [policies for submission, review, and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
 
 If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one-step process in OpenReview. Note, however, that if authors withdraw more than 48 hours after the submission deadline, they can’t resubmit until the 2nd following ARR round. Withdrawing while the reviewing process has been launched is a waste of time and effort of many people. Once a submission is withdrawn, it is removed from that cycle’s reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
 
@@ -69,7 +69,7 @@ Please note that anonymity should be maintained during the entire revision proce
 
 Further info:
 
-- Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review. It will be publicized on Twitter by[ a bot](https://twitter.com/ArrPreprints).
+- Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review. It will be publicized on Twitter by [a bot](https://twitter.com/ArrPreprints).
 - Authors may not make a non-anonymized version of their paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper, we mean another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
 - If the authors have posted a non-anonymized version of their paper online before the start of the anonymity period, they may submit an anonymized version to ARR. The submitted version must not refer to the non-anonymized version, and the authors must inform the editors-in-chief that a non-anonymized version exists.
 - Authors may not update the non-anonymized version during the anonymity period, and we ask authors not to advertise it on social media or take other actions that would further compromise two-way anonymized reviewing during the anonymity period.
@@ -97,7 +97,7 @@ In cases where a preprint has been superseded by a refereed publication, the ref
 
 Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to a submission, and authors are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.
 
-For more information, see the[ ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
+For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
 
 ### Multiple Submission Policy
 
@@ -166,11 +166,11 @@ As indicated on the submission form, submitting to ARR comes with the requiremen
 
 ### Submission Criteria
 
-ARR provides a[ submission checklist](/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
+ARR provides a [submission checklist](/authorchecklist). The checklist is intended as a reminder to help authors improve the quality of their papers.
 
 ### Paper Submission and Templates
 
-Submission is electronic, using the OpenReview.net platform. All long, short, and theme papers must follow the[ ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](/submissionform) are the paper submission form fields for your reference.
+Submission is electronic, using the OpenReview.net platform. All long, short, and theme papers must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines). [Here](/submissionform) are the paper submission form fields for your reference.
 
 Paper submissions must use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please follow the paper formatting guidelines general to “\*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors may not modify these style files or use templates designed for other conferences.
 
