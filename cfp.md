@@ -50,17 +50,18 @@ Long papers must describe substantial, original, completed and unpublished work.
 
 ### Short Papers
 
-Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages. Some kinds of short papers are:
+Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead, short papers should have a point that can be made in a few pages. Some kinds of short papers are:
 
 - A small, focused contribution
 - A negative result
 - An opinion piece
 - An interesting application nugget
-- Short papers may consist of up to four (4) pages of content, plus up to one page for ethical considerations/limitations section (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
+
+Short papers may consist of up to four (4) pages of content, plus up to one page for the ethical considerations/limitations section (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
 
 ### Anonymity Period
 
-ACL has[ policies for submission, review and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
+ACL has[ policies for submission, review, and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
 
 If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one-step process in OpenReview. Note, however, that if authors withdraw more than 48 hours after the submission deadline, they can’t resubmit until the 2nd following ARR round. Withdrawing while the reviewing process has been launched is a waste of time and effort of many people. Once a submission is withdrawn, it is removed from that cycle’s reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
 
