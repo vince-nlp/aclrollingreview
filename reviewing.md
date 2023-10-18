@@ -161,6 +161,11 @@ Unlike the traditional conference model, SAEs do not make acceptance/rejection r
 
 AEs, reviewers, and authors are not told who their SAE is. SAEs are able to see the identities of AEs and reviewers, but not authors.
 
+SAEs can **communicate** with authors, reviewers, and action editors in two ways:
+1. Via email. Using the SAE Console, select papers and press the 'Message Reviewers' button, then select a group to contact, write a message and send it.
+Note that this approach maintains anonymity.  If AEs or reviewers are unresponsive, their email address is visible in the SAE console.  Note that reviewers of a paper are anonymous to each other, identified by pseudonyms in the discussion period, and do not see the identity of their AE in OpenReview.
+2. Via messages (or "comments") in the OpenReview interface for each paper.  The process for communication is the same as the process for reviewers to make comments (see step-by-step instructions [here](https://docs.google.com/document/d/1Zdc57K54tJaDii2DccH0ZxtakOrNdsUF1SK7svqDBIU/edit#heading=h.kpesxugglxbq)).
+
 SAEs should direct questions about the process to the Editors-in-Chief.
 
 # Ethics Chairs/Reviewers {#ethics}
