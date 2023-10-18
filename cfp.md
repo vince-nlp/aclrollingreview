@@ -150,7 +150,7 @@ Authors should check for potential plagiarism, both of text and code.
 
 ### Limitations
 
-We encourage authors to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers.
+Authors are required to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers. Note, prior to the December 2023 cycle, this was optional.
 
 ### Withdrawal Policy
 
