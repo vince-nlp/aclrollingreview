@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Malihe Alikhani joins ARR as Ethics co-chair
+title:  ARR October Cycle Update
 categories: [Admin]
 ---
 
 We have been busy with housekeeping tasks after the submission period ended. In brief, at this time we have:
-Added authors of October submissions to the reviewing pool
-Assigned papers to Action Editors (AEs), Senior Action Editors (SAEs) and reviewers
-Sent instructions to AEs and SAEs re their ToDo tasks
+- Added authors of October submissions to the reviewing pool
+- Assigned papers to Action Editors (AEs), Senior Action Editors (SAEs) and reviewers
+- Sent instructions to AEs and SAEs re their ToDo tasks
 
 AEs and SAEs are now reviewing their assignments and making minor tweaks to reviewing assignments where required. We will start the review process on Monday October 30th. We will be sending out instructions to reviewers soon.
 
