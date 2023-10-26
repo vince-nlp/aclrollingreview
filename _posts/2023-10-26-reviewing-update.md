@@ -4,6 +4,19 @@ title:  Malihe Alikhani joins ARR as Ethics co-chair
 categories: [Admin]
 ---
 
-We're pleased to announce that Malihe Alikhani has accepted to take on the role of Ethics co-chair for ARR. Malihe works towards designing inclusive and equitable language technologies. She develops systems that can communicate and collaborate with diverse populations, especially those from underserved communities. She studies how learning models might become biased and how we can mitigate them. She is currently an assistant professor of computer science at the University of Pittsburgh. Beginning in the Fall of 2023, she will move to Northeastern University.
+We have been busy with housekeeping tasks after the submission period ended. In brief, at this time we have:
+Added authors of October submissions to the reviewing pool
+Assigned papers to Action Editors (AEs), Senior Action Editors (SAEs) and reviewers
+Sent instructions to AEs and SAEs re their ToDo tasks
 
-We're super excited to have you on board, Malihe; welcome!
+AEs and SAEs are now reviewing their assignments and making minor tweaks to reviewing assignments where required. We will start the review process on Monday October 30th. We will be sending out instructions to reviewers soon.
+
+October cycle by the numbers:
+* We received a total of 1,271 submissions
+* We have assigned papers to 1,437 reviewers:
+  * Max reviewing load is 6 and average load is 2.67
+* We have assigned papers to 266 AEs:
+  * Max load for AEs is 12 papers and average load is 4.75
+* A total of 55 Senior Action Editors are overseeing the review process
+
+More soon!
