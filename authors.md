@@ -51,7 +51,7 @@ You may **edit** all aspects of your submission up until the deadline.
 
 All authors must be **registered** in OpenReview. Your OpenReview profile must be up to date (including affiliations and a recent import of any DBLP-listed publications) to aid in the detection of conflicts of interest.
 
-All submitted materials must be **anonymized**. Submissions and any supplementary materials must not include authors' names and affiliations, or the acknowledgments section. Self-references that reveal the authors' identities must be avoided. The submissions should not have links to non-anonymized repositories: the code should be either submitted as supplementary material (zip or tgz files), or as a link to an anonymized repository (e.g., [Anonymous GitHub](https://anonymous.4open.science/) and [Anonym File](https://anonymfile.com/), though take note of their limitations, e.g., AnonymFile deletes files if they are not downloaded for a seven-day period). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources).
+All submitted materials must be **anonymized**. Submissions and any supplementary materials must not include authors' names and affiliations, or the acknowledgments section. Self-references that reveal the authors' identities must be avoided. The submissions should not have links to non-anonymized repositories: the code should be either submitted as supplementary material (zip or tgz files), or as a link to an anonymized repository (e.g., [Anonymous GitHub](https://anonymous.4open.science/)), though take note of their limitations). Please avoid any links to storage services like Dropbox (which may track the reviewers downloading the resources).
 
 Before submitting, ensure that:
 - Your paper is not already under review, published, or on track to be published at any archival venue. ("Under review" includes papers for which prior ARR reviews have been committed to a venue, and a decision is pending—see [Step 5](#step5).)
@@ -160,7 +160,7 @@ A: The ACL anonymity rules apply to both the review process and the commitment p
 
 The anonymity period for the review period starts one month before the deadline for the cycle and ends once either meta-reviews have been released, the paper is withdrawn, or the paper is desk-rejected. For example, for the June 2023 cycle, the submission deadline was June 15th and meta-reviews were returned by August 15th, so the anonymity period started on May 15th and ended on August 15th.
 
-The anonymity period for commitment starts one month before the commitment deadline and ends once decisions are released or the paper is withdrawn. For example, for ACL 2023, the commitment deadline was March 17th and notifications were May 1st, so the anonymity period started on February 17th and ended on May 1st.
+For commitment, the anonymity policy is up to the venue. Typically, the anonymity period for commitment starts one month before the commitment deadline and ends once decisions are released or the paper is withdrawn. For example, for ACL 2023, the commitment deadline was March 17th and notifications were May 1st, so the anonymity period started on February 17th and ended on May 1st.
 
 Note, for arXiv, the timings above refer to when your paper is submitted to arXiv (not the date it appears on arXiv).
 
