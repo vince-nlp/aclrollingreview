@@ -162,7 +162,7 @@ The anonymity period for the review period starts one month before the deadline 
 
 For commitment, the anonymity policy is up to the venue. Typically, the anonymity period for commitment starts one month before the commitment deadline and ends once decisions are released or the paper is withdrawn. For example, for ACL 2023, the commitment deadline was March 17th and notifications were May 1st, so the anonymity period started on February 17th and ended on May 1st.
 
-Note, for arXiv, the timings above refer to when your paper is submitted to arXiv (not the date it appears on arXiv).
+Note, for arXiv, the timings above refer to when your paper is submitted to arXiv (not the date it appears on arXiv). We understand that in some cases this means the timestamp shown on your paper may be inside the anonymity period.
 
 **Q: I submitted to ICLR, but want to withdraw my paper to submit to ARR. This withdrawal will cause my paper to become deanonymized. Is that OK?** <br />
 A: If a non-anonymous version of the paper was made publicly available before the ARR anonymity period, it is OK to withdraw from ICLR and submit to ARR. However, if de-anonymization on withdrawal from ICLR results in the paper being de-anonymized for the first time during the anonymity period, the paper would violate the ARR anonymity policies.
