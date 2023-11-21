@@ -41,7 +41,6 @@ Contact: `editors at aclrollingreview.org`
 - Nils Dycke, TU Darmstadt
 - Yoshitomo Matsubara, Amazon Alexa AI
 - Dhruv Naik, Carnegie Mellon University
-- Amanda Stent, Colby College
 
 Contact: `tech at aclrollingreview.org`
 
