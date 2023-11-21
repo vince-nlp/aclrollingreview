@@ -14,7 +14,7 @@ The schedule for 2023 is:
 | April 2023 | April 15th | May 27th - 30th | June 15th |
 | June 2023 | June 15th | July 28th - 31st | August 15th |
 | August 2023 | August 15th | September 27th - 30th | October 15th |
-| October 2023 | October 15th | November 19th - 22nd | December 15th |
+| October 2023 | October 15th | November 23rd - 28th | December 15th |
 | December 2023 | December 15th | TBC | February 15th |
 
 ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
