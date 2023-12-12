@@ -37,7 +37,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [EACL 2024](https://2024.eacl.org/) | October 15th, 2023 | December 20th, 2023 |
 | [LAW 2024](https://sigann.github.io/LAW-XVIII-2024/) | October 15th, 2023 | January 17th, 2024 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
-| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | TBC |
+| [ACL 2024 main](https://2024.aclweb.org/), and [commitment](https://openreview.net/group?id=eacl.org/EACL/2024/Conference) | February 15th, 2024 | TBC |
 
 ## Past Venues that Accepted ARR Submissions
 
