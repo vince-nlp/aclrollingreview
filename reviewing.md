@@ -65,7 +65,8 @@ As a reviewer, your main duties for a submission are:
   - **Resubmissions**: If the paper is a resubmission and you reviewed the previous version, your review can focus on the changes. If you did not review the previous version, write your review based on the revised version alone. Once this is submitted, you will gain access to the previous reviews so you can check for additional points you had not considered.
 - Checking the responsible research checklist and deciding whether ethics review would be appropriate for the submission
 - Being responsive to email inquiries; keeping the AE informed if there is a delay in submitting the review
-- Reading the author response (if any) and the other reviews, participating in reviewer discussions, revising your review if you have anything to add
+- Reading the author response (if any) and engaging in discussion (new in October 2023).
+- Resding the other reviews, participating in reviewer discussions, and revising your review if you have anything to add
 
 For a step-by-step guide to reviewing, including advice on what aspects of the paper to think about and what criticisms are considered fair, see the [**reviewer tutorial**](reviewertutorial).
 
