@@ -48,8 +48,11 @@ Contact: `tech at aclrollingreview.org`
 ## Communications/Support Team
 
 - Shubhra Kanti Karmaker (Santu), Auburn University (Communications Team Chair)
-- Zeerak Talat, Digital Democracies Institute, Simon Fraser University
-- Mousumi Akter, Auburn University
+- Shubham Mittal, Google Research
+- Gabriella Skitalinskaya, Leibniz University Hannover
+- Ning Shi, University of Alberta
+- Ruohao Guo, Georgia Tech
+- Mousumi Akter, Technical University Dortmund
 
 Contact: `support at aclrollingreview.org`
 
