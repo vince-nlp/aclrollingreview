@@ -37,7 +37,8 @@ Contact: `editors at aclrollingreview.org`
 
 ## Technical Staff
 
-- Jonathan K. Kummerfeld, University of Sydney (Chief Technical Officer)
+- Sudipta Kar, Amazon (Co-Chief Technical Officer)
+- Jonathan K. Kummerfeld, University of Sydney (Co-Chief Technical Officer)
 - Nils Dycke, TU Darmstadt
 - Yoshitomo Matsubara, Amazon Alexa AI
 - Dhruv Naik, Carnegie Mellon University
