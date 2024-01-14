@@ -25,7 +25,7 @@ Some key items for first time authors:
 
 ## Anonymization and Citation
 
-Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) for the ACL policies for submission, review and citation. Most of this information is also covered in the template and format guidelines linked above.
+Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation) for the ACL policies for review and citation. Most of this information is also covered in the template and format guidelines linked above.
 
 ## Responsible NLP Research
 
