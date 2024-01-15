@@ -76,11 +76,10 @@
         "values-checkbox": [
             "You are one of the authors of the paper.",
 	    "Your submission has at most 8 pages (long) or 4 pages (short) of content.",
-            "Your submission is fully anonymized and observed the anonymity period rules.",
+            "Your submission is fully anonymized.",
             "You have read our Code of Ethics and your paper does not violate the policy.",
             "This link is for the latest version of the paper in ARR that has reviews and a meta-review.",
-            "Your submission includes the mandatory Limitations section.",
-            "Your submission complies with the ACL anonymity policy."
+            "Your submission includes the mandatory Limitations section."
         ],
         "required": false,
         "order": 8
