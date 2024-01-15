@@ -32,7 +32,7 @@ Any paper that is not desk rejected will receive reviews. Once authors have revi
 Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](/organizers).
 
 | Venue | Final ARR Submission Date | Commitment Date |
-|---------------------|------------|------------|
+| ----- | ------------------------- | --------------- |
 | [NEJLT volume 9 (2)](https://www.nejlt.org/) | August 15th, 2023 | November 1st, 2023 |
 | [EACL 2024 main](https://2024.eacl.org/), and [commitment](https://openreview.net/group?id=eacl.org/EACL/2024/Conference) | October 15th, 2023 | December 20th, 2023 |
 | [EACL 2024 SRW](https://sites.google.com/view/eacl2024srw) | October 15th, 2023 | January 17th, 2024 |
@@ -41,6 +41,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [MOOMIN 2024](https://moomin-workshop.github.io/) | October 15th, 2023 | January 17th, 2024 |
 | [CALD-pseudo 2024](https://mormor-karl.github.io/events/CALD-pseudo/) | October 15th, 2023 | January 17th, 2024 |
 | [UncertaiNLP 2024](https://uncertainlp.github.io/) | October 15th, 2023 | January 17th, 2024 |
+| [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/) | October 15th, 2023 | January 17th, 2024 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
 | [MWE-UD 2024](https://multiword.org/mweud2024/) | December 15th, 2023 | March 25th, 2024 |
 | [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | TBC |
