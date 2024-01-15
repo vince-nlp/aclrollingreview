@@ -55,13 +55,12 @@ All submitted materials must be **anonymized**. Submissions and any supplementar
 
 Before submitting, ensure that:
 - Your paper is not already under review, published, or on track to be published at any archival venue. ("Under review" includes papers for which prior ARR reviews have been committed to a venue, and a decision is pending—see [Step 5](#step5).)
-- You have not posted a non-anonymous preprint of your paper or widely advertised it in the 1 month prior to the submission deadline. (See the [ACL Policies on Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) and the [FAQ below](#anon))
 - Your paper satisfies everything in the [author checklist](/authorchecklist)
 
 At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors (see [People](/people)).
 
 # Step 2: Wait for reviews {#step2}
-As soon as you have submitted your paper it is considered **under review** by ARR. You may not submit the paper elsewhere during this period, nor submit/update a non-anonymous preprint or widely publicize the work while it is under review.
+As soon as you have submitted your paper it is considered **under review** by ARR. You may not submit the paper elsewhere during this period.
 
 You may **withdraw** your submission during this period (before it receives a meta-review), but if you do so more than 48 hours after the submission deadline, your paper will be ineligible for resubmission in the next cycle. Contact the editors if you encounter special circumstances and are not sure whether withdrawal is appropriate. To withdraw, log into OpenReview, select your submission and then click on the "trash can" icon in the top right.
 
@@ -77,7 +76,7 @@ Once the final reviews (including the meta-review) are delivered, you will know 
 You have several choices for the next step of the paper:
 
 - Quickly address reviewer feedback, and submit a revision to the **next ARR review deadline** (~1 week). → [Step 4](#step4)
-- Spend more time on revisions and submit to **a subsequent ARR deadline** (2+ months). Note that with this option, there is a period when your paper is not under review. You are allowed to release a preprint or discuss it publicly in that period, up until a month before you submit again. → [Step 4](#step4)
+- Spend more time on revisions and submit to **a subsequent ARR deadline** (2+ months). → [Step 4](#step4)
 - **Commit the reviews to an ARR venue** for a decision on acceptance. → [Step 5](#step5)
 - Submit for **direct (i.e. non-ARR) review** by a venue. If you are submitting to a venue that has both direct submissions and ARR submissions, see their policies for how to go from ARR reviewing to being directly reviewed. Note that venues may have other restrictions: for example, [TACL](https://transacl.org/index.php/tacl/about/submissions) requires a 9 month gap between submission to ARR and submission to TACL.
 
@@ -115,8 +114,6 @@ Commitment occurs through a submission form set up by the PCs of the venue (e.g.
 
 Different venues have different commitment deadlines, and therefore, different commitment periods when the paper is under consideration by a venue. ARR does not place any restrictions on committing to multiple venues simultaneously, or committing to one venue and submitting for direct review at another venue. However, venues typically do not permit these types of dual commitments / submissions.
 
-The commitment period is also subject to **anonymity** requirements: during the commitment period and for the 1 month prior to the commitment deadline, you may not submit/update a nonanonymous preprint of the paper or publicize it widely.
-
 The commitment phase ends when the paper is no longer under consideration by any venue—either due to withdrawal or due to receiving a decision of acceptance or rejection.
 
 If the paper is accepted, it is no longer eligible for further rounds of review at ARR. (Whether you can commit to additional venues is up to the policies of those venues.) → [Step 6](#step6)
@@ -149,25 +146,9 @@ A: Please contact: `support at aclrollingreview.org`
 ## Anonymity {#anon}
 
 **Q: What are the requirements of the anonymity policy for authors?** <br />
-A: ARR follows [the ACL Policies for Submission, Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation). For each review cycle and commitment process there is an anonymity period (see question below for timing). During the anonymity periods, ARR submissions may not be released online in a non-anonymized form (e.g. via arXiv or on a personal website). Non-anonymous preprints that were published before the start of the anonymity period may not be updated until the meta-reviews are released for the cycle. The only exception is for the purpose of correcting names, in which case the EICs should be notified per ACL policy. The existence of non-anonymous preprints must be disclosed in the submission form.
+A: ARR follows [the ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation). Submissions must be anonymized as detailed in [Step 1](#step1).
 
-ARR permits talks about work under review in small groups, such as colloquia and workshops, but we ask you not to advertise the preprint (or the content of such talks) on social media, blog about the work, or have it covered in the media during the anonymity period. Anonymous preprints can be posted after the start of the anonymity period, but likewise should not be advertised by their authors or their close colleagues, as that can compromise the review process. If you wish to make an anonymous preprint, ARR provides an option for you to do so at submission. Other anonymous preprint servers are also permitted.
-
-See [the ACL policy](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Submission,_Review_and_Citation) for further details on what is and is not permitted.
-
-See [Step 1](#step1) for details on anonymity requirements for the paper itself at submission time.
-
-**Q: When do these anonymity requirements apply?** <br />
-A: The ACL anonymity rules apply to both the review process and the commitment process.
-
-The anonymity period for the review period starts one month before the deadline for the cycle and ends once either meta-reviews have been released, the paper is withdrawn, or the paper is desk-rejected. For example, for the June 2023 cycle, the submission deadline was June 15th and meta-reviews were returned by August 15th, so the anonymity period started on May 15th and ended on August 15th.
-
-For commitment, the anonymity policy is up to the venue. Typically, the anonymity period for commitment starts one month before the commitment deadline and ends once decisions are released or the paper is withdrawn. For example, for ACL 2023, the commitment deadline was March 17th and notifications were May 1st, so the anonymity period started on February 17th and ended on May 1st.
-
-Note, for arXiv, the timings above refer to when your paper is submitted to arXiv (not the date it appears on arXiv). We understand that in some cases this means the timestamp shown on your paper may be inside the anonymity period.
-
-**Q: I submitted to ICLR, but want to withdraw my paper to submit to ARR. This withdrawal will cause my paper to become deanonymized. Is that OK?** <br />
-A: If a non-anonymous version of the paper was made publicly available before the ARR anonymity period, it is OK to withdraw from ICLR and submit to ARR. However, if de-anonymization on withdrawal from ICLR results in the paper being de-anonymized for the first time during the anonymity period, the paper would violate the ARR anonymity policies.
+Beginning with the February 15, 2024 ARR deadlines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review.
 
 ## Contributing to the Paper and Review Dataset
 

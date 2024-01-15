@@ -22,7 +22,6 @@ Below is an approximate timeline for the February ARR review cycle. The other cy
 
 Month (example) | Date / Date range | What | Who
 ----------------------------- | ---- | ---- | ---
-January | 15 | Beginning of anonymity period | authors
 February | 1 | Submission site opens | authors
 February | 10 | Confirm availability to review | reviewers + AEs
 February | 15 | **Submission deadline** | authors

@@ -78,7 +78,7 @@ The good news is that the less-than-perfect matches also have upsides: you get t
 
 The second thing to check is whether **you know or can guess who the authors are.** Ideally, ARR peer review should be fully anonymous. The problem with implicit social biases is that they are unconscious; we may be 100% sure that we do not think worse of a paper just because it is written by someone from a group minoritized in computing research, and that we are not pre-disposed to like papers coming from famous labs, but we cannot really trust our conscious selves.
 
-Thus, when you get the assignment, do check that [anonymity is preserved](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation). If it is not, the paper should be **desk-rejected**: contact your action editor about this. You can also indicate that the paper should be desk-rejected if it does not follow the style guides or goes over the page limit (which does _not_ include the ethical considerations section). 
+Thus, when you get the assignment, do check that [anonymity is preserved](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation). If it is not, the paper should be **desk-rejected**: contact your action editor about this. You can also indicate that the paper should be desk-rejected if it does not follow the style guides or goes over the page limit (which does _not_ include the ethical considerations section).
 
 If anonymity is preserved, but you happen to know who the authors are from personal communication, social media or talks, ask for re-assignment if possible, especially if you have a conflict of interest (because you know the authors personally, have or will work with them etc.). For the papers where it is impossible to maintain anonymity (e.g., because they are [too famous](https://medium.com/@ryancotterell/we-should-anonymize-model-names-during-peer-review-bcab0cc78946), or the authors are easy to guess for anyone who works in the same narrow subfield), the ARR policy is to indicate your awareness of the authors' identity in the review form (more on that later).
 
@@ -253,7 +253,7 @@ Here is a list of such heuristics derived from author complaints in recent NLP c
   <tr>
    <td>The paper is missing the comparison to the [latest X]
    </td>
-   <td>Per <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation">ACL policy</a>, the authors are not obliged to draw comparisons with contemporaneous work, i.e., work published within three months before the submission (or three months before a re-submission). 
+   <td>Per <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation">ACL policy</a>, the authors are not obliged to draw comparisons with contemporaneous work, i.e., work published within three months before the submission (or three months before a re-submission). 
    </td>
   </tr>
   <tr>

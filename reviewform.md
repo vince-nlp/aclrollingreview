@@ -114,8 +114,8 @@ If the authors state (in anonymous fashion) that their software will be availabl
 
 ### Knowledge of/educated guess at author identity  
 
-* 5 = From a violation of the anonymity-window or other double-blind-submission rules, I know/can guess at least one author's name.
-* 4 = From an allowed pre-existing preprint or workshop paper, I know/can guess at least one author's name.
+* 5 = From a violation of double-blind-submission rules, I know/can guess at least one author's name. (Note that non-anonymous preprints are permitted at any time, so this is not a violation.)
+* 4 = From a preprint or allowed workshop paper, I know/can guess at least one author's name.
 * 3 = From the contents of the submission itself, I know/can guess at least one author's name.
 * 2 = From social media/a talk/other informal communication, I know/can guess at least one author's name.
 * 1 = I do not have even an educated guess about author identity.

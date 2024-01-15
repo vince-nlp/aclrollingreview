@@ -59,22 +59,6 @@ Short paper submissions must describe original and unpublished work. Please note
 
 Short papers may consist of up to four (4) pages of content, plus up to one page for the ethical considerations/limitations section (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
 
-### Anonymity Period
-
-ACL has [policies for submission, review, and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
-
-If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one-step process in OpenReview. Note, however, that if authors withdraw more than 48 hours after the submission deadline, they can’t resubmit until the 2nd following ARR round. Withdrawing while the reviewing process has been launched is a waste of time and effort of many people. Once a submission is withdrawn, it is removed from that cycle’s reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
-
-Please note that anonymity should be maintained during the entire revision process - until meta reviews have been posted. Also note that venues have anonymity policies for the commitment proces, and the timing may overlap, e.g., in 2023, the October cycle was Oct 15 - Dec 15, and EACL commitment was Dec 20, and so the anonymity period for commitment overlapped with the anonymity period for the cycle. It is the author’s responsibility to ensure that anonymity is kept. Submissions that violate this requirement will be desk rejected.
-
-Further info:
-
-- Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review. It will be publicized on Twitter by [a bot](https://twitter.com/ArrPreprints).
-- Authors may not make a non-anonymized version of their paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper, we mean another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
-- If the authors have posted a non-anonymized version of their paper online before the start of the anonymity period, they may submit an anonymized version to ARR. The submitted version must not refer to the non-anonymized version, and the authors must inform the editors-in-chief that a non-anonymized version exists.
-- Authors may not update the non-anonymized version during the anonymity period, and we ask authors not to advertise it on social media or take other actions that would further compromise two-way anonymized reviewing during the anonymity period.
-- Note that, while authors are not prohibited from making a non-anonymous version available online before the start of the anonymity period, this does make two-way anonymized reviewing more difficult to maintain, and we therefore encourage authors to wait. Alternatively, authors may consider submitting their work to the Computational Linguistics journal, which does not require anonymization and has a track for “short” (i.e., conference-length) papers.
-
 ### Instructions for Two-Way Anonymized Review
 
 Papers must not include authors’ names and affiliations. Furthermore, self-references that reveal the authors’ identities, e.g., “We previously showed (Smith, 1991) …” must be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …” Papers should not refer, for further detail, to documents that are not available to the reviewers.
@@ -82,6 +66,8 @@ Papers must not include authors’ names and affiliations. Furthermore, self-ref
 Supplementary materials should also be anonymized. This includes author responses during the review process.
 
 Submissions that violate these requirements will be desk rejected.
+
+ARR is subject to the [ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation), which were updated in early 2024. Beginning with the February 15, 2024 ARR deadlines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review.
 
 ### Authorship
 
@@ -97,7 +83,7 @@ In cases where a preprint has been superseded by a refereed publication, the ref
 
 Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to a submission, and authors are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.
 
-For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
+For more information, see the [ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation).
 
 ### Multiple Submission Policy
 
