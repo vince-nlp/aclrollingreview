@@ -45,7 +45,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/) | October 15th, 2023 | January 17th, 2024 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
 | [MWE-UD 2024](https://multiword.org/mweud2024/) | December 15th, 2023 | March 25th, 2024 |
-| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | TBC |
+| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | April 20th, 2024 |
 
 ## Past Venues that Accepted ARR Submissions
 
