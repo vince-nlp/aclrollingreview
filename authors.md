@@ -38,7 +38,7 @@ There is a submission **deadline** every two months: see [dates and venues](/dat
 The [submission form](/submissionform) asks for:
 - The PDF of your paper, adhering to [the submission guidelines](/cfp), including the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
 - Optional: supplementary materials, including software and/or code
-- [A responsible research checklist](/responsibleNLPresearch)
+- Answers to questions from [a responsible research checklist](/responsibleNLPresearch)
 - A short sentence describing your paper
 - Select tracks from the list in [the CFP](/cfp)
 - URLs for any non-anonymous preprints
