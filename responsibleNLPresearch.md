@@ -5,7 +5,7 @@ We expect authors to show that they follow best practices in two ways:
 1. by filling in the checklist to ensure that best practices are put in place when using, creating or providing assets,
 2. by including a discussion in the paper about any potential positive or negative societal impacts and any limitations of the work. The guidelines below provide additional information about what should be discussed.
 
-The checklist is completed as part of the submission from. Note, prior to February 2024, it was completed as a separate PDF.
+The checklist is completed as part of the submission form. Note, prior to February 2024, it was completed as a separate PDF.
 
 Reviewers will be asked to use the checklist as one of the factors in their evaluation.
 
