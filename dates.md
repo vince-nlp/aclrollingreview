@@ -9,7 +9,7 @@ permalink: /dates
 The schedule for 2023 is:
 
 | Cycle | Submission Date | Author Response | Cycle End |
-|---------------------|------------|------------|
+| ----- | --------------- | --------------- | --------- |
 | February 2023 | Feb 15th | March 27th - 30th | April 15th |
 | April 2023 | April 15th | May 27th - 30th | June 15th |
 | June 2023 | June 15th | July 28th - 31st | August 15th |
@@ -39,12 +39,14 @@ Current publication venues participating in ARR are listed below. If you represe
 | [LAW 2024](https://sigann.github.io/LAW-XVIII-2024/) | October 15th, 2023 | January 17th, 2024 |
 | [WNUT 2024](http://noisy-text.github.io/2024/) | October 15th, 2023 | January 17th, 2024 |
 | [MOOMIN 2024](https://moomin-workshop.github.io/) | October 15th, 2023 | January 17th, 2024 |
+| [NLP4HR 2024](https://megagon.ai/nlp4hr-2024/) | October 15th, 2023 | January 17th, 2024 |
 | [CALD-pseudo 2024](https://mormor-karl.github.io/events/CALD-pseudo/) | October 15th, 2023 | January 17th, 2024 |
-| [UncertaiNLP 2024](https://uncertainlp.github.io/) | October 15th, 2023 | January 17th, 2024 |
+| [UncertaiNLP 2024](https://uncertainlp.github.io/) | October 15th, 2023 | January 20th, 2024 |
 | [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/) | October 15th, 2023 | January 17th, 2024 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
 | [MWE-UD 2024](https://multiword.org/mweud2024/) | December 15th, 2023 | March 25th, 2024 |
-| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | TBC |
+| [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | April 20th, 2024 |
+| [ArabicNLP 2024](https://arabicnlp2024.sigarab.org/) | February 15th, 2024 | May 17th, 2024 |
 
 ## Past Venues that Accepted ARR Submissions
 
