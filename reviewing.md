@@ -22,8 +22,8 @@ Below is an approximate timeline for the February ARR review cycle. The other cy
 
 Month (example) | Date / Date range | What | Who
 ----------------------------- | ---- | ---- | ---
+January | 25 | Confirm availability to review | reviewers + AEs
 February | 1 | Submission site opens | authors
-February | 10 | Confirm availability to review | reviewers + AEs
 February | 15 | **Submission deadline** | authors
 February | 17 | Deadline to withdraw without penalty | authors
 February | 18-21 | Finalize AE assignments and check papers | SAEs
@@ -44,7 +44,9 @@ Each submission receives at least 3 reviews. A reviewer’s job is to offer an e
 ARR maintains a pool of reviewers. If you have not reviewed for ARR before and would like to volunteer, contact the editors. All authors of submissions are also expected to be willing to review and those with enough papers in DBLP are added as reviewers.
 
 ### Pre-cycle tasks
-The first time you are a reviewer, you must complete a form indicating which tracks you have the expertise to review for and confirming that your OpenReview profile is complete.
+The first time you are a reviewer, you must complete two forms.
+The registration form asks for the tracks you are capable of reviewing for, the languages you have expertise for, and checks that your profile is complete.
+The expertise selection form asks you to import papers you have authored, which will be used to inform our matching algorithm.
 
 Before every cycle, there is a request for availability with two questions: (1) what is your maximum load for new assignments, where 0 indicates you are not able to review new submissions, and (2) whether you are willing to review resubmissions, even if you answered ‘0’ to (1). It is helpful to agree to review any resubmissions so the authors can get the same reviewers again (assuming they did not request new reviewers).
 
@@ -116,6 +118,9 @@ Alternatively, if you wish to hand over full reviewing duties to a colleague or 
 
 Every submission is assigned to an action editor (AE), whose job is to oversee a team of reviewers evaluating the paper, and to write a meta-review summarizing the conclusions. You should treat the papers as submissions to ACL when evaluating them.
 
+All AE tasks occur through the AE console for the cycle.
+Access it by going to the OpenReview page for the cycle and opening the "Area Chair Console" link.
+
 ### Pre-cycle tasks
 
 The first time you are an AE, you must complete a form indicating which areas you have the **expertise** to be an AE for and confirming that your OpenReview profile is complete.
@@ -165,6 +170,16 @@ SAEs can **communicate** with authors, reviewers, and action editors in two ways
 1. Via email. Using the SAE Console, select papers and press the 'Message Reviewers' button, then select a group to contact, write a message and send it.
 Note that this approach maintains anonymity.  If AEs or reviewers are unresponsive, their email address is visible in the SAE console.  Note that reviewers of a paper are anonymous to each other, identified by pseudonyms in the discussion period, and do not see the identity of their AE in OpenReview.
 2. Via messages (or "comments") in the OpenReview interface for each paper.  The process for communication is the same as the process for reviewers to make comments (see step-by-step instructions [here](https://docs.google.com/document/d/1Zdc57K54tJaDii2DccH0ZxtakOrNdsUF1SK7svqDBIU/edit#heading=h.kpesxugglxbq)).
+
+### SAE FAQ
+
+**Q**: How can modify reviewer assignments?<br />
+**A**: You can access and modify these as follows:
+- Go to Senior Area Chair console
+- Click Paper Status tab
+- In the table that shows up, next to each paper there should be a "Modify Reviewer Assignments" link. Click on that.
+- It shows the Action Editor assignments (not reviewer). So next you need to look for the paper you care about and click on "Assignments (x) >>". 
+- Edit the options that appear.
 
 SAEs should direct questions about the process to the Editors-in-Chief.
 
