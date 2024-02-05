@@ -10,7 +10,7 @@ This page describes what we have done and what are are considering for the futur
 
 # Plans
 
-### April 2023
+### April 2024
 - Switching to the OpenReview API v2, this is a necessary change that will have some benefits in terms of what we can do.
 
 # Suggestions
