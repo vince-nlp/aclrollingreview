@@ -20,6 +20,20 @@ What are the concerns that you have about the paper that would cause you to favo
 
 If you have any comments to the authors about how they may improve their paper, other than addressing the concerns above, please list them here.
 
+### Soundness
+
+How sound and thorough is this study? Does the paper clearly state scientific claims and provide adequate support for them? For experimental papers: consider the depth and/or breadth of the research questions investigated, technical soundness of experiments, methodological validity of evaluation. For position papers, surveys: consider the current state of the field is adequately represented, and main counter-arguments acknowledged. For resource papers: consider the data collection methodology, resulting data & the difference from existing resources are described in sufficient detail. Please adjust your baseline to account for the length of the paper.
+
+* 5 = Excellent: This study is one of the most thorough I have seen, given its type.
+* 4.5 
+* 4 = Strong: This study provides sufficient support for all of its claims/arguments. Some extra experiments could be nice, but not essential.
+* 3.5 
+* 3 = Acceptable: This study provides sufficient support for its major claims/arguments. Some minor points may need extra support or details.
+* 2.5 
+* 2 = Poor: Some of the main claims/arguments are not sufficiently supported. There are major technical/methodological problems.
+* 1.5 
+* 1 = Major Issues: This study is not yet sufficiently thorough to warrant publication or is not relevant to ACL.
+
 ### Overall Assessment
 
 Would you personally like to see this paper presented at an *ACL event that invites submissions on this topic? For example, you may feel that a paper should be presented if its contributions would be useful to its target audience, deepen the understanding of a given topic, or help establish cross-disciplinary connections. Note: Even high-scoring papers can be in need of minor changes (e.g. typos, non-core missing refs, etc.).
@@ -100,8 +114,8 @@ If the authors state (in anonymous fashion) that their software will be availabl
 
 ### Knowledge of/educated guess at author identity  
 
-* 5 = From a violation of the anonymity-window or other double-blind-submission rules, I know/can guess at least one author's name.
-* 4 = From an allowed pre-existing preprint or workshop paper, I know/can guess at least one author's name.
+* 5 = From a violation of double-blind-submission rules, I know/can guess at least one author's name. (Note that non-anonymous preprints are permitted at any time, so this is not a violation.)
+* 4 = From a preprint or allowed workshop paper, I know/can guess at least one author's name.
 * 3 = From the contents of the submission itself, I know/can guess at least one author's name.
 * 2 = From social media/a talk/other informal communication, I know/can guess at least one author's name.
 * 1 = I do not have even an educated guess about author identity.

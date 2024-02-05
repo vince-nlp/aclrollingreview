@@ -88,6 +88,16 @@ p {
   margin: 15px 0;
 }
 
+sup { /* browser defaults are overridden by "reset" */
+  font-size: small;
+  vertical-align: super;
+}
+
+sub { /* browser defaults are overridden by "reset" */
+  font-size: small;
+  vertical-align: sub;
+}
+
 table {
 	padding: 0;
 }

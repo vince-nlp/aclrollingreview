@@ -12,7 +12,7 @@ All authors must have complete OpenReview profiles. Please ensure profiles are c
 
 ## Paper Format
 
-The template and guidelines are available from [here](https://acl-org.github.io/ACLPUB/formatting.html).
+The template and guidelines are available [here](https://acl-org.github.io/ACLPUB/formatting.html).
 
 For ARR submissions, references and appendices should be included in the pdf for the paper, but do not count towards the page limit.
 
@@ -25,11 +25,11 @@ Some key items for first time authors:
 
 ## Anonymization and Citation
 
-Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) for the ACL policies for submission, review and citation. Most of this information is also covered in the template and format guidelines linked above.
+Please refer to [this page](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation) for the ACL policies for review and citation. Most of this information is also covered in the template and format guidelines linked above.
 
 ## Responsible NLP Research
 
-Responsible NLP research means (among other things) taking into account issues related to ethics and to reproducibility. We provide a checklist, with guidelines and explanation, for [responsible NLP research](/responsibleNLPresearch). The completed checklist should be uploaded alongside the submitted paper, as a separate PDF upload.
+Responsible NLP research means (among other things) taking into account issues related to ethics and to reproducibility. Our submission form includes questions for a checklist, with guidelines and explanation, for [responsible NLP research](/responsibleNLPresearch). Note, prior to February 2024, this was submitted as a separate PDF.
 
 In addition:
 - Authors are encouraged to devote a section of their paper to concerns of the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers).  

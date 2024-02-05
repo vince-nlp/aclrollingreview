@@ -59,22 +59,6 @@ Short paper submissions must describe original and unpublished work. Please note
 
 Short papers may consist of up to four (4) pages of content, plus up to one page for the ethical considerations/limitations section (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
 
-### Anonymity Period
-
-ACL has [policies for submission, review, and citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) designed to protect the integrity of two-way anonymized review and ensure that submissions are reviewed fairly. A paper can only be (re)submitted to ARR if no deanonymized preprint has been posted in the month prior to submission. Also, a paper can only be submitted to a venue if no deanonymized preprint has been posted in the month prior to submission. Submissions will be rejected if not properly anonymized.
-
-If authors would like to post a non-anonymous preprint or otherwise deanonymize their submission, they will have to withdraw their submission from ARR, a one-step process in OpenReview. Note, however, that if authors withdraw more than 48 hours after the submission deadline, they can’t resubmit until the 2nd following ARR round. Withdrawing while the reviewing process has been launched is a waste of time and effort of many people. Once a submission is withdrawn, it is removed from that cycle’s reviewing pool. Authors may then make a new submission (subject to the one month anonymity waiting period) which would potentially go to a new AE and new reviewers.
-
-Please note that anonymity should be maintained during the entire revision process - until meta reviews have been posted. It is the author’s responsibility to ensure that anonymity is kept. Submissions that violate this requirement will be desk rejected.
-
-Further info:
-
-- Authors may allow their anonymized submission to be publicly available on OpenReview while it is under ARR review. It will be publicized on Twitter by [a bot](https://twitter.com/ArrPreprints).
-- Authors may not make a non-anonymized version of their paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper, we mean another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
-- If the authors have posted a non-anonymized version of their paper online before the start of the anonymity period, they may submit an anonymized version to ARR. The submitted version must not refer to the non-anonymized version, and the authors must inform the editors-in-chief that a non-anonymized version exists.
-- Authors may not update the non-anonymized version during the anonymity period, and we ask authors not to advertise it on social media or take other actions that would further compromise two-way anonymized reviewing during the anonymity period.
-- Note that, while authors are not prohibited from making a non-anonymous version available online before the start of the anonymity period, this does make two-way anonymized reviewing more difficult to maintain, and we therefore encourage authors to wait. Alternatively, authors may consider submitting their work to the Computational Linguistics journal, which does not require anonymization and has a track for “short” (i.e., conference-length) papers.
-
 ### Instructions for Two-Way Anonymized Review
 
 Papers must not include authors’ names and affiliations. Furthermore, self-references that reveal the authors’ identities, e.g., “We previously showed (Smith, 1991) …” must be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …” Papers should not refer, for further detail, to documents that are not available to the reviewers.
@@ -82,6 +66,8 @@ Papers must not include authors’ names and affiliations. Furthermore, self-ref
 Supplementary materials should also be anonymized. This includes author responses during the review process.
 
 Submissions that violate these requirements will be desk rejected.
+
+ARR is subject to the [ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php/ACL_Policies_for_Review_and_Citation), which were updated in early 2024. Beginning with the February 15, 2024 ARR deadlines, there is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review.
 
 ### Authorship
 
@@ -97,7 +83,7 @@ In cases where a preprint has been superseded by a refereed publication, the ref
 
 Papers (whether refereed or not) appearing less than 3 months before the submission deadline are considered contemporaneous to a submission, and authors are therefore not obliged to make detailed comparisons that require additional experimentation and/or in-depth analysis.
 
-For more information, see the [ACL Policies for Submission, Review, and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation).
+For more information, see the [ACL Policies for Review and Citation](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Review_and_Citation).
 
 ### Multiple Submission Policy
 
@@ -126,9 +112,9 @@ Authors considering a resubmission should also refer to the withdrawal policy be
 
 Authors are required to honour the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics).
 
-The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a [responsible NLP research checklist](/responsibleNLPresearch), which authors must upload alongside their paper.
+The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. Authors are encouraged to devote a section of their paper to concerns about the ethical impact of the work and to a discussion of broader impacts of the work, which will be taken into account in the review process. This discussion may extend into a 5th page (short papers) or 9th page (long papers). In addition, we provide a [responsible NLP research checklist](/responsibleNLPresearch), which authors must complete as part of their paper submission.
 
-We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work, or have failed to provide a responsible checklist. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
+We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work. Indeed, the ARR review form includes a section addressing these issues and papers flagged for ethical concerns by reviewers or action editors will be further reviewed by the Ethics Advisory Committee (EAC).
 
 ### AI Writing Assistance Policy {#ai-assistance}
 
@@ -150,7 +136,7 @@ Authors should check for potential plagiarism, both of text and code.
 
 ### Limitations
 
-We encourage authors to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers.
+Authors are required to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers. Note, prior to the December 2023 cycle, this was optional.
 
 ### Withdrawal Policy
 

@@ -22,7 +22,6 @@ Below is an approximate timeline for the February ARR review cycle. The other cy
 
 Month (example) | Date / Date range | What | Who
 ----------------------------- | ---- | ---- | ---
-January | 15 | Beginning of anonymity period | authors
 February | 1 | Submission site opens | authors
 February | 10 | Confirm availability to review | reviewers + AEs
 February | 15 | **Submission deadline** | authors
@@ -65,7 +64,8 @@ As a reviewer, your main duties for a submission are:
   - **Resubmissions**: If the paper is a resubmission and you reviewed the previous version, your review can focus on the changes. If you did not review the previous version, write your review based on the revised version alone. Once this is submitted, you will gain access to the previous reviews so you can check for additional points you had not considered.
 - Checking the responsible research checklist and deciding whether ethics review would be appropriate for the submission
 - Being responsive to email inquiries; keeping the AE informed if there is a delay in submitting the review
-- Reading the author response (if any) and the other reviews, participating in reviewer discussions, revising your review if you have anything to add
+- Reading the author response (if any) and engaging in discussion (new in October 2023).
+- Resding the other reviews, participating in reviewer discussions, and revising your review if you have anything to add
 
 For a step-by-step guide to reviewing, including advice on what aspects of the paper to think about and what criticisms are considered fair, see the [**reviewer tutorial**](reviewertutorial).
 
@@ -160,6 +160,11 @@ ARR submissions include a metadata field for topic area (see the [Call for Paper
 Unlike the traditional conference model, SAEs do not make acceptance/rejection recommendations. Those are made by venues in the commitment phase.
 
 AEs, reviewers, and authors are not told who their SAE is. SAEs are able to see the identities of AEs and reviewers, but not authors.
+
+SAEs can **communicate** with authors, reviewers, and action editors in two ways:
+1. Via email. Using the SAE Console, select papers and press the 'Message Reviewers' button, then select a group to contact, write a message and send it.
+Note that this approach maintains anonymity.  If AEs or reviewers are unresponsive, their email address is visible in the SAE console.  Note that reviewers of a paper are anonymous to each other, identified by pseudonyms in the discussion period, and do not see the identity of their AE in OpenReview.
+2. Via messages (or "comments") in the OpenReview interface for each paper.  The process for communication is the same as the process for reviewers to make comments (see step-by-step instructions [here](https://docs.google.com/document/d/1Zdc57K54tJaDii2DccH0ZxtakOrNdsUF1SK7svqDBIU/edit#heading=h.kpesxugglxbq)).
 
 SAEs should direct questions about the process to the Editors-in-Chief.
 
