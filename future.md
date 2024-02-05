@@ -69,4 +69,3 @@ These are some of the ideas that have been implemented since ARR started.
 ### Other
 - Dual-submission checking support.
 - Extracting service records, to speed up the creation of service certificates.
-- 
