@@ -29,6 +29,7 @@ The following ideas have been suggested and may be considered in future ARR deve
 
 ### Website
 - Create a public record of who actually did reviewing, etc for each cycle.
+- On the stats page, show resubmission stats as distributions rather than with box plots (at the moment it is hard to see what the median is)
 
 ### Other
 - A mentoring system for new reviewers.
