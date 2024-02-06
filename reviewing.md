@@ -173,7 +173,7 @@ Note that this approach maintains anonymity.  If AEs or reviewers are unresponsi
 
 ### SAE FAQ
 
-**Q**: How can modify reviewer assignments?<br />
+**Q**: How can I modify reviewer assignments?<br />
 **A**: You can access and modify these as follows:
 - Go to Senior Area Chair console
 - Click Paper Status tab

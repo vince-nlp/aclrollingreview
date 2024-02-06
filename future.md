@@ -21,7 +21,7 @@ The following ideas have been suggested and may be considered in future ARR deve
 - Adding a category of "training" reviewers. Assign them to papers in addition to the normal reviewers. This will help grow the pool of reviewers over time.
 
 ### OpenReview UI
-- Show AE's and SAE's the meta-review scores in the list of papers.
+- Show AEs and SAEs the meta-review scores in the list of papers.
 - Show SAEs, AEs, and reviewers the planned schedule in the OpenReview interface.
 - A formal way to indicate secondary reviewer contributions.
 - Give authors the ability to download all materials for a paper as a PDF, maintaining anonymisation.
@@ -29,7 +29,7 @@ The following ideas have been suggested and may be considered in future ARR deve
 
 ### Website
 - Create a public record of who actually did reviewing, etc for each cycle.
-- On the stats page, show resubmission stats as distributions rather than with box plots (at the moment it is hard to see what the median is)
+- On the stats page, show resubmission stats as distributions rather than with box plots (at the moment it is hard to see what the median is).
 
 ### Other
 - A mentoring system for new reviewers.
