@@ -4,7 +4,7 @@ title: "For Authors"
 permalink: /authors
 ---
 
-***Quick links: [2023 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023) * [How to Submit on OpenReview](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing)***
+***Quick links: [2024 Submission Sites](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024) * [How to Submit on OpenReview](https://docs.google.com/presentation/d/1Z2ZiQLLXrnzInVkwgeDjbAWjOFtbu2_uezKC_SZUPNU/edit?usp=sharing)***
 
 This page contains a step-by-step guide and FAQ for authors who wish to have their work reviewed by ARR:
 - [Step 0](#step0): Is ARR right for your paper?
