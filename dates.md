@@ -33,16 +33,6 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 | ----- | ------------------------- | --------------- |
-| [NEJLT volume 9 (2)](https://www.nejlt.org/) | August 15th, 2023 | November 1st, 2023 |
-| [EACL 2024 main](https://2024.eacl.org/), and [commitment](https://openreview.net/group?id=eacl.org/EACL/2024/Conference) | October 15th, 2023 | December 20th, 2023 |
-| [EACL 2024 SRW](https://sites.google.com/view/eacl2024srw) | October 15th, 2023 | January 17th, 2024 |
-| [LAW 2024](https://sigann.github.io/LAW-XVIII-2024/) | October 15th, 2023 | January 17th, 2024 |
-| [WNUT 2024](http://noisy-text.github.io/2024/) | October 15th, 2023 | January 17th, 2024 |
-| [MOOMIN 2024](https://moomin-workshop.github.io/) | October 15th, 2023 | January 17th, 2024 |
-| [NLP4HR 2024](https://megagon.ai/nlp4hr-2024/) | October 15th, 2023 | January 17th, 2024 |
-| [CALD-pseudo 2024](https://mormor-karl.github.io/events/CALD-pseudo/) | October 15th, 2023 | January 17th, 2024 |
-| [UncertaiNLP 2024](https://uncertainlp.github.io/) | October 15th, 2023 | January 20th, 2024 |
-| [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/) | October 15th, 2023 | January 17th, 2024 |
 | [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
 | [MWE-UD 2024](https://multiword.org/mweud2024/) | December 15th, 2023 | March 25th, 2024 |
 | [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | April 20th, 2024 |
@@ -100,3 +90,13 @@ Current publication venues participating in ARR are listed below. If you represe
 - [EMNLP 2023](https://2023.emnlp.org/)
 - [IJCNLP-AACL 2023](http://www.ijcnlp-aacl2023.org/)
 - [GenBench 2023](https://genbench.org/workshop)
+- [NEJLT volume 9 (2)](https://www.nejlt.org/)
+- [EACL 2024 main](https://2024.eacl.org/)
+- [EACL 2024 SRW](https://sites.google.com/view/eacl2024srw)
+- [LAW 2024](https://sigann.github.io/LAW-XVIII-2024/)
+- [WNUT 2024](http://noisy-text.github.io/2024/)
+- [MOOMIN 2024](https://moomin-workshop.github.io/)
+- [NLP4HR 2024](https://megagon.ai/nlp4hr-2024/)
+- [CALD-pseudo 2024](https://mormor-karl.github.io/events/CALD-pseudo/)
+- [UncertaiNLP 2024](https://uncertainlp.github.io/)
+- [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/)
