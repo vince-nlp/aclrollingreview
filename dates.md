@@ -6,16 +6,16 @@ permalink: /dates
 
 ## Reviewing Schedule
 
-The schedule for 2023 is:
+The schedule for 2024 is:
 
 | Cycle | Submission Date | Author Response | Cycle End |
 | ----- | --------------- | --------------- | --------- |
-| February 2023 | Feb 15th | March 27th - 30th | April 15th |
-| April 2023 | April 15th | May 27th - 30th | June 15th |
-| June 2023 | June 15th | July 28th - 31st | August 15th |
-| August 2023 | August 15th | September 27th - 30th | October 15th |
-| October 2023 | October 15th | November 23rd - 28th | December 15th |
-| December 2023 | December 15th | January 22nd - 25th | February 15th |
+| [February 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/February) | Feb 15th | March 24th - 27th | April 15th |
+| April 2024 | April 15th |  | June 15th |
+| June 2024 | June 15th |  | August 15th |
+| August 2024 | August 15th |  | October 15th |
+| October 2024 | October 15th |  | December 15th |
+| December 2024 | December 15th |  | February 15th |
 
 ARR deadlines happen __every 2 months__, on the 15th of even-numbered months: that is, **the 15th of February, April, June, August, October, and December**.[^1]
 
