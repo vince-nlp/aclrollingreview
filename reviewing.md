@@ -64,7 +64,7 @@ As a reviewer, your main duties for a submission are:
   - If you have suggestions, indicate whether they would substantially improve your view of the paper if incorporated in a resubmission
   - Evaluate the paper as if it was a submission to the main ACL conference
   - **Resubmissions**: If the paper is a resubmission and you reviewed the previous version, your review can focus on the changes. If you did not review the previous version, write your review based on the revised version alone. Once this is submitted, you will gain access to the previous reviews so you can check for additional points you had not considered.
-- Checking the responsible research checklist and deciding whether ethics review would be appropriate for the submission
+- Checking the responsible research checklist and deciding whether ethics review would be appropriate for the submission, following these [guidelines](https://aclrollingreview.org/ethics-flagging-guidelines/)
 - Being responsive to email inquiries; keeping the AE informed if there is a delay in submitting the review
 - Reading the author response (if any) and engaging in discussion (new in October 2023).
 - Resding the other reviews, participating in reviewer discussions, and revising your review if you have anything to add
@@ -189,7 +189,7 @@ During ARR review, some submissions are flagged for ethics review. These submiss
 
 Ethics reviewing happens in parallel to regular reviewing, and the ethics reviews are not shown to regular reviewers. After flagging a paper, reviewers and AEs should complete their work without further consideration for the ethical issues raised.
 
-Papers can be flagged for ethics review at any time in the review process. Most are flagged early, through the checklists AEs and reviewers complete. Some are only flagged during the main review process. In either case, the process is the same.
+Papers can be flagged for ethics review at any time in the review process. Most are flagged early, through the checklists AEs and reviewers complete. Some are only flagged during the main review process. In either case, the process is the same. The guidelines for flagging papers for ethics review are [here](https://aclrollingreview.org/ethics-flagging-guidelines/).
 
 # Venue Program Committees {#PCs}
 
