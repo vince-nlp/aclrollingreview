@@ -4,6 +4,8 @@ title: "Guidelines for Ethics Reviewing"
 permalink: /ethicsreviewertutorial
 ---
 
+Note: if you are considering flagging a paper for ethics review, please follow the guidelines outlined [here](https://aclrollingreview.org/ethics-flagging-guidelines/).
+
 Section 1. Scope
 -----------------
 
