@@ -36,7 +36,7 @@ Some caveats:
 There is a submission **deadline** every two months: see [dates and venues](/dates). Deadlines are firm.
 
 The [submission form](/submissionform) asks for:
-- The PDF of your paper, adhering to [the submission guidelines](/cfp), including the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html)
+- The PDF of your paper, adhering to [the submission guidelines](/cfp), including the formatting in [the submission templates](https://acl-org.github.io/ACLPUB/formatting.html), which is available as an [Overleaf template](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj)
 - Optional: supplementary materials, including software and/or code
 - Answers to questions from [a responsible research checklist](/responsibleNLPresearch)
 - A short sentence describing your paper
