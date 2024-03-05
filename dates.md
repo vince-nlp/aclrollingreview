@@ -38,6 +38,9 @@ Current publication venues participating in ARR are listed below. If you represe
 | [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | April 20th, 2024 |
 | [ArabicNLP 2024](https://arabicnlp2024.sigarab.org/) | February 15th, 2024 | May 17th, 2024 |
 | [CMCL 2024](https://cmclorg.github.io/) | February 15th, 2024 | May 17th, 2024 |
+| [SDProc 2024](https://sdproc.org/2024/index.html) | February 15th, 2024 | May 17th, 2024 |
+| [ML4AL 2024](https://www.ml4al.com/) | February 15th, 2024 | May 17th, 2024 |
+
 
 ## Past Venues that Accepted ARR Submissions
 

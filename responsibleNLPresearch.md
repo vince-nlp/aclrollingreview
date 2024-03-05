@@ -130,6 +130,16 @@ For example, if you collected data via crowdsourcing, did your instructions to c
 - The paper is accompanied by a data statement (see [Bender and Friedman, 2018](https://aclanthology.org/Q18-1041.pdf)) describing the basic demographic and geographic characteristics of the author population that is the source of the data, and the population that it is intended to represent. 
 - If applicable: the paper describes whether any characteristics of the human subjects were self-reported (preferably) or inferred (in what way), justifying the methodology and choice of description categories.
 
+
+### E. Did you use AI assistants (e.g., ChatGPT, Copilot) in your research, coding, or writing?
+
+**E1. Did you include information about your use of AI assistants?**
+
+**E1. Elaboration For Yes Or No. For yes, provide a section number. For no, justify why not.**
+
+**E1. Section Or Justification**
+
+
 ## ARR review form
 The [ARR review form](https://aclrollingreview.org/reviewform) takes aspects of ethics and reproducibility into account.
 
