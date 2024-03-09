@@ -1,87 +1,94 @@
 {
     "title": {
-        "description": "Provide the title of the ARR submission that you want to commit to this venue.",
-        "order": 1,
-        "value-regex": ".{1,250}",
-        "required": true
-    },
-    "paper_link": {
-        "description": "Provide the link to your previous ARR submission. Please link to the most recent version.",
-        "order": 2,
-        "value-regex": ".{1,250}",
-        "required": true
+        "value": {
+            "param": {
+                "type": "string",
+                "regex": ".{1,250}"
+            }
+        },
+        "description": "Title of the ARR submission that you want to commit to this venue.",
+        "order": 1
     },
     "paper_type": {
+        "value": {
+            "param": {
+                "type": "string",
+                "input": "radio",
+                "enum": ["short", "long"]
+            }
+        },
         "description": "Short or long. See the CFP for the requirements for short and long papers.",
-        "value-radio": [
-            "long",
-            "short"
-        ],
-        "order": 3,
-        "required": true
-    },
-    "authors": {
-        "description": "Comma separated list of author names.",
-        "order": 4,
-        "values-regex": "[^;,\\n]+(,[^,\\n]+)*",
-        "required": true,
-        "hidden": true
-    },
-    "authorids": {
-        "description": "Search author profile by first, middle and last name or email address. If the profile is not found, you can add the author by completing first, middle, and last names as well as author email address.",
-        "order": 5,
-        "values-regex": "~.*|([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,},){0,}([a-z0-9_\\-\\.]{1,}@[a-z0-9_\\-\\.]{2,}\\.[a-z]{2,})",
-        "required": true
+        "order": 3
     },
     "comment": {
+        "value": {
+            "param": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 5000,
+                "input": "textarea",
+                "markdown": true,
+                "optional": true
+            }
+        },
         "description": "Optional comments to the program chairs. These comments are mainly to raise potential concerns about objective misunderstandings by the reviewers and/or by the action editor that the authors believe will help the SACs in their decision making process.  Note that these comments will NOT go to the ARR reviewers, nor will they be seen by the ARR action editor. ",
-        "order": 6,
-        "value-regex": "[\\S\\s]{1,5000}",
-        "required": false
+        "order": 6
     },
     "research_area": {
+        "value": {
+            "param": {
+                "type": "string",
+                "input": "radio",
+                "enum": [
+                    "Computational Social Science and Cultural Analytics",
+                    "Dialogue and Interactive Systems",
+                    "Discourse and Pragmatics",
+                    "Efficient/Low-Resource Methods for NLP",
+                    "Ethics, Bias, and Fairness",
+                    "Generation",
+                    "Information Extraction",
+                    "Information Retrieval and Text Mining",
+                    "Interpretability and Analysis of Models for NLP",
+                    "Linguistic theories, Cognitive Modeling and Psycholinguistics",
+                    "Machine Learning for NLP",
+                    "Machine Translation",
+                    "Multilinguality and Language Diversity",
+                    "Multimodality and Language Grounding to Vision, Robotics and Beyond",
+                    "Phonology, Morphology and Word Segmentation",
+                    "Question Answering",
+                    "Resources and Evaluation",
+                    "Semantics: Lexical",
+                    "Semantics: Sentence-level Semantics, Textual Inference and Other areas",
+                    "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
+                    "Speech recognition, text-to-speech and spoken language understanding",
+                    "Summarization",
+                    "Syntax: Tagging, Chunking and Parsing / ML",
+                    "NLP Applications",
+                    "Special Theme (conference specific)"
+                ],
+                "optional": true
+            }
+        },
         "description": "Research Areas / Tracks. Select the most relevant research area / track for your paper.",
-        "value-radio": [
-          "Computational Social Science and Cultural Analytics",
-          "Dialogue and Interactive Systems",
-          "Discourse and Pragmatics",
-          "Efficient/Low-Resource Methods for NLP",
-          "Ethics, Bias, and Fairness",
-          "Generation",
-          "Information Extraction",
-          "Information Retrieval and Text Mining",
-          "Interpretability and Analysis of Models for NLP",
-          "Linguistic theories, Cognitive Modeling and Psycholinguistics",
-          "Machine Learning for NLP",
-          "Machine Translation",
-          "Multilinguality and Language Diversity",
-          "Multimodality and Language Grounding to Vision, Robotics and Beyond",
-          "Phonology, Morphology and Word Segmentation",
-          "Question Answering",
-          "Resources and Evaluation",
-          "Semantics: Lexical",
-          "Semantics: Sentence-level Semantics, Textual Inference and Other areas",
-          "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
-          "Speech recognition, text-to-speech and spoken language understanding",
-          "Summarization",
-          "Syntax: Tagging, Chunking and Parsing / ML",
-          "NLP Applications",
-          "Special Theme (conference specific)"
-        ],
-        "order": 7,
-        "required": true
+        "order": 7
     },
     "confirmation_of_submission_requirements": {
+        "value": {
+            "param": {
+                "type": "string[]",
+                "input": "checkbox",
+                "enum": [
+                    "You are one of the authors of the paper.",
+                    "Your submission has at most 8 pages (long) or 4 pages (short) of content.",
+                    "Your submission is fully anonymized.",
+                    "You have read our Code of Ethics and your paper does not violate the policy.",
+                    "This link is for the latest version of the paper in ARR that has reviews and a meta-review.",
+                    "Your submission includes the mandatory Limitations section."
+                ],
+                "optional": true
+            }
+        },
         "description": "Before you submit this paper, please make sure that the following requirements are met. If any of these requirements are not fulfilled, your submission will be rejected.",
-        "values-checkbox": [
-            "You are one of the authors of the paper.",
-	    "Your submission has at most 8 pages (long) or 4 pages (short) of content.",
-            "Your submission is fully anonymized.",
-            "You have read our Code of Ethics and your paper does not violate the policy.",
-            "This link is for the latest version of the paper in ARR that has reviews and a meta-review.",
-            "Your submission includes the mandatory Limitations section."
-        ],
-        "required": false,
         "order": 8
     }
 }
