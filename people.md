@@ -236,6 +236,7 @@ Contact: `mentorship at aclrollingreview.org`
 - Eyal Ben-David, Technion - Israel Institute of Technology, Technion
 - Fabio Massimo Zanzotto, University of Rome Tor Vergata
 - Fabio Petroni, Facebook
+- Farhad Nooralahzadeh,	University of Zurich
 - Florian Boudin, University of Nantes
 - Francis Ferraro, University of Maryland, Baltimore County
 - Franco Maria Nardini, CNR
