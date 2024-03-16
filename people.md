@@ -41,7 +41,7 @@ Contact: `editors at aclrollingreview.org`
 - Sudipta Kar, Amazon (Co-Chief Technical Officer)
 - Jonathan K. Kummerfeld, University of Sydney (Co-Chief Technical Officer)
 - Nils Dycke, TU Darmstadt
-- Yoshitomo Matsubara, Amazon Alexa AI
+- Yoshitomo Matsubara, Spiffy AI
 - Dhruv Naik, Carnegie Mellon University
 
 Contact: `tech at aclrollingreview.org`
