@@ -28,14 +28,14 @@ February | 15 | **Submission deadline** | authors
 February | 17 | Deadline to withdraw without penalty | authors
 February | 18-21 | Finalize AE assignments and check papers | SAEs
 February | 22-25 | Finalize reviewer assignments and check papers | AEs
-February | 26 | Receive and check assignments | reviewers
-March | 15 | Reviews due | reviewers
-March | 16-18 | Check review quality and prompt reviewers to reconsider the paper where appropriate | AEs
-March | 19-23 | Author response | authors
-March | 24-29 | Reviewer discussion, updating reviews | reviewers + AEs
-March | 30 | Meta-reviews due | AEs
+February | 29 | Receive and check assignments | reviewers
+March | 20 | Reviews due | reviewers
+March | 18-20 | Check review quality and prompt reviewers to reconsider the paper where appropriate | AEs
+March | 26-29 | Author response | authors
+March - April | March 31 - April 2 | Reviewer discussion, updating reviews | reviewers + AEs
+April | 7 | Meta-reviews due | AEs
 April | 1-11 | Complete ethics review process | Ethics reviewers
-April | 12 | Final reviews released to authors
+April | 14 | Final reviews released to authors
 
 # Reviewers {#reviewers}
 
