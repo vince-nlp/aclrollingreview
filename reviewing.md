@@ -67,7 +67,7 @@ As a reviewer, your main duties for a submission are:
 - Checking the responsible research checklist and deciding whether ethics review would be appropriate for the submission, following these [guidelines](https://aclrollingreview.org/ethics-flagging-guidelines/)
 - Being responsive to email inquiries; keeping the AE informed if there is a delay in submitting the review
 - Reading the author response (if any) and engaging in discussion (new in October 2023).
-- Resding the other reviews, participating in reviewer discussions, and revising your review if you have anything to add
+- Reading the other reviews, participating in reviewer discussions, and revising your review if you have anything to add
 
 For a step-by-step guide to reviewing, including advice on what aspects of the paper to think about and what criticisms are considered fair, see the [**reviewer tutorial**](reviewertutorial).
 
