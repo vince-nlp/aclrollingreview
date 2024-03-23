@@ -31,7 +31,7 @@ February | 22-25 | Finalize reviewer assignments and check papers | AEs
 February | 29 | Receive and check assignments | reviewers
 March | 20 | Reviews due | reviewers
 March | 18-20 | Check review quality and prompt reviewers to reconsider the paper where appropriate | AEs
-March | 26-29 | Author response | authors
+March | 26-30 | Author response | authors
 March - April | March 31 - April 2 | Reviewer discussion, updating reviews | reviewers + AEs
 April | 7 | Meta-reviews due | AEs
 April | 1-11 | Complete ethics review process | Ethics reviewers
