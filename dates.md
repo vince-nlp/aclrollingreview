@@ -8,7 +8,7 @@ permalink: /dates
 
 The schedule for 2024 is:
 
-| Cycle | Submission Date | Author Response | Cycle End |
+| Cycle | Submission Deadline | Author Response | Cycle End |
 | ----- | --------------- | --------------- | --------- |
 | [February 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/February) | Feb 15th | March 26th - 30th | April 15th |
 | April 2024 | April 15th |  | June 15th |
@@ -33,14 +33,12 @@ Current publication venues participating in ARR are listed below. If you represe
 
 | Venue | Final ARR Submission Date | Commitment Date |
 | ----- | ------------------------- | --------------- |
-| [NAACL 2024](https://2024.naacl.org/) | December 15th, 2023 | February 20th, 2024 |
-| [MWE-UD 2024](https://multiword.org/mweud2024/) | December 15th, 2023 | March 25th, 2024 |
 | [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | April 20th, 2024 |
 | [ArabicNLP 2024](https://arabicnlp2024.sigarab.org/) | February 15th, 2024 | May 17th, 2024 |
 | [CMCL 2024](https://cmclorg.github.io/) | February 15th, 2024 | May 17th, 2024 |
 | [SDProc 2024](https://sdproc.org/2024/index.html) | February 15th, 2024 | May 17th, 2024 |
 | [ML4AL 2024](https://www.ml4al.com/) | February 15th, 2024 | May 17th, 2024 |
-
+| [EMNLP 2024](https://2024.emnlp.org/) | June 15th, 2024 | August 20th, 2024 |
 
 ## Past Venues that Accepted ARR Submissions
 
@@ -103,3 +101,5 @@ Current publication venues participating in ARR are listed below. If you represe
 - [CALD-pseudo 2024](https://mormor-karl.github.io/events/CALD-pseudo/)
 - [UncertaiNLP 2024](https://uncertainlp.github.io/)
 - [SCI-CHAT 2024](https://sites.google.com/view/dialogue-evaluation/)
+- [NAACL 2024](https://2024.naacl.org/)
+- [MWE-UD 2024](https://multiword.org/mweud2024/)
