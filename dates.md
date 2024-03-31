@@ -8,10 +8,10 @@ permalink: /dates
 
 The schedule for 2024 is:
 
-| Cycle | Submission Deadline | Author Response | Cycle End |
+| Cycle | Submission | Author Response | Cycle End |
 | ----- | --------------- | --------------- | --------- |
-| [February 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/February) | Feb 15th | March 26th - 30th | April 15th |
-| April 2024 | April 15th |  | June 15th |
+| [February 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/February) | Feb 1st - Feb 15th | March 26th - 30th | April 15th |
+| [April 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/April) | April 4th - April 15th |  | June 15th |
 | June 2024 | June 15th |  | August 15th |
 | August 2024 | August 15th |  | October 15th |
 | October 2024 | October 15th |  | December 15th |
