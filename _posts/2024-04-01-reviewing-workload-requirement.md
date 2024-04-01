@@ -19,12 +19,15 @@ This requirement has to be satisfied at the time of submission.
 What does this mean for authors? 
 It means that during submission time, authors have to specify which person, among the coauthors in the current submission, 
 will be covering reviewing for at least three papers and to certify that whoever has been specified as reviewer meets the following conditions:
-a. Has an updated OR profile (the person has provided their semantic scholar and an updated email address where they can receive OR messages).
-b. Has published at least three papers in our *CL conferences in the last 5 years (note exceptions below)
-c. Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle
+<ol type="a">
+  <li>Has an updated OR profile (the person has provided their semantic scholar and an updated email address where they can receive OR messages)</li>
+  <li>Has published at least three papers in our *CL conferences in the last 5 years (note exceptions below)</li>
+  <li>Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle</li>
+</ol>
 
 Example of an updated and complete OR profile:
 <img width="1241" alt="Screenshot 2024-04-01 at 12 44 49 PM" src="https://github.com/acl-org/aclrollingreview/assets/65343158/0e34e8b4-c4f7-4ef3-a3ff-b1e1cea22cbf">
+
 
 
 Example of an incomplete profile, missing all the key fields:
@@ -41,8 +44,8 @@ Unless the paper falls under categories 1-3 above, the paper will be subject to 
 This means we will verify that we have a complete OR profile and that those authors identified as reviewers have fulfilled their max load and expertise task. 
 In the past, as per our CFP, all authors qualifying to review were automatically added to the reviewing pool. 
 But we faced challenges with many of these authors, they either:  
-1) did not have a complete OR profile, and thus we were unable to assign them papers, or
-2) never answered our email requests to specify max load/expertise.
+1. did not have a complete OR profile, and thus we were unable to assign them papers, or
+2. never answered our email requests to specify max load/expertise.
 
 This new policy may seem too harsh to some or even a tit-for-tat transaction. 
 We would like  to point out that helping out to cover reviewing for three papers is a low bar that doesn’t really cover the workload of having a paper complete a full review cycle. 
