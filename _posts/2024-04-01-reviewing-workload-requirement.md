@@ -6,9 +6,6 @@ title: Upcoming changes for April cycle - reviewing workload requirement
 Submissions will open on April 4th for the April ARR Cycle.
 The site is available [here](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/April).
 
-As usual, the deadline is April 15th.
-We will be releasing further information about changes in this cycle shortly.
-
 As we continue to add incremental changes to our review process, and OpenReview (OR) infrastructure, 
 we want to highlight an important change that will be implemented for the upcoming April cycle: a reviewing workload requirement.
 
