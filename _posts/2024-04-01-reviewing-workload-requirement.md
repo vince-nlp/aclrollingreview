@@ -3,9 +3,6 @@ layout: post
 title: Upcoming changes for April cycle - reviewing workload requirement
 ---
 
-Submissions will open on April 4th for the April ARR Cycle.
-The site is available [here](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/April).
-
 As we continue to add incremental changes to our review process, and OpenReview (OR) infrastructure, 
 we want to highlight an important change that will be implemented for the upcoming April cycle: a reviewing workload requirement.
 
@@ -17,12 +14,13 @@ Therefore, with the support of the ARR Board, we have decided to adopt a reviewi
 This requirement has to be satisfied at the time of submission. 
 
 What does this mean for authors? 
+
 It means that during submission time, authors have to specify which person, among the coauthors in the current submission, 
 will be covering reviewing for at least three papers and to certify that whoever has been specified as reviewer meets the following conditions:
 <ol type="a">
-  <li>Has an updated OR profile (the person has provided their semantic scholar and an updated email address where they can receive OR messages)</li>
-  <li>Has published at least three papers in our *CL conferences in the last 5 years (note exceptions below)</li>
-  <li>Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle</li>
+  <li>Has an updated OR profile (the person has provided their semantic scholar and an updated email address where they can receive OR messages).</li>
+  <li>Has published at least three papers in our *CL conferences in the last 5 years (note exceptions below).</li>
+  <li>Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.</li>
 </ol>
 
 Example of an updated and complete OR profile:
@@ -35,17 +33,16 @@ Example of an incomplete profile, missing all the key fields:
 
 
 Understandably, there will be several exceptions to this requirement, and we will be more than happy to accommodate papers falling under the following exceptions:
-1. A paper whose authors are new to our community
-2. A paper whose authors have not met requirement b.
-3. A paper whose authors are already involved in the reviewing process in some capacity (as Area Chairs, as Senior Area Chairs, etc.)
+1. A paper whose authors are new to our community.
+2. A paper whose authors have not met requirement **b**.
+3. A paper whose authors are already involved in the reviewing process in some capacity (as Area Chairs, as Senior Area Chairs, etc).
+
 However, based on our empirical experience, most papers do not fall under these exceptions. 
 
 Unless the paper falls under categories 1-3 above, the paper will be subject to desk rejection if authors fail to comply with the reviewing workload. 
 This means we will verify that we have a complete OR profile and that those authors identified as reviewers have fulfilled their max load and expertise task. 
 In the past, as per our CFP, all authors qualifying to review were automatically added to the reviewing pool. 
-But we faced challenges with many of these authors, they either:  
-1. did not have a complete OR profile, and thus we were unable to assign them papers, or
-2. never answered our email requests to specify max load/expertise.
+But we faced challenges with many of these authors, they either: (1) did not have a complete OR profile, and thus we were unable to assign them papers, or (2) never answered our email requests to specify max load/expertise.
 
 This new policy may seem too harsh to some or even a tit-for-tat transaction. 
 We would like  to point out that helping out to cover reviewing for three papers is a low bar that doesn’t really cover the workload of having a paper complete a full review cycle. 
