@@ -17,11 +17,9 @@ What does this mean for authors?
 
 It means that during submission time, authors have to specify which person, among the coauthors in the current submission, 
 will be covering reviewing for at least three papers and to certify that whoever has been specified as reviewer meets the following conditions:
-<ol type="a">
-  <li>Has an updated OR profile (the person has provided their semantic scholar and an updated email address where they can receive OR messages).</li>
-  <li>Has published at least three papers in our *CL conferences in the last 5 years (note exceptions below).</li>
-  <li>Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.</li>
-</ol>
+1. Has an updated OR profile (the person has provided their semantic scholar and an updated email address where they can receive OR messages).
+2. Has published at least three papers in our *CL conferences in the last 5 years (note exceptions below).
+3. Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.
 
 Example of an updated and complete OR profile:
 <img width="1241" alt="Screenshot 2024-04-01 at 12 44 49 PM" src="https://github.com/acl-org/aclrollingreview/assets/65343158/0e34e8b4-c4f7-4ef3-a3ff-b1e1cea22cbf">
@@ -34,7 +32,7 @@ Example of an incomplete profile, missing all the key fields:
 
 Understandably, there will be several exceptions to this requirement, and we will be more than happy to accommodate papers falling under the following exceptions:
 1. A paper whose authors are new to our community.
-2. A paper whose authors have not met requirement **b**.
+2. A paper whose authors have not met requirement **2**.
 3. A paper whose authors are already involved in the reviewing process in some capacity (as Area Chairs, as Senior Area Chairs, etc).
 
 However, based on our empirical experience, most papers do not fall under these exceptions. 
