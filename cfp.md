@@ -46,7 +46,13 @@ In addition, ARR welcomes submissions related to special Themes proposed by part
 
 ### Long Papers
 
-Long papers must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of up to eight (8) pages of content, plus up to one page for ethical considerations and/or limitations (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
+Long papers must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of:
+
+- up to eight (8) pages of content
+- plus up to one page for limitations (required, see below) and optionally ethical considerations
+- plus unlimited pages of references 
+
+Submissions that exceed the length requirements, or are missing a limitations section, will be desk rejected.
 
 ### Short Papers
 
@@ -57,7 +63,13 @@ Short paper submissions must describe original and unpublished work. Please note
 - An opinion piece
 - An interesting application nugget
 
-Short papers may consist of up to four (4) pages of content, plus up to one page for the ethical considerations/limitations section (see below), plus unlimited pages of references. Submissions that exceed the length requirements will be desk rejected.
+Short papers may consist of:
+
+- up to eight (4) pages of content
+- plus up to one page for limitations (required, see below) and optionally ethical considerations
+- plus unlimited pages of references 
+
+Submissions that exceed the length requirements, or are missing a limitations section, will be desk rejected.
 
 ### Instructions for Two-Way Anonymized Review
 
@@ -134,9 +146,9 @@ Uses that need to be disclosed:
 In all cases, authors are responsible for the correctness of their methods, results, and writing.
 Authors should check for potential plagiarism, both of text and code.
 
-### Limitations
+### Limitations (required section)
 
-Authors are required to discuss the limitations of their work in a dedicated section titled “Limitations”. This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers. Papers without a limitations section will be desk rejected. Note, prior to the December 2023 cycle, this was optional.
+Authors are required to discuss the limitations of their work in a dedicated section titled "Limitations". This section should be included at the end of the paper, before the references, and it will not count toward the page limit. This includes both, long and short papers. Papers without a limitations section will be desk rejected. Note, prior to the December 2023 cycle, this was optional.
 
 ### Withdrawal Policy
 
