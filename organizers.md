@@ -42,6 +42,7 @@ Venue organizers need to decide the exact mechanism by which they will enable au
 ## Setting Up an OpenReview Commitment Site
 
 Once the OpenReview site is set up, the program chairs can navigate to the request form and click on the "Revision" Tab. It is suggested that organizers configure the site as pictured in [picture of OpenReview site with options checked for nonpublic anonymous submissions](/images/VenuesOR.PNG) and add the [additional submission options json](commitments.json).
+These additional options include two requests for the paper PDF, one in camera-ready style (ie., with author names) and one that is anonymous, to enable a double-blind process for best paper selection.
 
 ## Duplicate Submissions
 

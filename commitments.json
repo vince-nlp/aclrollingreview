@@ -20,6 +20,31 @@
         "description": "Short or long. See the CFP for the requirements for short and long papers.",
         "order": 3
     },
+    "pdf": {
+        "description": "Upload your paper in PDF format. This should be the final camera-ready version with author names, etc.",
+        "value": {
+            "param": {
+                "type": "file",
+                "maxSize": 50,
+                "extensions": [
+                    "pdf"
+                ]
+            }
+        }
+    },
+    "anonymous_pdf": {
+        "order": 8,
+        "description": "Upload an anonymous version of your paper in PDF format. This should be NOT include author names. This is used by the best paper committee when considering papers.",
+        "value": {
+            "param": {
+                "type": "file",
+                "maxSize": 50,
+                "extensions": [
+                    "pdf"
+                ]
+            }
+        }
+    },
     "comment": {
         "value": {
             "param": {
