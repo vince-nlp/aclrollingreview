@@ -18,7 +18,7 @@ What does this mean for authors?
 It means that during submission time, authors have to specify which person, among the coauthors in the current submission, 
 will be covering reviewing for at least three papers and to certify that whoever has been specified as reviewer meets the following conditions:
 
-1. Has an updated OR profile (the person has provided their semantic scholar and an updated email address where they can receive OR messages).
+1. Has an updated OR profile[^1] (the person has provided their semantic scholar and an updated email address where they can receive OR messages).
 2. Has published at least three papers in our \*CL conferences in the last 5 years (note exceptions below).
 3. Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.
 
@@ -26,15 +26,6 @@ Understandably, there will be several exceptions to this requirement, and we wil
 1. A paper whose authors are new to our community.
 2. A paper whose authors have not met requirement **2**.
 3. A paper whose authors are already involved in the reviewing process in some capacity (as Area Chairs, as Senior Area Chairs, etc).
-
-Example of an updated and complete OR profile:
-<img width="1241" alt="Screenshot 2024-04-01 at 12 44 49 PM" src="https://github.com/acl-org/aclrollingreview/assets/65343158/0e34e8b4-c4f7-4ef3-a3ff-b1e1cea22cbf">
-
-
-
-Example of an incomplete profile, missing all the key fields:
-<img width="1321" alt="Screenshot 2024-04-01 at 12 45 15 PM" src="https://github.com/acl-org/aclrollingreview/assets/65343158/1f994663-cee5-4f53-835d-aabe3aefc6ff">
-
 
 However, based on our empirical experience, most papers do not fall under these exceptions. 
 
@@ -54,5 +45,8 @@ Furthermore, the more people are in the reviewing pool, the better paper-reviewe
 As always, we welcome your feedback, send an email to editors@aclrollingreview.org. 
 We will continue to review our processes with the goal of improving the overall reviewing experience for everyone, and increasing trust in the community.
 
+Footnotes:
+
+[^1]: Regarding the first requirement. To understand what an up to date OR profile looks like, see this example: <img width="1241" alt="Complete OR Profile" src="https://github.com/acl-org/aclrollingreview/assets/65343158/0e34e8b4-c4f7-4ef3-a3ff-b1e1cea22cbf">In contrast, this example profile is missing all the key fields:<img width="1321" alt="Incomplete OR Profile" src="https://github.com/acl-org/aclrollingreview/assets/65343158/1f994663-cee5-4f53-835d-aabe3aefc6ff">
 
 
