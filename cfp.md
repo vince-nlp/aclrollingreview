@@ -21,24 +21,27 @@ The current set of areas are (in alphabetical order):
 - Efficient/Low-Resource Methods for NLP
 - Ethics, Bias, and Fairness
 - Generation
+- Human-centered NLP
 - Information Extraction
 - Information Retrieval and Text Mining
 - Interpretability and Analysis of Models for NLP
-- Linguistic theories, Cognitive Modeling and Psycholinguistics
+- Language Modeling
+- Linguistic Theories, Cognitive Modeling, and Psycholinguistics
 - Machine Learning for NLP
 - Machine Translation
-- Multilinguality and Language Diversity
+- Multilingualism and Cross-Lingual NLP
 - Multimodality and Language Grounding to Vision, Robotics and Beyond
 - NLP Applications
-- Phonology, Morphology and Word Segmentation
+- Phonology, Morphology, and Word Segmentation
 - Question Answering
 - Resources and Evaluation
 - Semantics: Lexical
-- Semantics: Sentence-level Semantics, Textual Inference and Other areas
+- Semantics: Sentence-level Semantics, Textual Inference, and Other Areas
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
-- Speech recognition, text-to-speech and spoken language understanding
 - Summarization
 - Syntax: Tagging, Chunking and Parsing
+
+For more information about how to choose the right area, see [this page](/areas).
 
 In addition, ARR welcomes submissions related to special Themes proposed by participating publication venues.
 
@@ -154,13 +157,21 @@ Authors are required to discuss the limitations of their work in a dedicated sec
 
 Authors may withdraw their submission at any time. However, a submission that is withdrawn more than 48 hours after the submission deadline may not be resubmitted until the second subsequent ARR cycle, so withdrawing after this time requires contacting the action editors.
 
-### Reviewing Requirement
+### Reviewing Requirements
 
-As indicated on the submission form, submitting to ARR comes with the requirement of accepting to review if asked to. We appreciate all the engagement of reviewers and AEs who are providing a crucial service to the community, which will benefit authors in their research: The success of peer review crucially depends on authors reviewing submissions by others. Hence, ARR will not be able to guarantee reviews of papers of authors who fail to fulfill their [reviewer duties](/reviewers).
+Submitting to ARR comes with two reviewing requirements.
 
-- AEs (and SACs) will not be asked to review new papers on top of their ARR duties (they might be asked to work on resubmissions of papers they already AEed/reviewed).
-- There are of course legitimate reasons for one to suddenly be unavailable to review, and we will understand these.
-- ARR has implemented a load balance check across cycles, so that reviewers are not overwhelmed with reviewing requests. The total load is limited to a certain level (around 8) over the past 3 months, so if you have many assignments over the past 1-2 ARR cycles you will have fewer (or even no assignments) in the current ARR cycle.
+First, all authors are expected to review if asked to. There are of course legitimate reasons for one to suddenly be unavailable to review, and we will understand these. For example, already serving in ARR in another capacity.
+
+Second, at least one author must participate in the review process, unless an exception applies (e.g., every authors is either new to the community, has insufficient experience, or is already serving in another capacity). Papers that do not meet this requirement, and are not covered by an exception, may be desk rejected. See [this blog post](https://aclrollingreview.org/reviewing-workload-requirement/) for further information about this new (as of April 2024) requirement.
+
+Authors who will review are provided at submission time. They must:
+
+1. Have an updated OpenReview profile, including affiliation, semantic scholar link, dblp link, and an email address where they can receive OpenReview messages.
+2. Have published at least three papers in \*CL conferences in the last 5 years.
+3. Once added as a reviewer, the person must promptly complete their reviewer registration form for the cycle.
+
+Note that ARR has implemented a load balance check across cycles, so that reviewers are not overwhelmed with reviewing assignments.
 
 ### Submission Criteria
 
