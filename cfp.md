@@ -187,6 +187,11 @@ Submissions that do not conform to the required styles, including paper size, ma
 
 [Here](/reviewform) is the current version of the review form, and [here](/actioneditorform) is the current version of the action editor meta-review form. These forms will be re-assessed and updated periodically.
 
+### Desk Rejection
+
+Papers can be desk rejected for a variety of reasons, as described above.
+Note that this can occur at any time in the review cycle.
+
 ### Optional Supplementary Materials: Appendices, Software, and Data
 
 ARR encourages the submission of these supplementary materials to improve the reproducibility of results and to enable authors to provide additional information that does not fit in the paper. Supplementary materials may include appendices, software, or data. For example, pre-processing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. However, if the pseudo-code, or derivations, or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in appendices. Reviewers are not required to consider material in appendices.

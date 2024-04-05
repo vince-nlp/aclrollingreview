@@ -13,15 +13,15 @@ All authors must have complete OpenReview profiles. Please ensure profiles are c
 ## Paper Format
 
 The template and guidelines are available [here](https://acl-org.github.io/ACLPUB/formatting.html).
+Papers are required to have a limitations section (see the [CFP](/cfp) for details).
 
-For ARR submissions, references and appendices should be included in the pdf for the paper, but do not count towards the page limit.
+For ARR submissions, the limitations section, ethical considerations section, references, and appendices should be included in the pdf for the paper, but do not count towards the page limit.
 
 Some key items for first time authors:
 - Use the template
 - Respect the page limit for the paper type
 - Ensure the submission is anonymized
 - Supplemental materials (including appendices) should be truly supplemental; a reader should be able to understand the work from the paper alone
-
 
 ## Anonymization and Citation
 
