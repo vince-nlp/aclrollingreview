@@ -38,6 +38,7 @@ The current set of areas are (in alphabetical order):
 - Semantics: Lexical
 - Semantics: Sentence-level Semantics, Textual Inference, and Other Areas
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
+- Speech Recognition, Text-to-Speech and Spoken Language Understanding
 - Summarization
 - Syntax: Tagging, Chunking and Parsing
 
