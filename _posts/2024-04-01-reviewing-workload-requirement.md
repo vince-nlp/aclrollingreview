@@ -19,7 +19,7 @@ It means that during submission time, authors have to specify which person, amon
 will be covering reviewing for at least three papers and to certify that whoever has been specified as reviewer meets the following conditions:
 
 - Has an updated OR profile[^1] (the person has provided their semantic scholar and an updated email address where they can receive OR messages).
-- Has published at least three papers in our \*CL conferences in the last 5 years (note exceptions below).
+- Has published at least three papers in our \*CL conferences[^2] in the last 5 years (note exceptions below).
 - Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.
 
 Understandably, there will be several exceptions to this requirement, and we will be more than happy to accommodate papers falling under the following exceptions:
@@ -49,4 +49,4 @@ Footnotes:
 
 [^1]: Regarding the first requirement. To understand what an up to date OR profile looks like, see this example: <img width="1241" alt="Complete OR Profile" src="https://github.com/acl-org/aclrollingreview/assets/65343158/0e34e8b4-c4f7-4ef3-a3ff-b1e1cea22cbf">In contrast, this example profile is missing all the key fields:<img width="1321" alt="Incomplete OR Profile" src="https://github.com/acl-org/aclrollingreview/assets/65343158/1f994663-cee5-4f53-835d-aabe3aefc6ff">
 
-
+[^2]: The term \*CL conferences is used loosely here. We include AACL/IJCNLP, ACL, CL, COLING, CONLL, EACL, EMNLP, NAACL, and TACL. We don't distinguish between short and long papers, and we do count Findings papers.
