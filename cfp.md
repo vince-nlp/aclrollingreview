@@ -35,8 +35,7 @@ The current set of areas are (in alphabetical order):
 - Phonology, Morphology, and Word Segmentation
 - Question Answering
 - Resources and Evaluation
-- Semantics: Lexical
-- Semantics: Sentence-level Semantics, Textual Inference, and Other Areas
+- Semantics: Lexical and Sentence-Level
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
 - Speech Recognition, Text-to-Speech and Spoken Language Understanding
 - Summarization
