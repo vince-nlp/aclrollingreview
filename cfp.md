@@ -68,7 +68,7 @@ Short paper submissions must describe original and unpublished work. Please note
 
 Short papers may consist of:
 
-- up to eight (4) pages of content
+- up to four (4) pages of content
 - plus up to one page for limitations (required, see below) and optionally ethical considerations
 - plus unlimited pages of references 
 
