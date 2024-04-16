@@ -18,13 +18,15 @@ What does this mean for authors?
 It means that during submission time, authors have to specify which person, among the coauthors in the current submission, 
 will be covering reviewing for at least three papers and to certify that whoever has been specified as reviewer meets the following conditions:
 
-- Has an updated OR profile[^1] (the person has provided their semantic scholar and an updated email address where they can receive OR messages).
-- Has published at least three papers in our \*CL conferences[^2] in the last 5 years (note exceptions below).
-- Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.
+a) Has an updated OR profile[^1] (the person has provided their semantic scholar and an updated email address where they can receive OR messages).
+
+b) Has published at least three papers in our \*CL conferences[^2] in the last 5 years (note exceptions below).
+
+c) Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.
 
 Understandably, there will be several exceptions to this requirement, and we will be more than happy to accommodate papers falling under the following exceptions:
 1. A paper whose authors are new to our community.
-2. A paper whose authors have not met requirement **2**.
+2. A paper whose authors have not met requirement **b)**.
 3. A paper whose authors are already involved in the reviewing process in some capacity (as Area Chairs, as Senior Area Chairs, etc).
 
 However, based on our empirical experience, most papers do not fall under these exceptions. 
