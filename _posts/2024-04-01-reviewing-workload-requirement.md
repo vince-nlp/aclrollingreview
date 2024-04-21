@@ -24,14 +24,14 @@ b) Has published at least three papers in our \*CL conferences[^2] in the last 5
 
 c) Once added as a reviewer, the person promptly completes their reviewer registration form for the cycle.
 
-Understandably, there will be several exceptions to this requirement, and we will be more than happy to accommodate papers falling under the following exceptions:
+Understandably, there will be several exceptions to this requirement, and we will be more than happy to accommodate papers falling under reasonable exceptions, including:
 1. A paper whose authors are new to our community.
 2. A paper whose authors have not met requirement **b)**.
 3. A paper whose authors are already involved in the reviewing process in some capacity (as Area Chairs, as Senior Area Chairs, etc).
 
-However, based on our empirical experience, most papers do not fall under these exceptions. 
+Authors can indicate another reason to request an exception that will then be reviewed by the EiCs. 
 
-Unless the paper falls under categories 1-3 above, the paper will be subject to desk rejection if authors fail to comply with the reviewing workload. 
+Unless the paper falls under categories 1-3 above, or there is another valid reason to request an exception, the paper will be subject to desk rejection if authors fail to comply with the reviewing workload. 
 This means we will verify that we have a complete OR profile and that those authors identified as reviewers have fulfilled their max load and expertise task. 
 In the past, as per our CFP, all authors qualifying to review were automatically added to the reviewing pool. 
 But we faced challenges with many of these authors, they either: (1) did not have a complete OR profile, and thus we were unable to assign them papers, or (2) never answered our email requests to specify max load/expertise.
