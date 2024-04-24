@@ -49,7 +49,7 @@ Contact: `tech at aclrollingreview.org`
 ## Communications/Support Team
 
 - Shubhra Kanti Karmaker (Santu), Auburn University (Communications Team Chair)
-- Shubham Mittal, Google Research
+- Shubham Mittal, Google DeepMind
 - Gabriella Skitalinskaya, Leibniz University Hannover
 - Ning Shi, University of Alberta
 - Ruohao Guo, Georgia Tech
