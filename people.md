@@ -40,7 +40,6 @@ Contact: `editors at aclrollingreview.org`
 
 - Sudipta Kar, Amazon (Co-Chief Technical Officer)
 - Jonathan K. Kummerfeld, University of Sydney (Co-Chief Technical Officer)
-- Nils Dycke, TU Darmstadt
 - Yoshitomo Matsubara, Spiffy AI
 - Dhruv Naik, Carnegie Mellon University
 
@@ -1461,4 +1460,5 @@ ZHAOYUE SUN, ZHICHENG LIANG, ZHUO ZHANG, Zach Wood-Doughty, Zachary Ankner, Zach
 - Pengfei Liu, Carnegie Mellon University (Tech Team, 2021-2023)
 - Sebastin Santy, University of Washington (Tech Team, 2021-2023)
 - Stephen Mayhew, Duolingo (Chief Communication Officer, 2021-2023)
+- Nils Dycke, TU Darmstadt (Tech Team, 2021-2024)
 
