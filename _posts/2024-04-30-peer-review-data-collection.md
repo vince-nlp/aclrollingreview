@@ -14,7 +14,7 @@ This new data will provide ample research opportunities.
 
 With the approval of the ACL Ethics Committee, ACL RR has launched a new peer-review data collection protocol during the April submission cycle. 
 This new protocol builds on the initiative by [Gurevych, Kuznetsov and Dycke (2021)](https://arr-data.aclweb.org/resources/) and is a community-driven effort. 
-Read more on this: https://arr-data.aclweb.org/ 
+Read more on this: [https://arr-data.aclweb.org/](https://arr-data.aclweb.org/ )
 
 
 **Background**
