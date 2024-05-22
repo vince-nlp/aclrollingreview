@@ -52,7 +52,6 @@ Contact: `tech at aclrollingreview.org`
 - Gabriella Skitalinskaya, Leibniz University Hannover
 - Ning Shi, University of Alberta
 - Ruohao Guo, Georgia Tech
-- Mousumi Akter, Technical University Dortmund
 
 Contact: `support at aclrollingreview.org`
 
