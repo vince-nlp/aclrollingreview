@@ -9,7 +9,7 @@ permalink: /dates
 The schedule for 2024 is:
 
 | Cycle | Submission | Author Response | Cycle End |
-| ----- | --------------- | --------------- | --------- |
+| :---: | :-------------: | :-------------: | :-------: |
 | [February 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/February) | Feb 1st - Feb 15th | March 26th - 30th | April 15th |
 | [April 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/April) | April 4th - April 15th | May 23rd - 27th | June 15th |
 | [June 2024](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/June) | June 4th - June 15th | July 25th - 30th | August 15th |
@@ -32,13 +32,13 @@ Any paper that is not desk rejected will receive reviews. Once authors have revi
 Current publication venues participating in ARR are listed below. If you represent a publication venue and would like to be added to this list, please see [this page](/organizers).
 
 | Venue | Final ARR Submission Date | Commitment Date |
-| ----- | ------------------------- | --------------- |
+| :---: | :-----------------------: | :-------------: |
 | [ACL 2024](https://2024.aclweb.org/) | February 15th, 2024 | April 20th, 2024 |
 | [ArabicNLP 2024](https://arabicnlp2024.sigarab.org/) | February 15th, 2024 | May 17th, 2024 |
 | [CMCL 2024](https://cmclorg.github.io/) | February 15th, 2024 | May 17th, 2024 |
 | [SDProc 2024](https://sdproc.org/2024/index.html) | February 15th, 2024 | May 17th, 2024 |
 | [ML4AL 2024](https://www.ml4al.com/) | February 15th, 2024 | May 17th, 2024 |
-| [IWSLT 2024](https://iwslt.org) | February 15th, 2024 | May 28th, 2024 | 
+| [IWSLT 2024](https://iwslt.org) | February 15th, 2024 | May 28th, 2024 |
 | [EMNLP 2024](https://2024.emnlp.org/) | June 15th, 2024 | August 20th, 2024 |
 
 ## Past Venues that Accepted ARR Submissions
