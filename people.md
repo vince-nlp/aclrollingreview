@@ -24,6 +24,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 - Anna Rogers, University of Copenhagen
 - Thamar Solorio, University of Houston and MBZUAI
 - Jun Suzuki, Tohoku University
+- Jing Jiang, Singapore Management University
 
 Contact: `editors at aclrollingreview.org`
 
