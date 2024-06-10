@@ -41,4 +41,4 @@ Footnotes:
 
 [^1]: Regarding the first requirement. To understand what an up to date OR profile looks like, see this example: <img width="1241" alt="Complete OR Profile" src="https://github.com/acl-org/aclrollingreview/assets/65343158/0e34e8b4-c4f7-4ef3-a3ff-b1e1cea22cbf">In contrast, this example profile is missing all the key fields:<img width="1321" alt="Incomplete OR Profile" src="https://github.com/acl-org/aclrollingreview/assets/65343158/1f994663-cee5-4f53-835d-aabe3aefc6ff">
 
-[^2]: The term \*CL conferences is used loosely here. We include AACL/IJCNLP, ACL, CL, COLING, LREC, CONLL, EACL, EMNLP, NAACL, and TACL. We don't distinguish between short and long papers, and we do count Findings papers.
+[^2]: The term \*CL conferences is used loosely here. We include AACL/IJCNLP, ACL, CL, COLING, CONLL, EACL, EMNLP, NAACL, LREC, and TACL. We don't distinguish between short and long papers, and we do count Findings papers.
