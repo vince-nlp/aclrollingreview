@@ -1187,6 +1187,78 @@ Modules - reusable parts of our design
 .dropdown-content a:hover {
   background-color: #ddd; /* Adjust if needed */
 }
+/* Add a container for the dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Hide the dropdown content by default */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;  /* You may adjust this to match your existing styles */
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Style the dropdown links to match existing styles */
+.dropdown-content a {
+  color: black;  /* Adjust if needed */
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Show the dropdown content on hover for desktop */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Style the dropdown button to match existing styles */
+.dropbtn {
+  color: inherit;  /* Use inherited color */
+  text-decoration: none;  /* Remove underline */
+  padding: inherit;  /* Use inherited padding */
+  display: inline-block;  /* Make it inline-block to match other nav items */
+}
+
+/* Optional: change background on hover to match existing hover styles */
+.dropdown-content a:hover {
+  background-color: #ddd; /* Adjust if needed */
+}
+
+/* Mobile-specific styles */
+@media screen and (max-width: 768px) {
+  .dropdown {
+    display: block;
+  }
+  
+  .dropdown-content {
+    position: relative;
+    min-width: 100%;
+    box-shadow: none;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: none;
+  }
+
+  .dropbtn {
+    width: 100%;
+    text-align: left;
+  }
+  
+  .dropdown-content a {
+    padding: 10px 15px;
+  }
+  
+  /* Add an active class to show dropdown content on click */
+  .dropdown.active .dropdown-content {
+    display: block;
+  }
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

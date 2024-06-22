@@ -71,5 +71,16 @@
     </div>
 
     {% include analytics.html %}
+    <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var dropdown = document.querySelector('.dropdown');
+    var dropbtn = document.querySelector('.dropbtn');
+
+    dropbtn.addEventListener('click', function (e) {
+      e.preventDefault();
+      dropdown.classList.toggle('active');
+    });
+  });
+</script>
   </body>
 </html>
