@@ -1,215 +1,1106 @@
 ---
 layout: page
-title: "For Action Editors"
+title: "Action Editors"
 permalink: /aes
 ---
 
-# TL;DR
-
-An action editor (AE) is a person who oversees a team of reviewers in reviewing the paper, and in the end provides a meta-review summarizing the review process. The main duties are
-
-* checking for violations of submission requirements
-* __selecting appropriate reviewers__ with the aid of heuristics (3 reviewers are algorithmically selected but may not be a great fit)
-* supervising reviewers
-* __writing a meta-review__ with clear recommendations for authors (regarding any important revisions) and conference program committees (regarding whether it could be accepted in its current form)
-
-AEs are grouped into topical areas. The AEs in an area are supervised by Senior Action Editors (SAEs).
-
-Quick Links:
-* [Action Editors' Guide to OpenReview](https://docs.google.com/presentation/d/1OynnI8TxlBcSt3J1YCJbxdLsMT91D2Hr1zVtorLkeao/edit#slide=id.p)
-* [Action Editor Tutorial](/aetutorial)
-* [Set Your Max Load / Availability for a Cycle](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit)
-
-# What is an Action Editor
-
-An action editor (AE) is a person who oversees a team of reviewers in reviewing the paper, and in the end provides a meta-review summarizing the review process.
-
-Each month, after the submission deadline, action editors who are available that month will be automatically assigned submissions. The action editor will first confirm they have no conflict of interest with each submission. Then, they will quickly check the submission for any major violations in formatting or other factors and desk reject the submission if it is in violation. The action editor will then be presented with a list of reviewers automatically suggested. The action editor will choose reviewers, using this automatic suggestion as a base. This will take place within 7 days of the paper submission deadline.
-
-Each month, starting around 24 days after the submission deadline, the action editor will remind any reviewer who has not yet completed their review.
-
-Each month, between 30 and 35 days after the submission deadline, the action editor will read the reviews, discuss with the reviewers if necessary, and:
-* Summarize the review results in a meta-review (see the [meta-review form](/actioneditorform) and [review form](/reviewform)).
-* Perform a compliance check, checking the paper meets formatting and other requirements.
-
-You can see more information about the reviewing schedule on the [Dates and Venues](/dates) page.
-
-# AE Time Commitment
-
-AEs serve for an initial term of one year, renewable. We will have a centralized system that keeps track of “review balance”, how much reviewing people have done, and tries to distribute it equitably. In addition, some people prefer to handle many papers at a time as opposed to a few every month. 
-
-Action editors may set a max load per month (any value, including 0). To do so, please follow [these instructions](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit).
-
-# FAQ
-
-This FAQ is intended to help reviewers and action editors navigate OpenReview and the review process. Please direct inquiries to: `support@aclrollingreview.org`
-
-You may also find [this guide](https://docs.google.com/presentation/d/1OynnI8TxlBcSt3J1YCJbxdLsMT91D2Hr1zVtorLkeao/edit#slide=id.p) helpful.
-
-## Timeline
-
-**Q**: What is the normal review timeline?<br>
-**A**: 
-See the [dates and venues](/dates) page.
-The most important deadline is the review deadline, which is the 15th of the month following paper submission, and the meta-review deadline, which is the 20th of the month following paper submission. There is a Google calendar [here](https://calendar.google.com/calendar/ical/dsa7ntvq7s9fah2f5e43tncmu8%40group.calendar.google.com/public/basic.ics) that you can import into your own calendar to help you keep track.
-
-**Q**: What is the timeline for emergency reviews?<br>
-**A**: 
-Sometimes it is necessary to have an emergency review because an originally-assigned reviewer was not able to perform the review.
-In this case, we still hope that we can maintain the original timeline (finishing reviews one month after the paper was submitted), but depending on the timing it may not be possible for the reviewer to finish a high-quality review by this deadline.
-In this case, please consult with the reviewer and decide a feasible timeline, keeping in mind that the authors of the paper will be eagerly awaiting their review feedback.
-
-**Q**: What if I'll be unavailable or have time for only one or two papers?
-**A**: Action editors may choose to mark themselves as unavailable for any cycle. Instructions to do so can be found [here](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit). The form is released shortly before each cycle and a link is shared via email.
-
-## Communication
-
-**Q**: How can I communicate with reviewers?<br>
-**A**: 
-You may communicate with reviewers using the discussion forum or by sending them email directly (reviewers and AEs are not blind to each-other).
-To send a note via the discussion forum in OpenReview, you can use a button labeled "Official Comment" at the top of the paper forum.
-Click on it to open a message form. You can select to exclusively message certain sub-groups, e.g. only reviewer 2.
-
-**Q**: Who contacts reviewers to kick off reviewing?<br>
-**A**: 
-The editors-in-chief email all reviewers to kick off reviewing. 
-
-**Q**: Who sends reminders to reviewers?<br>
-**A**: 
-You may remind reviewers by posting in a paper's Discussion Forum. 
-
-**Q**: How do I communicate to the editors in chief?<br>
-**A**: 
-Email `editors@aclrollingreview.org`.
-
-**Q**: What do I do if I'm unavailable in a particular month?<br>
-**A**: Action editors may choose to mark themselves as unavailable for any cycle. Instructions to do so can be found [here](https://docs.google.com/document/d/1_UEnoQVl27vg-IGyHZlt09nfShZxSofef2GDXo2pipI/edit). The form is released shortly before each cycle and a link is shared via email.
-
-**Q**: I think I should have heard from ARR, but I haven't seen any emails. What's going on?<br>
-**A**: It's possible that the emails have been marked as spam -- check your spam folder!
-
-## Reviewer Assignment
-
-**Q**: How do I check and modify reviewer assignments?<br>
-**A**: 
-At the beginning of the review period, from about the 17th of the month to the 22nd of the month, you will be asked to check and potentially modify the assignments of the reviewers to papers that you are in charge of.
-- Checking Initial Assignments (up to the 22nd):
-When you get an email notifying you of being in charge of a paper, please log in to check the assignments.
-At the top of the Area Chairs Console there is an item **"Reviewer Browser: Modify Reviewer Assignments"**. Click the link to access the Reviewer Browser, 
-which shows reviewer suggestions and tracks the status of invitations. Here is how to modify assignments using the "Edge Browser": [https://openreview.net/faq#question-edge-browser-AC](https://openreview.net/faq#question-edge-browser-AC).
-It is important to select reviewers with expertise appropriate to the paper.
-Some suggestions are listed based on an automatic score, but this score may not always be reliable, so feel free to make modifications if they are not reliable.
-Click on a reviewer's name to see their profile and publications; if they are a good match and do not have too many assignments already, you can unassign one of the currrent reviewers and add a new reviewer.
-Once you are happy with the assignment (even if you make no modifications), there is nothing more to do.
-A notification will be sent out on the 23rd of the month notifying your selected reviewers that they have been assigned papers and that they should commence reviewing.
-
-- Modifying Assignments (23rd and beyond):
-At some point after reviewers have been assigned you may have to add new reviewers, either because a reviewer contacts you regarding not being a good match for the paper, or because they are unresponsive.
-If you need to do this, we would suggest you either think of reviewers who you think are appropriate, or use the reviewer browser and sorting by "Affinity Score" to find reviewers who are appropriate.
-Because the newly assigned reviewer will have a somewhat compressed reviewing timeline (since they were not assigned right at the beginning of the reviewing process), it would be good to reach out to them via email and confirm their availability before assigning them.
-Here is how to modify assignments using the "Edge Browser": [https://openreview.net/faq#question-edge-browser-AC](https://openreview.net/faq#question-edge-browser-AC).
-
-**Q**: How many reviewers are there per paper?<br>
-**A**: 
-Four reviewers should be assigned per paper at the beginning of the review process.
-Each paper must get at least three reviews (four is also acceptable) before the AE writes the meta-review and the reviews are released to the authors. 
-
-**Q**: Does automatic review assignment check if the reviewer is an action editor?<br>
-**A**: 
-We hope that action editors will also be able to serve as reviewers in some cases, as action editors are often the most experienced members of our community who can provide high-quality reviews on some topics. However, when we assign papers we will attempt to balance your load so the overall load of action-edited and reviewed papers is manageable. That being said, you should never be assigned as reviewer of a paper where you are action editor, so if this happens please contact us to notify us of the issue, then unassign yourself and assign a different reviewer.
-
-**Q**: In what order are alternative reviewers for a submission displayed (eg alphabetical, by match score, random)?<br>
-**A**: 
-You can choose several orders. If you choose "affinity score" they will be sorted by the matching score given by an ML model (specifically, as of September this is the [SPECTRE-MFR model](https://github.com/openreview/openreview-expertise) provided by OpenReview).
-
-**Q**: Can we see the number of submissions a reviewer is already assigned?<br>
-**A**: 
-Yes, look for the number next to "assignments" by their name. Please do consider this when making new assignments.
-
-**Q**: Can we see author information?<br>
-**A**: 
-No, we are managing a two-way anonymized process up through action editors. It is not possible for you to assign a reviewer who has a COI that is automatically identifiable.
-
-**Q**: What can I do to make sure I get good papers as AE?<br>
-**A**: 
-Please fill out your [OpenReview profile](https://openreview.net/profile) with (1) a link to your DBLP profile and click "import papers from DBLP", and (2) a link to your Semantic Scholar profile. We import papers from these two sources, so having both filled in will give us the fullest view of your publication record for automatic paper assignment.
-
-**Q**: Does a reviewer showing up at the top of the list in green mean that they’ve accepted the assignment?<br>
-**A**: Reviewers are assigned, not invited. If a reviewer cannot review your paper, they will contact you via email or via the discussion forum in OpenReview. 
-
-## Compliance and Desk Rejects
-
-**Q**: What is the compliance checklist?<br>
-**A**: 
-- Is the content of this paper appropriate to a \*ACL venue?
-- Is the paper in English?
-- Does this paper use the ARR template?
-- Does this paper adhere to length constraints for the paper type (long: 8, short: 4, in both cases exclusive of references and appendices)?
-- Is the submission (including paper and any supplemental materials) anonymized?
-- Is this paper not already published elsewhere?
-
-**Q**: One of my papers doesn't follow the compliance checklist, what should I do?<br>
-**A**: 
-The paper should be desk-rejected, please get in touch with the editors in chief. 
-
-**Q**: One of my assigned submissions is more than four pages but less than eight pages in length. What should I do?<br>
-**A**: 
-Treat it as a long paper submission.
-
-**Q**: Can the ethics statement extend into a 5th/9th page?<br>
-**A**: 
-Yes. 
-
-**Q**: How do I actually desk reject a submission?<br>
-**A**: 
-In OpenReview, you should see a button labeled "Desk Reject".
-
-
-## Meta-Reviewing
-
-**Q**: How do I enter a meta-review?<br>
-**A**: 
-Click on the "official meta-review" button in the system.
-
-**Q**: Why can I not press the "meta-review" button?<br>
-**A**: 
-The meta-review button may not be clickable if not all reviews are submitted yet. In this case, please try to encourage the reviewers to submit their reviews, or recruit a new emergency reviewer.
-
-**Q**: Why is my overall assessment question different from the one reviewers see?<br>
-**A**: Your overall assessment as an action editor is different from the overall assessments made by the reviewers. Your overall assessment should a) help authors figure out what type of revision (if any) they should aim for, and b) help conference organizers make decisions. You should be signaling, both to the authors and to any program chairs, the amount of work it would take for this paper to be publication ready. So if, for example, many more experiments need to be done, then that probably means a major revision. But if the reviewers' questions - however many - could be answered simply by adding details to the paper, that probably means a minor revision (which the authors could do between accept and camera ready). This means that a paper may receive a 1, 2, 3 or (rarely) 4 from reviewers, but be a “major revision” (3) from you, or a 4, 3 or (rarely) 2 from reviewers, but be a “minor revision” (4) from you.
- 
-Also, of course, you may look across all the reviews and the paper and identify themes or gaps, which may influence your overall assessment. *You are an action editor because you are an experienced expert; you do not have to simply average across the reviewers’ scores and summarize their comments.*
-
-**Q**: How do I flag a submission for ethics review?<br>
-**A**: 
-Please email the editors-in-chief of ARR.
-
-## Other Questions
-
-**Q**: Is the list of ARR action editors published somewhere?<br>
-**A**: 
-Yes, see [here](/people).
-
-**Q**: Are there multiple action editors per paper?<br>
-**A**: No
-
-**Q**: I got 4 papers. Should I expect this load in the future?<br>
-**A**: 
-We aim for the average monthly load in any given month to be 1-2 papers, but in certain periods (close to large conferences), it's possible that the load may be higher, and in slow periods the load may be lower.
-
-**Q**: Am I expected to accept all invitations? or should I select a subset that I am most interested in?<br>
-**A**: 
-You are free to decline to review papers, but keep in mind that ARR will be the sole reviewing process for ACL/NAACL in 2022, so a) you won't get separate review requests from conference organizers, and b) the volume should come down in the following months.
-
-**Q**: Why did I get an invitation to be AE of something later than the normal time?<br>
-**A**: 
-It is possible that an EICs may have sent an emergency action editor request for a paper where the original AE was not able to handle it or we could not get in contact. For these papers the deadlines for reviews and meta-reviews can be extended flexibly as necessary (although we obviously hope the paper can be done sooner rather than later).
-
-**Q**: I got a review invitation that I’d like to decline, but when I click the decline button, I get the following error message on Openreview: "Wrong key, please refer back to the recruitment email." What do I have to do to be able to accept/decline invitations? Is this a known problem?"<br>
-**A**: 
-This is a known issue as the link (as opposed to the link *text*) uses %-encoding for umlauts (or even any non-ASCII characters). Openreview currently send emails in plain text and they are planning to send them in HTML format with all the links already translated. We hope that will solve the problem.
-
-**Q**: When I click the accept button in the invitation email to serve as an "action editor",  a message returned from the ARR system says "It seems like you already accepted an invitation to serve as a Reviewer for ARR 2021 ............". What can I do?<br>
-**A**: This seems to be a technical problem with OpenReview. We are working with OpenReview to resolve this.
-
-
+- A. Seza Doğruöz, Ghent University
+- Abbas Ghaddar, Huawei Technologies Ltd.
+- Abhilasha Ravichander, Allen Institute for Artificial Intelligence, School of Computer Science, Carnegie Mellon University
+- Adam Lopez, University of Edinburgh
+- Adhiguna Kuncoro, DeepMind, University of Oxford
+- Adrien Barbaresi, Berlin-Brandenburg Academy of Sciences
+- Agnieszka Falenska, Interchange Forum for Reflecting on Intelligent Systems, University of Stuttgart
+- Aijun An, York University
+- Aina Garí Soler, Télécom-Paris
+- Aitor Soroa, University of the Basque Country. UPV/EHU.
+- Aixin Sun, Nanyang Technological University
+- Alan Akbik, Humboldt Universität Berlin
+- Alan Ritter, Georgia Institute of Technology
+- Alane Suhr, University of California, Berkeley
+- Alberto Testoni, University of Amsterdam
+- Alborz Geramifard, Meta
+- Alessandro Lenci, University of Pisa
+- Alessio Palmero Aprosio, Fondazione Bruno Kessler
+- Alex Marin, University of Washington, Microsoft
+- Alexander Fabbri, SalesForce.com
+- Alexandra Birch, University of Edinburgh
+- Alexandros Papangelis, Amazon
+- Alexandros Potamianos, Amazon, University of Southern California, National Technical University of Athens
+- Ali Basirat, Copenhagen University
+- Alice Oh, Korea Advanced Institute of Science and Technology
+- Alina Wróblewska, Institute of Computer Science, Polish Academy of Sciences
+- Alla Rozovskaya, City University of New York
+- Allyson Ettinger, Allen Institute for Artificial Intelligence
+- Amalia Todirascu, Université de Strasbourg
+- Aman Madaan, Carnegie Mellon University
+- Amanda Cercas Curry, Bocconi University
+- Amanda Stent, Colby College
+- Amine Trabelsi, Université de Sherbrooke
+- Amir Feder, Columbia University, Google
+- Amrith Krishna, Learno
+- An-Zi Yen, Department of Computer Science, National Yang Ming Chiao Tung University
+- Ana Sabina Uban, Universitatea Bucuresti
+- Anders Søgaard, Copenhagen University
+- Andrea Madotto, FAIR
+- Andreas Hotho, Bayerische Julius-Maximilians-Universität Würzburg
+- Andrew Cattle, Supernormal
+- Angel X Chang, Simon Fraser University
+- Anh Tuan Luu, Nanyang Technological University
+- Ani Nenkova, Adobe Research
+- Anna Currey, Amazon
+- Anna Feldman, Montclair State University
+- Anna Rumshisky, University of Massachusetts, Lowell, University of Massachusetts at Lowell, Amazon
+- Anne Lauscher, Universität Hamburg
+- Annemarie Friedrich, University of Augsburg
+- Anoop Kunchukuttan, Microsoft, Indian Institute of Technology, Madras, Dhirubhai Ambani Institute Of Information and Communication Technology
+- Anoop Sarkar, Simon Fraser University
+- Antoine Doucet, University of La Rochelle
+- Antonio Jimeno Yepes, Royal Melbourne Institute of Technology
+- Antonio Moreno-Ortiz, Universidad de Málaga
+- Antonio Toral, University of Groningen
+- Antonio Valerio Miceli Barone, Università di Palermo, Università di Pisa, University of Edinburgh
+- Arman Cohan, Yale University, Allen Institute for Artificial Intelligence
+- Aron Culotta, Tulane University
+- Artur Kulmizev, KU Leuven
+- Asad B. Sayeed, University of Gothenburg
+- Ashutosh Modi, IIT Kanpur
+- Asif Ekbal, IIT Patna
+- Attapol Rutherford, Chulalongkorn University
+- Aurélien Bossard, liasd
+- Avi Caciularu, Google
+- Avirup Sil, International Business Machines
+- Bailin Wang, Massachusetts Institute of Technology
+- Bang Liu, University of Montreal
+- Baobao Chang, Peking University
+- Baotian Hu, Harbin Institute of Technology, Shenzhen
+- Barry Devereux, Queen's University Belfast
+- Barry Haddow, University of Edinburgh
+- Beata Beigman Klebanov, Educational Testing Service
+- Behnam Hedayatnia, Amazon
+- Bei Shi, Tencent AI Lab
+- Bei Yu, Syracuse University
+- Ben Zhou, University of Pennsylvania
+- Benjamin Muller, Meta
+- Benjamin Piwowarski, CNRS / ISIR, Sorbonne Université, CNRS
+- Benjamin Roth, Universität Vienna
+- Benoit Crabbé, Université de Paris
+- Benoit Favre, Université d'Aix-Marseille
+- Bertie Vidgen, Alan Turing Institute
+- Bhavana Dalvi Mishra, Allen Institute for Artificial Intelligence
+- Biao Zhang, Google DeepMind
+- Bing Li, A*STAR Centre for Frontier AI Research (CFAR) 
+- Bing Liu, University of Illinois at Chicago
+- Bing Xiang, Amazon
+- Bingquan Liu, Harbin Institute of Technology
+- Binyuan Hui, Alibaba Group
+- Bo Li, Google
+- Bo Li, University of Illinois, Urbana Champaign, University of California Berkeley
+- Bo Wang, Tianjin University
+- Bo Xu, Donghua University, Shanghai
+- Bo Zhang, Shanghai Normal University
+- Bo Zheng, Alibaba Group
+- Bodhisattwa Prasad Majumder, Allen Institute for Artificial Intelligence
+- Bonnie J Dorr, University of Florida
+- Bowen Zhou, Tsinghua University
+- Brian Thompson, Amazon
+- Bridger, Holistic Intelligence for Global Good
+- Brijesh Bhatt, Dharmsinh Desai University
+- Bryan A. Plummer, Boston University
+- Bryan Eikema, University of Amsterdam
+- Bryan McCann, SalesForce.com
+- Bryan Wilie, Hong Kong University of Science and Technology
+- Budhaditya Deb, Microsoft
+- Caio Filippo Corro, LIMSI-CNRS / Université Paris-Sud
+- Carlos Gómez-Rodríguez, Universidade da Coruña
+- Carlos Ramisch, LIS - Laboratoire d'Informatique et Systèmes, AMU - Aix Marseille University
+- Carsten Eickhoff, Eberhard-Karls-Universität Tübingen
+- Ce Zhang, University of Chicago
+- Chaitanya Malaviya, University of Pennsylvania
+- Chandra Bhagavatula, Allen Institute for Artificial Intelligence
+- Changlong Sun, Alibaba Group
+- Chao Li, Harbin Engineering University
+- Chen Chen, OPPO Research Institute
+- Chen Lin, Xiamen University
+- Chen Zhang, Bytedance
+- Chen Zhang, National University of Singapore
+- Chen-Tse Tsai, Bloomberg
+- Cheng-Kuang Wu, Appier
+- Chenghua Lin, University of Manchester 
+- Chengjie Sun, Harbin Institute of Technology
+- Chengqing Zong, Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+- Chengyu Wang, Alibaba Group
+- Chenhui Chu, Kyoto University
+- Chenliang Li, Wuhan University
+- Chenyan Xiong, School of Computer Science, Carnegie Mellon University
+- Chenye Zhao, University of Illinois at Chicago
+- Chikara Hashimoto, Rakuten Institute of Technology
+- Ching-Yun Chang, Amazon
+- Chloé Braud, irit, CNRS
+- Cho-Jui Hsieh, Google, University of California, Los Angeles
+- Chris Biemann, U Hamburg
+- Chris Brockett, Microsoft
+- Chris Develder, Universiteit Gent
+- Christopher M Homan, Rochester Institute of Technology
+- Christos Christodoulopoulos, Amazon
+- Chuhan Wu, Noah’s Ark Lab, Huawei
+- Chujie Zheng, Tsinghua University
+- Chunyan Miao, School of Computer Science and  Engineering, Nanyang Technological University
+- Chunyuan Li, Microsoft Research
+- Clara Meister, Swiss Federal Institute of Technology
+- Clara Vania, Amazon
+- Congying Xia, SalesForce.com
+- Cristina España-Bonet, German Research Center for AI
+- Cyril Goutte, National Research Council Canada
+- Da Yin, University of California, Los Angeles
+- Daichi Mochihashi, The Institute of Statistical Mathematics
+- Daimeng Wei, Huawei Technologies Ltd.
+- Dakuo Wang, Northeastern University
+- Dallas Card, University of Michigan - Ann Arbor
+- Dani Yogatama, Google DeepMind, DeepMind
+- Daniel Beck, Royal Melbourne Institute of Technology
+- Daniel Cer, Google
+- Daniel Dakota, Leidos, Indiana University
+- Daniel Deutsch, Google
+- Daniel Hardt, Copenhagen Business School
+- Daniel Hershcovich, University of Copenhagen
+- Daniel Khashabi, Johns Hopkins University
+- Daniel Wiechmann, University of Amsterdam
+- Danish Pruthi, Indian Institute of Science, Bangalore 
+- Danushka Bollegala, Amazon, University of Liverpool
+- Dat Quoc Nguyen, VinAI Research, Vietnam
+- David Bamman, University of California Berkeley
+- David Harwath, University of Texas, Austin
+- David Ifeoluwa Adelani, University College London, University of London
+- David Mareček, Charles University, Prague
+- David McClosky, QuantAQ Inc.
+- David R Mortensen, Carnegie Mellon University
+- David Schlangen, University of Potsdam
+- Debanjan Ghosh, Educational Testing Service, Massachusetts Institute of Technology
+- Debjit Paul, EPFL - EPF Lausanne
+- Deepak Gupta, Amazon
+- Deepak Ramachandran, Google
+- Deepanway Ghosal, Google DeepMind
+- Dekang Lin, Amazon
+- Deng Cai, Tencent AI Lab
+- Deniz Yuret, Koc University
+- Derry Wijaya, Boston University
+- Devamanyu Hazarika, Amazon Alexa AI
+- Dheeraj Mekala, University of California, San Diego
+- Di He, Peking University, Microsoft
+- Dian Yu, Tencent AI Lab
+- Diana Inkpen, University of Ottawa
+- Dianbo Sui, , Institute of automation, Chinese academy of science
+- Dietrich Klakow, Saarland University
+- Dina Demner-Fushman, National Library of Medicine
+- Diptesh Kanojia, University of Surrey
+- Dmitriy Dligach, Loyola University Chicago
+- Doina Caragea, Kansas State University
+- Dominik Schlechtweg, Institute for Natural Language Processing, University of Stuttgart
+- Dong Wang, University of Illinois at Urbana-Champaign
+- Dong Yu, Beijing Language and Culture University
+- Dong-Ho Lee, University of Southern California
+- Dongmei Zhang, Beijing University of Posts and Telecommunications
+- Dongxu Li, SalesForce.com
+- Dongyan Zhao, Peking University
+- Doug Downey, Allen Institute for Artificial Intelligence, Northwestern University
+- Dumitru-Clementin Cercel, National University of Science and Technology POLITEHNICA Bucharest
+- Edoardo Ponti, University of Edinburgh
+- Eduard Dragut, Temple University
+- Eduardo Blanco, University of Arizona
+- Edward Choi, Korea Advanced Institute of Science and Technology
+- Efstathios Stamatatos, University of the Aegean
+- Ehsan Kamalloo, ServiceNow Inc
+- Ehsaneddin Asgari, Qatar Computing Research Institute, University of California, Berkeley
+- Ekaterina Kochmar, Mohamed bin Zayed University of Artificial Intelligence
+- Elena Cabrio, Université Côte d'Azur
+- Elias Stengel-Eskin, Department of Computer Science, University of North Carolina at Chapel Hill
+- Elisabetta Fersini, University of Milan-Bicocca
+- Ellen Riloff, University of Arizona
+- Elma Kerz, Rheinisch Westfälische Technische Hochschule Aachen
+- Emanuele Bugliarello, Google
+- Enamul Hoque, York University
+- Eneko Agirre, University of the Basque Country (UPV/EHU)
+- Eric Le Ferrand, Boston College
+- Ernie Chang, Saarland University
+- Esaú VILLATORO-TELLO, Idiap Research Institute
+- Esin Durmus, Stanford University
+- Eunsol Choi, University of Texas, Austin
+- Eva Hasler, Amazon
+- Eyal Ben-David, Technion - Israel Institute of Technology, Technion
+- Fabio Massimo Zanzotto, University of Rome Tor Vergata
+- Fabio Petroni, Facebook
+- Fabio Rinaldi, IDSIA
+- Fahim Dalvi, Hamad Bin Khalifa University
+- Fandong Meng, WeChat AI, Tencent Inc.
+- Fangyu Liu, Google DeepMind
+- Fangzhao Wu, Microsoft
+- Farhad Nooralahzadeh, University of Zurich, ZHAW - Zürcher Hochschule für Angewandte Wissenschaften
+- Federico Bianchi, Stanford University
+- Fei Huang, Alibaba Group
+- Fei Li, Wuhan University
+- Fei Sha, Google
+- Fei Wang, University of Southern California
+- Fei Wu, Zhejiang University
+- Fei Xia, University of Washington, Seattle
+- Felix Schneider, Friedrich-Schiller Universität Jena
+- Ferhan Ture, University of Maryland, College Park
+- Fernanda López-Escobedo, Universidad Nacional Autónoma de México
+- Fernando Alva-Manchego, Cardiff University
+- Filip Ginter, University of Turku
+- Florian Boudin, University of Nantes
+- Florian Metze, Meta Platforms, Carnegie Mellon University
+- Francine Chen, Toyota Research Institute
+- Francisco Guzmán, Facebook
+- Franco Maria Nardini, CNR
+- Frank Guerin, University of Surrey
+- Fuli Feng, University of Science and Technology of China
+- Gabriel Stanovsky, Hebrew University of Jerusalem
+- Gabriele Pergola, University of Warwick
+- Gabriella Pasi, University of Milan - Bicocca
+- Gavin Abercrombie, Heriot-Watt University
+- Gemma Boleda, ICREA, Universitat Pompeu Fabra
+- Georgiana Dinu, Amazon
+- Gerasimos Lampouras, Huawei Technologies Ltd.
+- German Rigau, Universidad del País Vasco
+- Gina-Anne Levow, University of Washington
+- Giuseppe Attardi, University of Pisa
+- Gosse Bouma, University of Groningen
+- Guangyou Zhou, Central China Normal University
+- Guoping Huang, Tencent AI Lab
+- Guoyin Wang, Bytedance
+- György Szarvas, Amazon Development Center Germany
+- H. Schwartz, Stony Brook University (SUNY)
+- Hady W. Lauw, Singapore Management University
+- Hai Hu, Shanghai Jiaotong University
+- Hai Leong Chieu, DSO National Laboratories
+- Hai-Tao Zheng, Tsinghua University, Tsinghua University
+- Hainan Xu, NVIDIA
+- Haiyang Xu, Alibaba Group
+- Haiyun Jiang, Tencent AI Lab
+- Hang Yan, AI lab
+- Hanna Wallach, Microsoft
+- Hannah Rashkin, Google
+- Hao Cheng, Microsoft Research
+- Hao Fei, National University of Singapore
+- Hao Liu, Bytedance Inc.
+- Hao Liu, The Hong Kong University of Science and Technology (Guangzhou)
+- Hao Ma, Facebook
+- Hao Peng, Beihang University
+- Hao Peng, Department of Computer Science,  University of Illinois Urbana-Champaign
+- Hao Peng, Tsinghua University, Tsinghua University
+- Hao Sun, Central China Normal University
+- Hao Tan, Adobe Systems
+- Hao Wang, Rutgers University
+- Hao Yang, Beijing University of Post and Telecommunication
+- Haoyang Wen, Carnegie Mellon University
+- Harsh Jhamtani, Microsoft
+- Hassan Sajjad, Dalhousie University
+- Heike Adel, Hochschule der Medien (University of Applied Sciences)
+- Hendra Setiawan, Apple
+- Henning Wachsmuth, Leibniz Universität Hannover
+- Hidetaka Kamigaito, Division of Information Science, Nara Institute of Science and Technology
+- Hila Gonen, Facebook
+- Hinrich Schuetze, Center for Information and Language Processing
+- Hoifung Poon, Microsoft
+- Hongfei Lin, Dalian University of Technology
+- Hongfei Xu, Zhengzhou University
+- Honglei Guo, Tsinghua University, Tsinghua University
+- Hongxia Jin, Samsung Research America AI center
+- Hongyu Lin, Institute of Software, Chinese Academy of Sciences
+- Huan Sun, The Ohio State University, Columbus
+- Huayang Li, Nara Institute of Science and Technology
+- Huda Khayrallah, Microsoft
+- Hui Chen, Tsinghua University, Tsinghua University
+- Hwanhee Lee, Chung-Ang University
+- Hwee Tou Ng, National University of Singapore
+- Hyeju Jang, Indiana University/Purdue University at Indianapolis
+- I-Hung Hsu, University of Southern California
+- Ignatius Ezeani, Lancaster University
+- Igor Malioutov, Bloomberg
+- Ilias Chalkidis, University of Copenhagen
+- Ines Rehbein, Universität Mannheim
+- Ingmar Weber, Universität des Saarlandes
+- Ioannis Konstas, Heriot-Watt University
+- Irina Piontkovskaya, Huawei Technologies Ltd.
+- Itziar Gonzalez-Dios, Universidad del País Vasco
+- Ivan Habernal, Ruhr-Universität Bochum
+- Ivan Kobyzev, Huawei Noah's Ark Lab
+- Ivan Titov, University of Edinburgh, University of Amsterdam
+- Ivan Vladimir Meza Ruiz, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Nacional Autónoma de México
+- Ivano Lauriola, Amazon
+- Iz Beltagy, Allen Institute for Artificial Intelligence
+- Jack Hessel, Samaya AI
+- Jacob Andreas, Massachusetts Institute of Technology, Microsoft
+- Jacob Eisenstein, Google
+- Jaegul Choo, Korea Advanced Institute of Science and Technology
+- James Allan, University of Massachusetts, Amherst
+- Jan Niehues, Karlsruher Institut für Technologie
+- Jannik Strötgen, Karlsruhe University of Applied Sciences
+- Jason Naradowsky, Square-Enix: AI & Arts Alchemy, The University of Tokyo
+- Jason Phang, OpenAI
+- Jean Maillard, Meta (FAIR)
+- Jeff Bilmes, University of Washington, Seattle
+- Jeffrey Flanigan, University of California, Santa Cruz
+- Jeffrey S. Sorensen, Google
+- Jennifer Foster, Dublin City University
+- Jeremy Barnes, University of the Basque Country
+- Jesse Thomason, University of Southern California, Amazon
+- Jessica Ouyang, University of Texas at Dallas
+- Ji Ma, Research, Google
+- Jia-Chen Gu, University of California, Los Angeles
+- Jiachen Liu, Baidu Inc.
+- Jiafeng Guo, Institute of Computing Technolgy, Chinese Academy of Sciences
+- Jiahao Liu, Harbin Institute of Technology
+- Jiajun Zhang, Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+- Jiaming Shen, Google Research
+- Jian Su,  A*STAR
+- Jian Yin, SUN YAT-SEN UNIVERSITY
+- Jianfei Yu, Nanjing University of Science and Technology
+- Jianshu Chen, Amazon
+- Jianxing Yu, SUN YAT-SEN UNIVERSITY
+- Jiatao Gu, Apple (MLR)
+- Jie Huang, University of Illinois, Urbana Champaign
+- Jie Zhang, Institute of Computing Technology, Chinese Academy of Sciences
+- Jie Zhou, East China Normal University
+- Jieyu Zhao, University of Southern California
+- Jin-Dong Kim, Research Organization of Information and Systems
+- Jin-Ge Yao, Apple
+- JinYeong Bak, Sungkyunkwan University
+- Jinan Xu, Beijing Jiaotong University
+- Jing Li, The Hong Kong Polytechnic University
+- Jing Ma, Hong Kong Baptist University
+- Jing Xiao, Pingan Group
+- Jing Xiao, South China Normal University
+- Jingbo Shang, University of California, San Diego
+- Jingjing Wang, soochow university
+- Jingyi Zhang, Hasso Plattner Institute
+- Jinho D. Choi, Emory University
+- Jinhyuk Lee, Google
+- Jinlan Fu, National University of Singapore
+- Jinsong Su, Xiamen University
+- Jiyi Li, University of Yamanashi
+- Johannes Bjerva, Aalborg University
+- Johannes Daxenberger, summetix GmbH
+- John Frederick Wieting, Google DeepMind
+- John Lawrence, University of Dundee
+- John M Conroy, Institute for Defense Analyses, Center for Computing Sciences
+- Jonas Pfeiffer, Google DeepMind
+- Jong C. Park, Korea Advanced Institute of Science and Technology
+- Joo-Kyung Kim, Amazon AGI
+- Joonsuk Park, University of Richmond
+- Jorge Civera, Universidad Politécnica de Valencia
+- Jose Ochoa-Luna, Universidad Católica San Pablo
+- Joseph Le Roux, Université Paris 13
+- José G. C. de Souza, Unbabel
+- Juan Pino, Meta
+- Judith Gaspers, Amazon
+- Julia Hockenmaier, University of Illinois, Urbana Champaign
+- Julia Kreutzer, Cohere for AI
+- Julian Martin Eisenschlos, Google DeepMind
+- Jun Zhao, Institute of automation, Chinese academy of science
+- Junhui Li, Soochow University, China
+- Junichi Tsujii, National Institute of Advanced Industrial Science and Technology
+- Juntao Li, Soochow University, China
+- Juntao Yu, Queen Mary University London
+- Junxian He, Hong Kong University of Science and Technology
+- Junyang Lin, Alibaba Group
+- Justine Zhang, University of Michigan - Ann Arbor
+- Kai Sun, Meta
+- Kai Yu, Shanghai Jiao Tong University
+- Kalina Bontcheva, University of Sheffield
+- Kalpesh Krishna, Google
+- Kam-Fai Wong, The Chinese University of Hong Kong
+- Kang Liu, Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+- Kanishka Misra, University of Texas at Austin
+- Karen Livescu, Toyota Technological Institute at Chicago
+- Karl Stratos, Rutgers University
+- Kartik Goyal, Georgia Institute of Technology
+- Kashyap Popat, Facebook AI, Meta AI
+- Kathleen McKeown, Columbia University, Columbia University
+- Katrin Kirchhoff, Amazon
+- Ke Xu, South China University of Technology
+- Ke Zhang, Dataminr, inc
+- Kehai Chen, Harbin Institute of Technology (Shenzhen)
+- Keisuke Sakaguchi, Tohoku University
+- Keith Hall, Sizzle AI
+- Kelly Marchisio, Cohere
+- Kenji Sagae, University of California, Davis
+- Kenneth Church, Northeastern University
+- Kentaro Inui, Mohamed bin Zayed University of Artificial Intelligence, RIKEN, Tohoku University
+- Keqing He, Meituan Group
+- Kevin Duh, Johns Hopkins University
+- Kevin Gimpel, Toyota Technological Institute at Chicago
+- Kevin Seppi, Brigham Young University
+- Kevin Small, Amazon
+- Khalid Al Khatib, University of Groningen
+- Khalil Mrini, TikTok (Bytedance)
+- Khyathi Chandu, Allen Institute for Artificial Intelligence
+- Kirk Roberts, University of Texas Health Science Center at Houston
+- Koh Mitsuda, rinna Co., Ltd.
+- Koichiro Yoshino, RIKEN
+- Kokil Jaidka, National University of Singapore
+- Kristen Howell, Kensho Technologies
+- Kristina Toutanova, Google
+- Kuan-Hao Huang, University of Illinois Urbana-Champaign
+- Kuan-Yu Chen, Department of computer science and informational engineering, National Taiwan University of Science and Technology
+- Kung-Hsiang Huang, SalesForce.com
+- Kyle Gorman, The Graduate Center, City University of New York, Google
+- Kyle Lo, Allen Institute for Artificial Intelligence
+- Kyle Mahowald, The University of Texas at Austin
+- Kyle Richardson, Allen Institute for Artificial Intelligence
+- Lane Schwartz, University of Alaska Fairbanks
+- Lara J. Martin, University of Maryland, Baltimore County
+- Laura Kallmeyer, Heinrich Heine University Düsseldorf, Germany
+- Le An Ha, Ho Chi Minh City University of Foreign Languages and Information Technology
+- Le-Minh Nguyen, Japan Advanced Institute of Science and Technology, Tokyo Institute of Technology
+- Lea Frermann, University of Melbourne
+- Lei CHEN, Finvolution Group
+- Lei Chen, Rakuten Institute of Technology, The University of Tokyo
+- Lei Li, University of Hong Kong
+- Lei Sha, Beihang University
+- Lei Shu, Google
+- Lei Wang, Institute of Information Engineering, Chinese Academy of Sciences
+- Lei Wang, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Chinese Academy of Sciences
+- Lei Wang, South China University of Technology
+- Lei Wang, Xinjiang Institute of physical and chemical technology, Chinese Academy of Sciences
+- Leo Wanner, Catalan Institute for Research and Advanced Studies, Universitat Pompeu Fabra
+- Leon Derczynski, NVIDIA, IT University of Copenhagen
+- Leonardo F. R. Ribeiro, Amazon
+- Leonardo Ranaldi, Idiap Research Institute
+- Leonid Boytsov, Amazon
+- Leshem Choshen, International Business Machines
+- Leyang Cui, Tencent AI Lab
+- Li Dong, Microsoft Research
+- Li Li, University of Science and Technology of China
+- Li Zhang, University of Pennsylvania
+- Liang Ding, Zhejiang University
+- Liang He, Tsinghua University, Tsinghua University
+- Liang He, Xi'an Jiaotong University
+- Liang Wang, CASIA
+- Liang-Chih Yu, Yuan Ze University
+- Liangming Pan, University of California, Santa Barbara
+- Liangyou Li, Huawei Noah's Ark Lab
+- Liat Ein-Dor, International Business Machines
+- Lidong Bing, Alibaba Group
+- Lifeng Jin, Tencent AI Lab
+- Lifeng Shang, Huawei Technologies Ltd.
+- Lifu Huang, Virginia Tech
+- Lijie Wang, Baidu
+- Lijun Wu, ByteDance
+- Lili Mou, University of Alberta
+- Lin Gui, King's College London, University of London
+- Lin Sun, Zhejiang University City College
+- Linfeng Song, Tencent AI Lab
+- Linyang Li, Fudan University
+- Linyong Nan, Yale University
+- Lis Pereira, National Institute of Information and Communications Technology (NICT), National Institute of Advanced Industrial Science and Technology
+- Liviu P Dinu, University of Bucharest
+- Lizi Liao, Singapore Management University
+- Loic Barrault, Meta AI
+- Long Chen, The Hong Kong University of Science and Technology
+- Longyue Wang, Tencent AI Lab
+- Lori Levin, School of Computer Science, Carnegie Mellon University
+- Lu Chen, Shanghai Jiaotong University
+- Lu Zhang, Peking University
+- Luca Soldaini, Allen Institute for Artificial Intelligence
+- Lucia Passaro, Universita' di Pisa, University of Pisa
+- Luciana Benotti, Universidad nacional de Córdoba 
+- Lucy Lu Wang, University of Washington, Allen Institute for Artificial Intelligence
+- Luheng He, Google
+- Luis Espinosa-Anke, Cardiff University, AMPLYFI
+- Lukas Lange, Robert Bosch GmbH, Bosch
+- Luke Gessler, Indiana University
+- Lynda Lechani Tamine, Institut de Recherche en Informatique de Toulouse
+- M Saiful Bari, National Centre of Artificial Intelligence, Saudi Data and AI Authority
+- Maarten Sap, Carnegie Mellon University
+- Machel Reid, Google
+- Maciej Ogrodniczuk, Institute of Computer Science, Polish Academy of Sciences
+- Mahnoosh Mehrabani, Interactions Corp.
+- Maja Popovic, IU International University of Applied Sciences, Dublin City University
+- Makoto Miwa, Toyota Technological Institute, Tokyo Institute of Technology
+- Mali Jin, University of Sheffield
+- Mamoru Komachi, Hitotsubashi University
+- Manaal Faruqui, Google
+- Manabu Okumura, Tokyo Institute of Technology, Tokyo Institute of Technology
+- Mandar Joshi, Google DeepMind
+- Maneesh Kumar Singh, Spector Inc
+- Manfred Stede, Universität Potsdam
+- Manish Shrivastava, International Institute of Information Technology Hyderabad, India
+- Manling Li, Northwestern University
+- Manzil Zaheer, Zaheer, DeepMind
+- Marcel Bollmann, Linköping University
+- Marcello Federico, Amazon
+- Marcin Junczys-Dowmunt, Microsoft
+- Marco Kuhlmann, Linköping University
+- Marco Lippi, University of Florence
+- Marco Turchi, Zoom
+- Marco Valentino, Idiap Research Institute
+- Marcos Vinicius Treviso, Instituto de Telecomunicações, Portugal
+- Marcos Zampieri, George Mason University
+- Marek Rei, Imperial College London
+- Margot Mieskes, University of Applied Sciences Darmstadt
+- Maria Antoniak, Allen Institute for Artificial Intelligence
+- Maria Leonor Pacheco, University of Colorado at Boulder
+- Maria Lomeli, Meta
+- Maria Nadejde, Amazon
+- Maria Ryskina, Massachusetts Institute of Technology
+- Mariana Neves, German Federal Institute for Risk Assessment
+- Marie-Catherine de Marneffe, UCLouvain
+- Marie-Francine Moens, KU Leuven, KU Leuven
+- Marine Carpuat, University of Maryland, College Park
+- Mario Giulianelli, Department of Computer Science, ETHZ - ETH Zurich
+- Marius Mosbach, McGill University, Mila - Quebec Artificial Intelligence Institute
+- Mariya Toneva, Max Planck Institute for Software Systems
+- Mark Anderson, Norsk Regnesentral
+- Mark Finlayson, Florida International University
+- Mark Fishel, University of Tartu
+- Mark G. Lee, University of Birmingham
+- Mark Last, Ben-Gurion University of the Negev
+- Markus Dreyer, Amazon
+- Martin Tutek, Technion - Israel Institute of Technology, Technion
+- Mary Ellen Foster, University of Glasgow
+- Masaaki Nagata, NTT Corporation
+- Matan Orbach, International Business Machines
+- Matteo Negri, Fondazione Bruno Kessler
+- Matthew B.A. McDermott, Harvard University
+- Matthew R. Gormley, Solventum, School of Computer Science, Carnegie Mellon University
+- Matthias Gallé, Cohere
+- Mausam ., Indian Institute of Technology Delhi
+- Max Müller-Eberstein, Ludwig-Maximilians-Universität München, IT University of Copenhagen
+- Maxime Peyrard, CNRS
+- Md Arafat Sultan, International Business Machines
+- Md Shad Akhtar, Indraprastha Institute of Information Technology, Delhi
+- Meishan Zhang, Harbin Institute of Technology (Shenzhen), China, Tianjin University, China
+- Melanie Siegel, Darmstadt University of Applied Sciences
+- Meng Fang, University of Liverpool, Eindhoven University of Technology
+- Mengting Hu, Nankai University
+- Menno van Zaanen, North-West University
+- Michael Elhadad, Ben Gurion University of the Negev
+- Michael Hahn, Universität des Saarlandes
+- Michael Heck, Heinrich Heine Universität Düsseldorf
+- Michael Johnston, Amazon
+- Michael Sejr Schlichtkrull, Queen Mary, University of London
+- Michael White, Ohio State University
+- Michael Zeng, Microsoft
+- Michal Lukasik, Google Research
+- Miguel Ballesteros, Amazon
+- Mike Lewis, Facebook AI Research
+- Mikel Artetxe, Reka AI
+- Min Yang, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Chinese Academy of Sciences
+- Min zhang, Harbin Institute of Technology
+- Ming Liu, Harbin Institute of Technology
+- Ming Zhang, Peking University
+- Minlong Peng, Baidu
+- Mirella Lapata, Edinburgh University, University of Edinburgh
+- Mitesh M Khapra, Indian Institute of Technology, Madras, Dhirubhai Ambani Institute Of Information and Communication Technology
+- Mo Yu, WeChat AI, Tencent
+- Mohamad Hardyman Barawi, Universiti Malaysia Sarawak
+- Mohamed Abdalla, University of Alberta, Institute for Better Health, Trillium Health Partners
+- Mohamed Morchid, University of Avignon
+- Mohammad Shoeybi, NVIDIA
+- Mohit Bansal, University of North Carolina at Chapel Hill
+- Monica Agrawal, Duke University, Layer Health
+- Monojit Choudhury, Mohamed bin Zayed University of Artificial Intelligence
+- Mor Geva, Tel Aviv University, Google Research
+- Muhao Chen, University of California, Davis, University of Southern California
+- Mustafa Jarrar, Birzeit University
+- Muthu Kumar Chandrasekaran, Accenture
+- Nadi Tomeh, Université Sorbonne Paris Nord
+- Nafise Sadat Moosavi, University of Sheffield
+- Nan Duan, Microsoft Research Asia
+- Naoaki Okazaki, Tokyo Institute of Technology
+- Naoki Yoshinaga, Institute of Industrial Science, the University of Tokyo
+- Naomi Feldman, University of Maryland, College Park
+- Naomi Saphra, Harvard University
+- Naoya Inoue, RIKEN, Japan Advanced Institute of Science and Technology
+- Nasser Zalmout, Amazon
+- Natalie Parde, University of Illinois Chicago
+- Natalie Schluter, Technical University of Denmark, Apple, IT University
+- Navonil Majumder, Singapore University of Technology and Design
+- Nedim Lipka, Adobe Systems
+- Nedjma Ousidhoum, Cardiff University
+- Nianwen Xue, Brandeis University
+- Nils Feldhus, German Research Center for AI
+- Ningyu Zhang, Zhejiang University
+- Niyati Chhaya, Adobe Research
+- Nizar Habash, New York University Abu Dhabi
+- Noah A. Smith, University of Washington, Allen Institute for Artificial Intelligence
+- Nona Naderi, Université Paris-Saclay
+- Oana Cocarascu, King's College London
+- Oleg Rokhlenko, Amazon
+- Olga Vechtomova, University of Waterloo
+- Oliver Lemon, Heriot-Watt University
+- Olivier Pietquin, Cohere, Earth Species Project
+- Omer Goldman, Bar Ilan University
+- Omri Abend, Hebrew University of Jerusalem
+- Ondrej Dusek, Charles University, Prague
+- Orhan Firat, Google
+- Paolo Rosso, Universitat Politècnica de València
+- Paolo Torroni, University of Bologna
+- Parminder Bhatia, GEHC
+- Pascal Denis, INRIA
+- Pascale Fung, HKUST
+- Patrick Ng, Amazon
+- Patrick Watrin, UCL
+- Paul A. Crook, Meta
+- Paul Buitelaar, University of Galway
+- Paul N. Bennett, Spotify 
+- Paul Pu Liang, Carnegie Mellon University
+- Paula Carvalho, INESC-ID
+- Pavel Braslavski, Nazarbayev University
+- Pawan Goyal, IIT Kharagpur
+- Pei Ke, Tsinghua University
+- Peijie Huang, South China Agricultural University
+- Peng Fu, Institute of Information Engineering, Chinese Academy of Sciences
+- Peng Li, Tsinghua University
+- Peng Qi, Amazon
+- Peng Qian, Massachusetts Institute of Technology, Harvard University
+- Peng Zhang, Fudan University
+- Pengfei Cao, Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+- Pengfei Liu, Shanghai Jiaotong University
+- Pepa Atanasova, University of Copenhagen
+- Peter Clark, Allen Institute for Artificial Intelligence
+- Peter Hase, University of North Carolina, Chapel Hill
+- Peter Heeman, Oregon Health Sciences University
+- Peter Makarov, Google
+- Philippe Laban, SalesForce.com
+- Philippe Langlais, Université de Montréal
+- Phillip Smith, University of Birmingham
+- Pierpaolo Basile, University of Bari
+- Pierre Nugues, Lund University
+- Piji Li, Nanjing University of Aeronautics and Astronautics
+- Piyawat Lertvittayakumjorn, Google
+- Pradeep Dasigi, Allen Institute for Artificial Intelligence
+- Prafulla Kumar Choubey, SalesForce.com
+- Pranaydeep Singh, Universiteit Gent
+- Prasanna Parthasarathi, McGill University
+- Preethi Jyothi, Indian Institute of Technology Bombay
+- Prodromos Malakasiotis, Athens University of Economics and Business, Workable
+- Pu-Jen Cheng, National Taiwan University
+- Qi Liu, University of Science and Technology of China
+- Qi Su, Peking University
+- Qian Chen, Alibaba Group
+- Qian Liu, Sea AI Lab
+- Qiang Ning, AWS AI
+- Qiang Zhou, Amazon
+- Qiaoming Zhu, Soochow University
+- Qin Jin, Renmin University of China
+- Qing Gu, Nanjing University
+- Qing Li, The Hong Kong Polytechnic University, Hong Kong Polytechnic University
+- Qing Lyu, University of Pennsylvania
+- Qingqing Cao, Apple
+- Qingyu Zhou, OPPO Research Institute
+- Qinliang Su, SUN YAT-SEN UNIVERSITY
+- Qiongkai Xu, Macquarie University
+- Qun Liu, Huawei Noah's Ark Lab
+- Radhika Mamidi, International Institute of Information Technology Hyderabad, Dhirubhai Ambani Institute Of Information and Communication Technology
+- Radu Florian, International Business Machines
+- Radu Tudor Ionescu, Universitatea Bucuresti
+- Raj Dabre, National Institute of Information and Communications Technology (NICT), National Institute of Advanced Industrial Science and Technology
+- Rajakrishnan P Rajkumar, IISER Bhopal
+- Ramakanth Pasunuru, Meta Platforms Inc
+- Ran Levy, Amazon
+- Raphael Rubino, University of Geneva
+- Raphael Tang, Comcast
+- Rebecca J. Passonneau, Pennsylvania State University
+- Reinald Kim Amplayo, Google
+- Reut Tsarfaty, Google, Bar-Ilan University, Technion
+- Richard Johansson, Chalmers University of Technology, Göteborg University
+- Richard Tzong-Han Tsai, National Central University
+- Richard Yuanzhe Pang, Meta
+- Rico Sennrich, University of Zurich, University of Edinburgh
+- Rik Koncel-Kedziorski, Apple
+- Robert Litschko, Ludwig-Maximilians-Universität München
+- Roberto Basili, University of Roma, Tor Vergata
+- Roberto Navigli, Sapienza University of Rome
+- Robin Jia, University of Southern California
+- Roee Aharoni, Google
+- Ronan Le Bras, Allen Institute for Artificial Intelligence
+- Roy Bar-Haim, International Business Machines
+- Roy Ka-Wei Lee, Singapore University of Technology and Design, University of Saskatchewan
+- Ru Li, Shanxi University
+- Rudra Murthy, IBM India Ltd
+- Rui Yan, Renmin University of China
+- Rui Zhang, University of Minnesota - Twin Cities
+- Ruifeng Xu, Harbin Institute of Technology
+- Ruihai Dong, University College Dublin
+- Ruiyi Zhang, Adobe Systems
+- Ruken Cakici, METU, Middle East Technical University
+- Ruobing Xie, Tencent
+- Ruotian Ma, Fudan University
+- Ryan McDonald, ASAPP
+- Ryohei Sasano, Nagoya University
+- Ryoko Tokuhisa, Tohoku University
+- Ryuichiro Higashinaka, Nagoya University, NTT
+- Saab Mansour, Amazon
+- Saadia Gabriel, University of California, Los Angeles
+- Sahar Ghannay, Universuté paris saclay
+- Saku Sugawara, National Institute of Informatics
+- Saloni Potdar, Apple
+- Salvatore Romeo, Amazon
+- Sameer Pradhan, University of Pennsylvania, Cemantix
+- Samuel Mensah, University of Sheffield
+- Samuel R. Bowman, New York University, Anthropic
+- Sandhya Singh, Indian Institute of Technology, Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology
+- Sandipan Dandapat, Microsoft
+- SangKeun Lee, Korea University
+- Sanjeev Khudanpur, Whiting School of Engineering
+- Sara Stymne, Uppsala University
+- Sarah Wiegreffe, Allen Institute for Artificial Intelligence
+- Sarath Chandar, Polytechnique Montreal
+- Sarvnaz Karimi, CSIRO
+- Sebastian Gehrmann, Bloomberg
+- Seid Muhie Yimam, Universität Hamburg
+- Seokhwan Kim, Amazon
+- Seong-Bae Park, Kyung Hee University
+- Serena Villata, CNRS
+- Serguei V. S. Pakhomov, University of Minnesota - Twin Cities
+- Shachar Mirkin, London Stock Exchange Group (LSEG)
+- Shafiq Joty, SalesForce.com, Nanyang Technological University
+- Shamsuddeen Hassan Muhammad, Bayero University, Kano-Nigeria
+- Shane Steinert-Threlkeld, University of Washington, Seattle
+- Shaohan Huang, Microsoft
+- Sharon Goldwater, University of Edinburgh
+- Shashank Srivastava, University of North Carolina at Chapel Hill, University of North Carolina, Chapel Hill
+- Shashi Narayan, Google
+- Sheng Zhang, Microsoft
+- Shengxiang Gao, Kunming University of Science and Technology
+- Shervin Malmasi, Amazon
+- Shih-Fu Chang, Columbia, Columbia University
+- Shijie Wu, Bloomberg
+- Shijin Wang, State Key Laboratory of Cognitive Intelligence
+- Shikun Zhang, Peking University
+- Shiwan Zhao, Independent Researcher
+- Shiyu Chang, UC Santa Barbara
+- Shiyue Zhang, Bloomberg
+- Shizhe Diao, Hong Kong University of Science and Technology
+- Shizhu He, Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+- Shou-De Lin, National Taiwan University
+- Shoushan Li, Soochow University
+- Shrikanth Narayanan, University of Southern California
+- Shruti Rijhwani, Google DeepMind
+- Shuai Zhang, Amazon
+- Shuai Zhang, Tsinghua University, Tsinghua University
+- Shubhashis Sengupta, Accenture
+- Shubhra Kanti Karmaker Santu, Auburn University
+- Shuming Shi, Tencent AI Lab
+- Shuo Zhang, Bloomberg
+- Shuohang Wang, Microsoft
+- Shweta Yadav, University of Illinois at Chicago
+- Siddharth Patwardhan, Apple
+- Siliang Tang, Zhejiang University
+- Simeng Sun, NVIDIA
+- Simon Clematide, University of Zurich
+- Simone Conia, Sapienza University of Rome
+- Simone Filice, Amazon
+- Simone Paolo Ponzetto, University of Mannheim
+- Sirui Wang, Tsinghua University, Tsinghua University
+- Siu Cheung Hui, Nanyang Technological University
+- Sivaji Bandyopadhyay, Jadavpur University
+- Smaranda Muresan, Amazon, Columbia University
+- Snigdha Chaturvedi, Department of Computer Science, University of North Carolina, Chapel Hill
+- Sopan Khosla, Amazon Web Services
+- Soroush Vosoughi, Dartmouth College
+- Srini Iyer, University of Washington, Seattle, Department of Computer Science, University of Washington
+- Stella Markantonatou, ATHENA RIC
+- Stephen Clark, Quantinuum
+- Steven Bethard, University of Arizona
+- Su Zhu, AISpeech Co., Ltd.
+- Suchin Gururangan, Facebook, University of Washington, Seattle
+- Sudeshna Sarkar, Indian Institute of Technology Kharagpur, Dhirubhai Ambani Institute Of Information and Communication Technology
+- Sudha Rao, Microsoft
+- Sujian Li, Peking University
+- Sumeet Kumar, Indian School of Business
+- Sunayana Sitaram, Microsoft
+- Sweta Agrawal, Instituto de Telecomunicações
+- Syrielle Montariol, EPFL - EPF Lausanne
+- Sérgio Matos, Universidade de Aveiro
+- Taeuk Kim, Hanyang University
+- Takashi Ninomiya, Ehime University
+- Tanmoy Chakraborty, Indian Institute of Technology, Delhi
+- Tanya Goyal, Princeton University
+- Tao Ge, Microsoft Research
+- Tao Li, Google
+- Tao Wang, King's College London, University of London
+- Tapas Nayak, Tata Consultancy Services Limited, India
+- Tat-Seng Chua, National University of Singapore
+- Tatsuki Kuribayashi, Mohamed bin Zayed University of Artificial Intelligence
+- Taylor Berg-Kirkpatrick, University of California, San Diego
+- Tejas Gokhale, University of Maryland, Baltimore County
+- Terra Blevins, University of Washington
+- Terufumi Morishita, Hitachi, ltd
+- Tetsuya Sakai, NAVER, Waseda University
+- Thang Vu, University of Stuttgart, University of Stuttgart
+- Thanh-Le Ha, Zoom Video Communications
+- Thien Huu Nguyen, , University of Oregon
+- Thomas Brochhagen, Universitat Pompeu Fabra
+- Thomas Lukasiewicz, Institute of Logic and Computation, Technische Universität Wien, Department of Computer Science, University of Oxford
+- Thomas Müller, Amazon
+- Thuy Vu, Amazon Alexa AI
+- Tiago Pimentel, Department of Computer Science, ETHZ - ETH Zurich
+- Tianlu Wang, Meta
+- Tianyu Gao, Princeton University
+- Tianze Shi, Google
+- Tiejun Zhao, Harbin Institute of Technology
+- Tieyun Qian, Wuhan University
+- Timo Baumann, OTH Regensburg
+- Timothee Mickus, University of Helsinki
+- Timothy A Miller, Harvard University
+- Timothy Baldwin, Mohamed bin Zayed University of Artificial Intelligence, The University of Melbourne
+- Ting Liu, Harbin Institute of Technology
+- Tingwen Liu, Institute of Information Engineering, Chinese Academy of Sciences
+- Tirthankar Ghosal, Oak Ridge National Laboratory
+- Tomasz Dwojak, Snowflake Inc.
+- Tommaso Caselli, University of Groningen
+- Tommaso Pasini, University of Copenhagen
+- Tong Niu, Salesforce Research
+- Tong Xiao, Northeastern University
+- Tong Zhang, South China University of Technology
+- Traian Rebedea, NVIDIA, University Politehnica of Bucharest
+- Trang Tran, USC Institute for Creative Technologies
+- Tsung-Hsien Wen, University of Cambridge
+- Tu Vu, Google
+- Tuhin Chakrabarty, SalesForce Research
+- Udo Kruschwitz, University of Regensburg
+- Vahid Partovi Nia, Huawei Technologies Ltd., Polytechnique Montreal
+- Valentin Barriere, Universidad de Chile
+- Valentin Hofmann, Allen Institute for Artificial Intelligence
+- Valentina Pyatkin, Allen Institute for Artificial Intelligence
+- Vasile Pais, Research Institute for Artificial Intelligence "Mihai Draganescu", Romanian Academy
+- Vasu Sharma, Facebook
+- Vera Demberg, Universität des Saarlandes
+- Verna Dankers, University of Edinburgh
+- Veronica Perez-Rosas, University of Michigan - Ann Arbor
+- Vicente Ordonez, Rice University, Amazon Alexa AI
+- Victor Zhong, University of Waterloo
+- Vikram Pudi, International Institute of Information Technology Hyderabad, Dhirubhai Ambani Institute Of Information and Communication Technology
+- Viktor Hangya, The Center for Information and Language Processing, University of Munich
+- Viktor Schlegel, ASUS Intelligent Cloud Solutions
+- Vincent Claveau, DGA
+- Vivek Gupta, University of Pennsylvania, United States
+- Vivek Srikumar, University of Utah
+- Vladimir Eidelman, FiscalNote, Inc.
+- Vukosi Marivate, University of Pretoria
+- Víctor M. Sánchez-Cartagena, Universidad de Alicante
+- Wai Lam, The Chinese University of Hong Kong
+- Walter W Chang, Adobe Systems
+- Wangchunshu Zhou, AIWaves Inc.
+- Wanxiang Che, Harbin Institute of Technology
+- Wei Bi, Tencent AI Lab
+- Wei Chen, Huazhong University of Science and Technology
+- Wei Cheng, NEC-Labs
+- Wei Li, Institute of Computing Technology, Chinese Academy of Sciences
+- Wei Liu, University of Western Australia
+- Wei Song, Capital Normal University
+- Wei Wang, Alibaba Group
+- Wei Wang, The Hong Kong University of Science and Technology
+- Wei Ye, Peking University
+- Wei Zhang, East China Normal University
+- Wei-Yun Ma, Academia Sinica
+- Weihua Luo, Alibaba Group
+- Weinan Zhang, Harbin Institute of Technology
+- Weiping Wang, IIE
+- Weiqi Wang, The Hong Kong University of Science and Technology
+- Weiwei Sun, University of Cambridge
+- Weixin Zeng, National University of Defense Technology
+- Weiyan Shi, Stanford University
+- Wenhao Yu, Tencent AI Lab
+- Wenhu Chen, University of Waterloo, Google
+- Wenjie Li, The Hong Kong Polytechnic University, The Hong Kong Polytechnic University
+- Wenjuan Han, Beijing Jiaotong University
+- Wenliang Chen, Soochow University, China
+- Wenya Wang, Nanyang Technological University
+- Willem Zuidema, University of Amsterdam
+- William Schuler, Ohio State University, Columbus
+- William W. Cohen, Google DeepMind
+- Wonseok Hwang, University of Seoul, LBox Co., Ltd.
+- Wray Buntine, VinUniversity
+- Xi Victoria Lin, Facebook, Department of Computer Science, University of Washington
+- Xi Ye, UT Austin
+- Xian Li, Facebook AI
+- Xiang Ao, Institute of Computing Technology, Chinese Academy of Sciences, University of the Chinese Academy of Sciences
+- Xiang Wan, Shenzhen Research Institute of Big Data
+- Xiang Yu, Amazon
+- Xiang Zhou, Google
+- Xiangliang Zhang, University of Notre Dame
+- Xiangyu Duan, Soochow University, China
+- Xianpei Han, Institute of Software, CAS
+- Xiaocheng Feng, Harbin Institute of Technology
+- Xiaodan Liang, SUN YAT-SEN UNIVERSITY
+- Xiaodan Zhu, Queen's University
+- Xiaodong Liu, Microsoft Research
+- Xiaofeng He, East China Normal University
+- Xiaojie Yuan, Nankai University
+- Xiaojuan Ma, Hong Kong University of Science and Technology
+- Xiaojun Quan, SUN YAT-SEN UNIVERSITY
+- Xiaojun Wan, Peking University
+- Xiaoli Li, Nanyang Technological University
+- Xiaoxi Mao, ByteDance Inc.
+- Xiaoxiao Guo, LinkedIn
+- Xiaozhi Wang, Department of Computer Science and Technology, Tsinghua University
+- Xie Chen, Shanghai Jiaotong University
+- Xilun Chen, Meta AI
+- Ximing Lu, Department of Computer Science, University of Washington
+- Xin Eric Wang, University of California, Santa Cruz
+- Xin Li, City University of Hong Kong
+- Xin Wang, Chinese Academy of Sciences
+- Xin Wang, Jilin University
+- Xin Zhao, Renmin University of China
+- Xing Wang, Tencent AI Lab
+- Xing Xie, Microsoft
+- Xingshan Zeng, Huawei Technologies Ltd.
+- Xingxing Zhang, Microsoft Research Asia
+- Xingyi Song, University of Sheffield
+- Xinnian Liang, Beihang University
+- Xinran Zhao, CMU, Carnegie Mellon University
+- Xinya Du, University of Texas at Dallas
+- Xinyan Xiao, Baidu
+- Xinyu Wang, Alibaba Group
+- Xipeng Qiu, Fudan University
+- Xiujun Li, Apple, University of Washington
+- Xiuyi Chen, Baidu
+- Xiuying Chen, King Abdullah University of Science and Technology
+- Xu Tan, Microsoft
+- Xuebo Liu, Harbin Institute of Technolgy, Shenzhen
+- Xueqi Cheng, , Chinese Academy of Sciences
+- Xuezhi Wang, Google
+- Xuming Hu, The Hong Kong University of Science and Technology (Guangzhou), Hong Kong University of Science and Technology
+- Yadollah Yaghoobzadeh, University of Tehran
+- Yaliang Li, Alibaba Group
+- Yan Song, University of Science and Technology of China
+- Yan Wang, miHoYo
+- Yan Zhang, Hubei University
+- Yanai Elazar, Allen Institute for Artificial Intelligence, Department of Computer Science
+- Yanan Cao, Institute of Information Engineering, Chinese Academy of Sciences
+- Yang Deng, National University of Singapore
+- Yang Gao, Google
+- Yang Liu, Microsoft
+- Yang Song, Kuaishou Technology
+- Yang Xiang, Peng Cheng Laboratory
+- Yang Zhang, CISPA Helmholtz Center for Information Security
+- Yang Zhang, University of Illinois at Urbana-Champaign
+- Yang Zhao, Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+- Yangfeng Ji, University of Virginia
+- Yanghui Rao, SUN YAT-SEN UNIVERSITY
+- Yangqiu Song, The Hong Kong University of Science and Technology
+- Yangyi Chen, Department of Computer Science, University of Illinois at Urbana-Champaign
+- Yanjun Qi, Amazon, University of Virginia
+- Yankai Lin, Renmin University of China
+- Yannick Parmentier, Université de Lorraine
+- Yannick Versley, Amazon
+- Yanyang Li, The Chinese University of Hong Kong
+- Yao Wan, Huazhong University of Science and Technology
+- Yaojie Lu, Institute of Software, Chinese Academy of Sciences
+- Yassine Benajiba, Columbia University
+- Yasuhide Miura, FUJIFILM
+- Yeyun Gong, Microsoft
+- Yezhou Yang, Arizona State University
+- Yftah Ziser, University of Edinburgh
+- Yi Chang, Jilin University, China
+- Yi Fang, Santa Clara University
+- Yi Fung, University of Illinois at Urbana-Champaign
+- Yi Liu, State Key Laboratory of Communication Content Cognition
+- Yi Ren, ByteDance
+- Yi Yang, ASAPP Inc
+- Yi Yang, Zhejiang University
+- Yi Zhang, Amazon
+- Yi Zhou, Cardiff University
+- Yi Zhou, Johns Hopkins University
+- Yi Zhou, University of Science and Technology of China
+- Yi-Ling Chung, Alan Turing Institute
+- Yichen Jiang, Department of Computer Science, University of North Carolina, Chapel Hill
+- Yichong Xu, Microsoft
+- Yidong Chen, Xiamen University
+- Yifan Gao, Amazon
+- Yifei Zhang, Northeastern University
+- Yilin Shen, Samsung Research America
+- Yiming Cui, iFLYTEK Research
+- Yin Zhang, Zhejiang University
+- Ying Zhang, Nankai University
+- Yingbo Zhou, Salesforce Research
+- Yixin Cao, Singapore Management University
+- Yizhe Zhang, Apple
+- Yongbin Li, Alibaba Group
+- Yongjing Yin, Westlake University
+- Yongliang Shen, Tsinghua University, Tsinghua University
+- Yoshimasa Tsuruoka, The University of Tokyo
+- Yova Kementchedjhieva, Mohamed bin Zayed University of Artificial Intelligence
+- Yu Cheng, The Chinese University of Hong Kong
+- Yu Li, Columbia University, University of California, Davis
+- Yu Su, Ohio State University, Microsoft
+- Yu Tsao, Academia Sinica
+- Yu Zhang, Southern University of Science and Technology
+- Yu Zhao, Tencent AI Lab
+- Yu Zhou, Institute of Automation, Chinese Academy of Sciences
+- Yu-Hsiang Tseng, Eberhard-Karls-Universität Tübingen
+- Yuan Yao, The Hong Kong University of Science and Technology
+- Yuan-Fang Li, Monash University
+- Yuanhe Tian, University of Washington, Seattle
+- Yuanxin Liu, Peking University
+- Yue Wang, The Hang Seng University of Hong Kong
+- Yue Yu, Georgia Institute of Technology
+- Yue Yu, National University of Defense Technology, PengCheng Lab
+- Yue Zhang, Westlake University
+- Yuexian Zou, Peking University
+- Yufan Jiang, Tencent Cloud Xiaowei
+- Yufei Li, University of California, Riverside
+- Yuichiroh Matsubayashi, Tohoku University
+- Yujia Qin, Tsinghua University, Tsinghua University
+- Yuki Arase, Tokyo Institute of Technology, Tokyo Institute of Technology, AIST, National Institute of Advanced Industrial Science and Technology
+- Yulong Chen, University of Cambridge
+- Yumo Xu, AWS AI Labs
+- Yun-Nung Chen, Department of Computer Science and Informational Engineering, National Taiwan University
+- Yunfang Wu, Peking University
+- Yuning Mao, Meta
+- Yunsu Kim, aiXplain, Inc.
+- Yunyao Li, Adobe Systems
+- Yuval Marton, Genentech , University of Washington
+- Yuxian Meng, JQ Investments
+- Yuxuan Lai, The Open University of China
+- Zaixiang Zheng, ByteDance Research
+- Zeerak Talat, Mohamed bin Zayed University of Artificial Intelligence
+- Zenglin Xu, Harbin Institute of Technology, Shenzhen
+- Zhaochun Ren, Leiden University
+- Zhaojiang Lin, Facebook
+- Zhaopeng Tu, Tencent AI Lab
+- Zhaowei Wang, Department of Computer Science and Engineering, Hong Kong University of Science and Technology
+- Zhe Gan, Apple
+- Zhe Zhang, NetFlix
+- Zhen Huang, National University of Defense Technology
+- Zhen Yang, Tencent.inc
+- Zheng Zhang, Beijing Academy of Artificial Intelligence
+- Zhenghao Liu, Northeastern University
+- Zhenghua Li, Soochow University, China
+- Zhenglu Yang, Nankai University
+- Zhengtao Yu, Kunming University of Science and Technology
+- Zhenyu Zhang, Alibaba Group
+- Zhenyu Zhang, Baidu Inc.
+- Zhenyun Deng, University of Cambridge
+- Zhi Chen, Shanghai AI Laboratory
+- Zhicheng Dou, Renmin University of China
+- Zhifei Li, Hubei University
+- Zhigang Chen, iFLYTEK Research
+- Zhiguang Wang, Snap Inc.
+- Zhiguo Wang, Amazon
+- Zhihao Fan, Alibaba Group
+- Zhijiang Guo, University of Cambridge
+- Zhiliang Tian, National University of Defense Technology
+- Zhirui Zhang, Tencent AI Lab
+- Zhiyang Teng, ByteDance Inc.
+- Zhiyong Wu, Shanghai Artificial Intelligence Laboratory
+- Zhiyu Chen, Carnegie Mellon University
+- Zhiyuan Liu, National University of Singapore
+- Zhongjun He, Baidu
+- Zhongqing Wang, Soochow University, China
+- Zhuang Chen, Tsinghua University, Tsinghua University
+- Zhuosheng Zhang, Shanghai Jiao Tong University
+- Zi-Yi Dou, University of California, Los Angeles
+- Ziqiang Cao, Soochow University, China
+- Ziyu Yao, George Mason University
+- bo xu, Institute of automation, Chinese academy of science, Chinese Academy of Sciences
+- gokhan tur, University of Illinois at Urbana-Champaign
+- hai zhao, Shanghai Jiao Tong University
+- vishwajeet kumar, International Business Machines
+- yelong shen, Microsoft
+- zhongyu wei, Fudan University
