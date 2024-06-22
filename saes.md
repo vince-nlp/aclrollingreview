@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Senior Action Editors"
-permalink: /SAEs
+permalink: /saes
 
 ---
 - Aakanksha Naik, Allen Institute for Artificial Intelligence, National Institutes of Health
