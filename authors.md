@@ -56,7 +56,7 @@ All submitted materials must be **anonymized**. Submissions and any supplementar
 Before submitting, ensure that:
 - Your paper is not already under review, published, or on track to be published at any archival venue. ("Under review" includes papers for which prior ARR reviews have been committed to a venue, and a decision is pending—see [Step 5](#step5).)
 - Your paper satisfies everything in the [author checklist](/authorchecklist)
-- Check the workload requirement. See [this blog post](https://aclrollingreview.org/reviewing-workload-requirement/)  for further information about this new (as of April 2024) requirement.
+- Check the reviewing workload requirement. See [this blog post](https://aclrollingreview.org/reviewing-workload-requirement/)  for further information about this new (as of April 2024) requirement.
 
 At the time of submission you may opt to have ARR publish your paper as an **anonymous preprint**. These will remain anonymous during and after the review process. If you wish to remove an anonymous preprint, please contact the ARR editors (see [People](/people)).
 
