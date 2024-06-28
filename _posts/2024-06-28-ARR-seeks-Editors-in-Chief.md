@@ -3,11 +3,7 @@ layout: post
 title: ACL Rolling Review is inviting nominations for several Editors in Chief positions
 ---
 
-The ACL Rolling Review (ARR) initiative is seeking nominations (self-nominations are permitted and encouraged), for several co-Editors-in-Chief (henceforth “EiCs”, with the “co-” understood) positions, serving a 2.5-year term
-
-[^1]:The last 6 months are not considered as full on EiCs but more of a transitions period to support training of new EiCs.
-
-. Successful candidates should be able to start at the end of summer or as early as possible.
+The ACL Rolling Review (ARR) initiative is seeking nominations (self-nominations are permitted and encouraged), for several co-Editors-in-Chief (henceforth “EiCs”, with the “co-” understood) positions, serving a 2.5-year term[^1]. Successful candidates should be able to start at the end of summer or as early as possible.
 
 ARR is increasingly used as the main submission channel for *CL conferences. In the last four cycles alone, ARR has received and managed, close to 10,000 submissions within 2 month cycles. To continue supporting these large cycles, there is a pressing need to scale the EiCs team managing the bi-monthly cycles. EiCs rotate to lead reviewing cycles. However, the entire team coordinates and oversees the following activities:
 
@@ -40,3 +36,6 @@ Statement of nominee’s goals/vision for ARR and/or relevant prior experience a
 Nominations will be acknowledged by reply email; should acknowledgment not be received within 3 days, please resend your email.
 
 The ARR board will evaluate the nominations and make decisions in coordination with the existing ARR EiC team, after which the search committee chair will contact the selected nominee via email. ARR board members are: Yuki Arase, Julia Hockenmeier, Smaranda Muersan, and EiC Thamar Solorio.
+
+[^1]:The last 6 months are not considered as full on EiCs but more of a transitions period to support training of new EiCs.
+
