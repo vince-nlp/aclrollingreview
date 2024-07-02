@@ -193,7 +193,7 @@ Contact: `tech at aclrollingreview.org`
 </div>
 
 <div class="person">
-  <img src="images/people/placeholder.jpg" alt="Ning Shi">
+  <img src="images/people/ning_shi.jpg" alt="Ning Shi">
   <div>
     <a href="https://sites.google.com/ualberta.ca/shining">Ning Shi</a><br>
     University of Alberta
