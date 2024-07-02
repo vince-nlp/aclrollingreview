@@ -177,7 +177,7 @@ Contact: `tech at aclrollingreview.org`
 </div>
 
 <div class="person">
-  <img src="images/people/placeholder.jpg" alt="Shubham Mittal">
+  <img src="images/people/shubham_mittal.jpg" alt="Shubham Mittal">
   <div>
     <a href="https://sm354.github.io/">Shubham Mittal</a><br>
     Google DeepMind
