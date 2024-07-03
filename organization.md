@@ -55,7 +55,7 @@ If you want general support regarding ARR, please contact `support at aclrolling
 <div class="person">
   <img src="images/people/viviane_moreira.jpg" alt="Viviane Moreira">
   <div>
-    <a href="https://www.vivianemoreira.org/">Viviane Moreira</a><br>
+    <a href="https://www.inf.ufrgs.br/~viviane/">Viviane Moreira</a><br>
     Universidade Federal do Rio Grande do Sul
   </div>
 </div>
