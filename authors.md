@@ -105,6 +105,7 @@ Some things to consider:
     - Generally we accept such requests, but the expectation is that papers have been revised based on the earlier reviews and it is up to the discretion of the action editors or editors in chief whether the request is granted. This request is not considered a mark against the paper. (We understand that a certain amount of subjectivity is present in reviewing and want to give papers a fair shot at brand new reviews.)
     - New reviewers will not see the prior reviews initially. Only after they submit their own review will they have access to the prior reviews (new in August 2023).
 - A revision does not have to accept every suggestion of every reviewer. Reviewers understand that there are limitations on what can be accomplished in a single paper. We recommend engaging with reviewers' constructive feedback in the explanation of revisions. Even if you request new reviewers, they will have access to reviews from previous rounds after submitting their own reviews, so ignoring good advice is not recommended.
+- A paper that has been previously submitted but fails to acknowledge the previous version will be desk rejected.
 
 Once you have submitted the revision, you return to [Step 2](#step2) above.
 
