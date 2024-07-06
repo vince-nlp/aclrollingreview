@@ -115,7 +115,7 @@ Submissions that violate requirements 1, 2, or 4 will be desk rejected.
 
 Authors may resubmit to ACL Rolling Review.
 
-- When resubmitting, authors must link to the previous submission.
+- When resubmitting, authors must provide a link to the previous submission. Any paper previously submitted that does not acknowledge its earlier version will be desk rejected.
 - When resubmitting, authors should provide a response to the previous reviews.
 - Resubmissions must be modified versions of the original submission that address issues raised by the reviewers and meta review; the authors may not simply resubmit the exact same paper, nor may they submit a completely new paper as if it were a resubmission. Resubmissions that ignore relevant feedback provided during the previous review round can be desk rejected by the EiC team.
 - If authors want to add an author as part of a resubmission, they may do so with justification; except in extremely rare circumstances, authors may not be removed.
