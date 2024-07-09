@@ -157,10 +157,10 @@ Contact: `editors at aclrollingreview.org`
 </div>
 
 <div class="person">
-  <img src="images/people/placeholder.jpg" alt="Dhruv Naik">
+  <img src="dhruv_naik.jpg" alt="Dhruv Naik">
   <div>
-    <a href="https://miis.cs.cmu.edu/people/222226666/dhruv-naik">Dhruv Naik</a><br>
-    Carnegie Mellon University
+    <a href="https://www.linkedin.com/in/dhruvrnaik/">Dhruv Naik</a><br>
+    Curai Health
   </div>
 </div>
 
