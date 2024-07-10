@@ -157,7 +157,7 @@ Contact: `editors at aclrollingreview.org`
 </div>
 
 <div class="person">
-  <img src="dhruv_naik.jpg" alt="Dhruv Naik">
+  <img src="images/people/dhruv_naik.jpg" alt="Dhruv Naik">
   <div>
     <a href="https://www.linkedin.com/in/dhruvrnaik/">Dhruv Naik</a><br>
     Curai Health
