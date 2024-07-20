@@ -41,6 +41,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [IWSLT 2024](https://iwslt.org) | February 15th, 2024 | May 28th, 2024 |
 | [INLG 2024](https://inlg2024.github.io/) | April 15th, 2024 | June 15th, 2024 |
 | [EMNLP 2024](https://2024.emnlp.org/) | June 15th, 2024 | August 20th, 2024 |
+| [CoNLL 2024](https://conll.org/2024) | June 15th, 2024 | August 30th, 2024 |
 
 ## Past Venues that Accepted ARR Submissions
 
