@@ -100,6 +100,14 @@ If you want general support regarding ARR, please contact `support at aclrolling
   </div>
 </div>
 
+<div class="person">
+  <img src="images/people/michael_white.jpg" alt="Michael White">
+  <div>
+    <a href="https://u.osu.edu/white.1240/">Michael White</a><br>
+    The Ohio State University
+  </div>
+</div>
+
 Contact: `editors at aclrollingreview.org`
 
 ## Ethics Chair
