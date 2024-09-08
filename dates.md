@@ -43,6 +43,7 @@ Current publication venues participating in ARR are listed below. If you represe
 | [EMNLP 2024](https://2024.emnlp.org/) | June 15th, 2024 | August 20th, 2024 |
 | [CoNLL 2024](https://conll.org/2024) | June 15th, 2024 | August 30th, 2024 |
 | [NLP4DH 2024](https://www.nlp4dh.com/nlp4dh-2024) | June 15th, 2024 | September 22nd, 2024 |
+| [CRAC 2024](https://sites.google.com/view/crac2024/) | June 15th, 2024 | September 22nd, 2024 |
 
 ## Past Venues that Accepted ARR Submissions
 
